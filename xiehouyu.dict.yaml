@@ -1,0 +1,965 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese Classical Poetry) - 明月拼音扩充词库（歇后语）
+#
+#   问道 <827496513@qq.com>
+#
+# 
+#
+# 
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 于重新部署后生效
+#
+
+---
+name: xiehouyu
+version: "2015.08.15"
+sort: by_weight
+use_preset_vocabulary: true
+...
+烧窑的盖房子——一举两得	yi ju liang de	1
+一个师父一路拳——各有各的打法	ge you fang fa	1
+一双脚踏两只船——三心二意	san xin er yi	1
+七仙女嫁董永——采取主动	zhu dong	1
+七八月的南瓜——皮老心不老	xin bu lao	1
+七尺汉子六尺门——不得不低头	di tou	1
+七石缸里捞芝麻——费功夫	fei gong fu	1
+丈二和尚——摸不着头脑	mo bu zhao	1
+丈母娘跺脚——悔之莫及	hou hui	1
+三个臭皮匠——顶个诸葛亮	he zuo	1
+三个醉汉撒酒疯——闹个不停	nao ge bu ting	1
+三个鼻孔眼儿——多一股子气	yi kou qi	1
+三九天吃梅子——寒酸	han suan	1
+三伏天的狗——上气不接下气	chuan qi	1
+三伏天的馊豆腐——变坏了	huai le	1
+三分钱买个臭猪蹄——贱货	jian huo	1
+三十六计——走为上计	tao zou	1
+三合板上雕花——刻薄	ke bo	1
+三寸舌头是软的——横说竖说都有理	you dao li	1
+三岔口的地保——管的宽	guan de kuan	1
+三斤半鸭子二斤半嘴——多嘴多舌	duo zui duo she	1
+三本经书掉了两本——一本正经	yi ben zheng jing	1
+三根缆绳拴两边——使偏劲	shi jin	1
+三百斤的野猪——全凭一张嘴	chui niu	1
+三角挫刀——面面有用	you yong	1
+三角砖头——摆不平	bai bu ping	1
+三顾茅庐——好难请	nan qing	1
+下地不穿鞋——脚踏实地	jiao ta shi di	1
+下大雪找蹄印——罕见	han jian	1
+下轿打轿伕——不识抬举	bu shi tai ju	1
+东洋人戴高帽——假充大个	mao chong	1
+丢了西瓜捡芝麻——因小失大	yin xiao shi da	1
+乞丐跳舞——穷快活	kuai huo	1
+乞丐过日子——全靠施舍	shi she	1
+买回彩电带回发票——有根有据	you gen you ju	1
+买帽子当鞋穿——不对头	bu dui tou	1
+买眼药进了石灰店——走错门	zou cuo	1
+买车不要骡子——后半截	hou ban bu fen	1
+二万五千里长征——任重道远	ren zhong dao yuan	1
+二不愣当家——出不了好主意	sou zhu yi	1
+二十一天不出鸡——坏蛋	huai dan	1
+二尺长的吹火筒——只有一个心眼	yi xin yi yi	1
+二流子打鼓——吊儿郎当	diao er lang dang	1
+二百加五十——二百五	er bai wu	1
+二郎神的印堂——独具只眼	mu guang du dao	1
+云南老虎蒙古骆驼——素不相识	su bu xiang shi	1
+井底青蛙——目光短浅	mu guang duan qian	1
+京戏走台步——慢慢挪	man tun tun	1
+亭子里谈心——讲风凉话	feng liang hua	1
+亮月下耍大刀——胡侃	hu kan	1
+人到古稀穿花衣——老来俏	lao lai qiao	1
+人在屋檐下——不得不低头	di tou	1
+人急跳窗户——慌不择路	huang bu ze lu	1
+人才市场填个表——自我推销	zi wo tui xiao	1
+人把狗咬死了——怪事一桩	guai shi	1
+人造牛黄——冒牌货	mao pai huo	1
+仇人相见——分外眼红	fen wai yan hong	1
+仙碰着白娘子——天降良缘	liang yuan	1
+仨钱买匹马——自骑自夸	zi kua	1
+你做生意我教书——人各有志	ren ge you zhi	1
+你卖门神我卖鬼——同行	tong hang	1
+你去南极我去北极——各走一端	ge zou ge de	1
+你有秤杆我有砣——配得起你	pei de shang	1
+便宜买回的处理品——贱货	jian huo	1
+俏媳妇戴凤冠——好上加好	hao shang jia hao	1
+借了一角还十分——分文不差	fen wen bu cha	1
+偶像面前磕头——毕恭毕敬	bi gong bi jing	1
+偷吃海椒挨耳光——里外发烧	li wai nan shou	1
+偷吃的猫儿——记吃不记打	jian wang	1
+偷来的喇叭——吹不得	chui bu de	1
+偷鸡不成——蚀把米	tou ji	1
+偷鸡不成蚀把米——得不偿失	de bu chang shi	1
+儿子不养娘——白疼了一场	bai fei gan qing	1
+兔子尾巴——长不了	chang bu liao	1
+入伏的高梁——天天向上	tian tian xiang shang	1
+八个歪脖坐一桌——谁也不正眼看谁	bu shun yan	1
+八仙聚会——神聊	shen liao	1
+八仙过海——各显神通	ge xian shen tong	1
+八十老人吹灯——上气不接下气	shang qi bu jie xia qi	1
+八月十五吃元宵——与众不同	yu zhong bu tong	1
+八月十五的月亮——正大光明	zheng da guang ming	1
+八百年前立的旗杆——老光棍	guang gun	1
+八级工拜师傅——精益求精	jing yi qiu jing	1
+八贤王进宫——好难请	nan qing	1
+关公走麦城——骄必败	jiao ao	1
+养在圈里的猪——少不了挨一刀	ai dao	1
+养麦地里抓王八——十拿九稳	shi na jiu wen	1
+养麦地里藏秃子——没有看出你来	ren bu chu	1
+冰糖煮黄莲——同甘共苦	tong gan gong ku	1
+决了堤的水——横冲直撞	heng chong zhi zhuang	1
+刚出土的黄连——苦苗苗	ku hai zi	1
+刚出山的太阳——红光满面	hong guang man mian	1
+刚出水的虾子——活蹦乱跳	huo beng luan tiao	1
+刚出炉的纯钢——宁折不弯	ning zhe bu wan	1
+刚扯帆就遇顶头风——出师不利	chu shi bu li	1
+刚逮住的鲤鱼——乱蹦乱跳	luan tiao	1
+判官拍照——鬼样子	gui yang zi	1
+判官敲门——催命鬼	cui ming gui	1
+判官玩魔术——鬼把戏	gui ba xi	1
+到火神庙求雨——找错了门	zhao cuo men	1
+剃头匠发火——置之不理	zhi zhi bu li	1
+剃头的动手——一触即发	yi chu ji fa	1
+前有强敌后有追兵——进退两难	jin tui liang nan	1
+剖腹献肝胆——死尽忠心	zhong xin	1
+剖鱼得珠——喜出望外	xi chu wang wai	1
+割下鼻子换面吃——不要脸	bu yao lian	1
+十五个吊桶打水——七上八下	qi shang ba xia	1
+十五只小船出海——七颠八倒	dian dao	1
+千年的大树——根深叶茂	gen shen ye mao	1
+千年的铜钟——经得起打击	jing da	1
+千斤顶干活——不怕压力大	kang ya	1
+千里送客——终有一别	zhong you yi bie	1
+千里送鹅毛——礼轻情意重	qing yi	1
+半夜三更放大炮——一鸣惊人	yi ming jing ren	1
+半夜做梦娶新娘——尽想好事	wang xiang	1
+半斤对八两——不相上下	bu xiang shang xia	1
+半空中骑马——腾云驾雾	teng yun jia wu	1
+半道上捡个喇叭——有吹的了	chui niu	1
+卖棺材的咬牙——恨人不死	hen xin	1
+卖棺材的闻人重病——暗喜欢	qie xi	1
+卤煮寒鸭子——肉烂嘴不烂	zui ying	1
+厕所里照镜子——臭美	chou mei	1
+又属百灵鸟又属袋鼠——会唱会跳	hui chang hui tiao	1
+双胞胎比长相——没两样	yi yang	1
+受潮的麻花——不干脆	bu gan cui	1
+叶公好龙——怕是真的	pa zhen de	1
+司马昭之心——路人皆知	dou zhi dao	1
+吃了对门谢隔壁——错了	cuo le	1
+吃鱼不吐骨头——带刺	dai ci	1
+同一个马鞍上的人——走的一个方向	fang xiang xiang tong	1
+听哑巴唱戏——莫名其妙	mo ming qi miao	1
+听见猫叫骨头酥——胆小如鼠	dan xiao	1
+吸饱风的帆——鼓足了劲	gu jing	1
+周瑜打黄盖——两厢情愿	qing yuan	1
+和尚打伞——无法无天	wu fa wu tian	1
+和尚训道士——管得宽	guan de kuan	1
+咬着铁棍还说牙齿硬——强装有本事	zhuang yang	1
+咸肉里加酱油——多此一举	duo ci yi ju	1
+咸菜缸里养白螺——难养活	nan yang	1
+咸鱼落塘——不知死活	bu zhi si huo	1
+哼哈二将斗法——喷云吐雾	pen yun tu wu	1
+唱戏的穿龙袍——成不了皇帝	jia de	1
+唱戏的胡子——假的	jia de	1
+唱歌不看曲本——离谱	li pu	1
+啃着鱼骨聊天——话中带刺	nan ting	1
+喉咙长刺口生疮——说不出好话来	nan ting	1
+喜马拉雅山上卖牛黄——又高又贵	gao gui	1
+喜鹊落头上——红运将至	hao yun	1
+嘎小子买烧鸡——闹了个大窝脖	lian hong	1
+圆桌会议——不分上下	bu fen shang xia	1
+圆珠笔蘸墨水一多事	duo shi	1
+坛子里和面——搭不上手	bang bu shang mang	1
+垃圾堆里的破鞋——没人要的货	mei ren yao	1
+城楼上亮相——高姿态	gao zi tai	1
+城隍娘娘有喜——怀的鬼胎	gui tai	1
+城隍庙里着了火——小鬼的嘴里都冒烟	zhao huo	1
+塌鼻子嫁个斜眼——丑对丑	ban jin ba liang	1
+塔顶散步——走投无路	zou tou wu lu	1
+塞翁失马——焉知祸福	huo fu xiang yi	1
+墙上茅草——随风两边倒	mei zhu jian	1
+士兵搭帐篷——安营扎寨	an ying zha zhai	1
+夜不关门——穷壮胆	zhuang dan	1
+夜壶打了把——光剩嘴了	chui niu	1
+夜壶里洗澡——扑腾不开	di fang tai xiao	1
+夜莺配鹦鹉——正合适	he shi	1
+大公鸡吃米——不计其数	bu ji qi shu	1
+大圣吃毫毛——变得真快	bian de kuai	1
+大姑娘坐轿——头一回	di yi ci	1
+大姑娘嫁太监——享福又受苦	shou ku	1
+大姑娘瞧嫁妆——有日子的人了	ding hao le	1
+大姑娘肿脸一一难看	nan kan	1
+大年三十看黄历——没有日子了	mei shi jian	1
+大水淹了龙王庙——不认自家人	bu ren shi	1
+大流子的弟弟——二流子	er liu zi	1
+大海捞针——没处寻	zhao bu dao	1
+大海里的一滴水——有你不多没你不少	bu zhong yao	1
+大热天穿皮袄——不是时候	bu shi shi hou	1
+大虾炒鸡爪儿——蜷腿带拱腰	nan kan	1
+大街上的行人——有来有往	you lai you wang	1
+大象喝水——有肚量	you du liang	1
+大车初一打拼伙——穷鬼们聚到一块了	qiong ren	1
+大门日的石狮子——成双成对	cheng shuang cheng dui	1
+大雁飞行——成群结队	cheng qun jie dui	1
+天上的老鹰不吃脏东西——清高	qing gao	1
+天黑敬菩萨——心到神知	xin dao	1
+太上老君开处方——灵丹妙药	ling dan miao yao	1
+太岁乡头坐——非灾即祸	fei zai ji huo	1
+太平洋上的警察——管得宽	guan de kuan	1
+太平洋搬家——翻江倒海	fan jiang dao hai	1
+太极拳的功夫——柔中有刚	rou zhong you gang	1
+太监出家——诚心实意	cheng xin	1
+太阳地里望星星——白日做梦	bai ri zuo meng	1
+太阳底下点灯——多余	duo yu	1
+套袖改袜子——设底儿	mei di	1
+女人的手腕——没多大劲	mei jin	1
+女婿认不得丈人——有眼不识泰山	you yan bu shi tai shan	1
+女孩子打架——抓小辫子	xiao bian	1
+好泥巴打好灶———好心讨不到好报	hao xin	1
+如来佛的手心——谁也甭想逃出去	tao bu liao	1
+姜太公钓鱼——愿者上钩	zi yuan	1
+姨奶奶的枕头风——软中有硬	ruan zhong you ying	1
+婆媳吵架儿子劝——左右为难	zuo you wei nan	1
+媳妇哭公公——说不出个好处来	shuo bu chu hao	1
+嫦娥跳舞——两袖清风	liang xiu qing feng	1
+安禄山起兵——反了	fan le	1
+实心竹子做笛子——吹不响	chui bu xiang	1
+客气碰着老实——虚情当成真意	xu qing jia yi	1
+宣统坐江山——只有三年	chang bu liao	1
+宰个鸽鸽也要请屠夫提刀——小题大作	xiao ti da zuo	1
+宰相的千金皇帝的女——不怕没人要	mei ren yao	1
+对牛弹琴——白费劲	bai fei jin	1
+寿星出点子——老主意	zhu yi	1
+寿星娶小——人老心不老	nian qing	1
+小和尚念经——有口无心	bu yong xin	1
+小葱拌豆腐——一清二白	qing bai	1
+就着猪肉吃油条——腻透了	ni le	1
+屁股上捅一刀——背后整人	yin xian	1
+屎壳郎戴面具——臭不要脸	bu yao lian	1
+屎壳郎打喷嚏——满嘴喷粪	shuo zang hua	1
+属地瓜的——一辈子出不了头	mei chu xi	1
+属大肠的——扶不直	mei chu xi	1
+属狗尾巴的——越摸越翘	jiao ao	1
+屠夫送礼——提心吊胆	ti xin diao dan	1
+山中无老虎——猴子称大王	mei you ren cai	1
+岸边的青蛙——一触即跳	bao zao	1
+巴掌穿鞋——行不通	bu xing	1
+干打雷不下雨——虚张声势	xu zhang sheng shi	1
+干旱的庄稼——熟得早	zao shu	1
+干河沟的鱼——跑不了	fang xin	1
+干河滩里种牡丹——好景不长	hao jing bu chang	1
+干活打瞌睡——迷迷糊糊	mi mi hu hu	1
+干草点灯——十有九空	shi you jiu kong	1
+干萝卜缨熬汤——乏味	fa wei	1
+平地搭梯子——无依无靠	wu yi wu kao	1
+庵庙里的尼姑——没福(夫)	mei fu qi	1
+开了闸的河水——一泻千里	yi xie qian li	1
+开会差半点——知道迟到了	chi dao	1
+开卦府的包公——铁面无私	tie mian wu si	1
+开局摆开拦河车——严阵以待	yan zhen yi dai	1
+开局的兵卒——作用不全	zuo yong bu da	1
+开弓的箭——决不回头	jue bu hui tou	1
+开棺验尸——追查到底	zhui cha dao di	1
+开水泡黄豆——有点自大	zi da	1
+开水泼老鼠——不死也要脱层皮	wei xian	1
+开水洗脸——难下手	nan xia shou	1
+开水煮白玉——不变色	bu bian se	1
+开水里捞肥皂——全凭手快	su du	1
+开着拖拉机撵兔子——有劲使不上	shi bu shang jin	1
+开着收音机听戏——闻声不见人	ting sheng yin	1
+开着电扇聊天——尽讲风凉话	shuo feng liang hua	1
+开花期遇暴雨——结果不好	jie guo bu hao	1
+开花的白菜——起了心	dong xin si	1
+张勋复辟——痴心妄想	chi xin wang xiang	1
+张天师得了哑病——没咒念	mei ban fa	1
+张天师画符——玩的骗人术	pian ren	1
+张生回头望莺莺——恋恋不舍	lian lian bu she	1
+张驴儿上公堂——恶人先告状	e ren xian gao zhuang	1
+强拉媳妇成亲——人在心不在	ren zai xin bu zai	1
+强盗发善心——难得一回	nan de yi hui	1
+强盗照镜子——贼头贼脑	zei tou zei nao	1
+强盗碰着贼爷爷——黑吃黑	hei chi hei	1
+彩虹和白云谈情——一吹就散	yi chui jiu san	1
+怀儿婆的口粮——两人一份	liang ren yi fen	1
+怕死碰见鬼子兵——在劫难逃	zai jie nan tao	1
+恶人登门——送福	song fu	1
+恶人雕戴皮帽——假充鹰	jia mao	1
+恶狼和疯狗作伴——脾气相投	chou wei xiang tou	1
+恶狼对羊笑——不怀好意	bu huai hao yi	1
+恶狼生个贼狐狸——不是好种	bu shi hao zhong	1
+恶鬼见钟旭——不得不老实	lao shi	1
+惊弓之鸟——远走高飞	yuan zou gao fei	1
+惊蛰后的蜈蚣——越来越凶	yue lai yue xiong	1
+惜债买藉吃——窟窿套窟窿	ku long	1
+惜钱不治病——自己跟自己过不去	he zi ji guo bu qu	1
+懒婆娘的裹脚布——又长又臭	you chou you chang	1
+懒驴上磨——屎尿多	lan ren	1
+戏台上堵枪眼——死不了人	fang xin	1
+戏台上拜天地——假的	jia de	1
+戏台后头的锣鼓——没见过大场面	mei jian shi	1
+戏园子失火——彻底垮台	kua tai	1
+我啃窝窝头——各人享各人福	xiang fu	1
+战争贩子唱和平——口蜜腹剑	kou mi fu jian	1
+戴着面具亲嘴——没一点情味	mei ren qing wei	1
+戴着面具进棺材——死不要脸	bu yao lian	1
+扁担挑水——一心挂了两头	cao xin	1
+手电筒没灯泡——有眼无珠	you yan wu zhu	1
+打上黑脸照镜——自己吓唬自己	zi ji xia zi ji	1
+打乌米的眼睛——尽往上看	wang shang kan	1
+打开天窗——说亮话	ba hua shuo ming bai	1
+打开棺材喊捉贼——冤枉死人	yuan wang	1
+打灯笼走亲戚一明去明来	ming zhe lai	1
+打破沙锅——问到底	yi wen dao di	1
+打破脑袋叫扇子扇——豁出去了	huo chu qu	1
+打翻了五味瓶——酸甜苦辣咸样样有	yang yang you	1
+打肿脸充胖子——冒充富态	mao chong	1
+打足了气的皮球——蹦老高	sheng qi	1
+打足气的气球——早晚要炸	wan dan	1
+打锣卖糖——各于一行	ge gan ge de	1
+扔下讨饭篮打乞丐——忘本	wang ben	1
+扔下铁锤拿灯草——拈轻怕重	nian qing pa zhong	1
+扮猪吃老虎——大智若愚	da zhi ruo yu	1
+扯着老虎尾巴喊救命——找死	zhao si	1
+扯裤子补补丁——堵不完的窟窿	ku long	1
+把脸装进裤裆里——见不得人	jian bu de ren	1
+护城河的王八——混年号	hun ri zi	1
+披虎皮上山——吓唬人	xia hu ren	1
+抬棺材的掉裤子——羞死人	xiu ren	1
+抬腿上楼梯——步步高升	bu bu gao sheng	1
+担着胡子过河——谦虚过度	qian xu	1
+拉着手走路——你行我也行	wo ye xing	1
+拉肚子吃泻药——越吃越糟	yue lai yue zao	1
+拍照片不上卷——没影子	mei ying zi	1
+拔了毛的凤凰——不如鸡	luo nan	1
+拔苗助长——急于求成	ji yu qiu cheng	1
+拔草引蛇——自找苦吃	zi zhao ku chi	1
+拳头打跳蚤——吃亏的是自己	chi kui de shi zi ji	1
+拽着树叶打滴溜——险乎得很	hao xian	1
+拿乌龟当锅盖——握不住	wo bu zhu	1
+拿根面条去上吊——死不了人	si bu liao	1
+拿着碾盆打月亮——不知轻重	bu zhi qing zhong	1
+拿着车票进戏馆子——对不上号	dui bu shang hao	1
+拿着铁锹当锅使——穷极了	qiong ji le	1
+拿脑袋撞墙——头破血流	tou po xue liu	1
+拿菜刀哄孩子——不是闹着玩的	bu shi nao zhe wan	1
+挂羊头卖狗肉——虚情假意	xu qing jia yi	1
+按彩球的乞丐——高兴得发傻	gao xing	1
+按着牛头喝水——勉强不得	mian qiang bu de	1
+按着脑袋往火炕里钻——憋气窝火　	wo huo	1
+按着葫芦挖籽——挖一个少一个	yue lai yue shao	1
+按老方子吃药——还是老一套	lao yi tao	1
+按鸡头啄米——白费心机	bai fei xin ji	1
+挑水骑单车——本领高	ben ling gao	1
+挑灯草走路——干轻巧活	gan qing qiao huo	1
+挡凤板做锅盖——受了冷气受热气	liang tou shou qi	1
+挨了棒的狗——气急败坏	qi ji bai huai	1
+挨鞭子不挨棍子——吃软不吃硬	chi ruan bu chi ying	1
+捏死手中鸟——轻而易举	qing er yi ju	1
+捏着鼻尖儿做梦——不成	bu cheng	1
+捧着泥鳅玩——耍滑头	shua hua tou	1
+掖着个孙悟空——憋出个猴来	bie bu chu lai	1
+推小车上台阶——一步一个坎	bu ru yi	1
+提着口袋倒核桃——一个不留	yi ge bu liu	1
+提着灯笼打柴——明砍	ming kan	1
+提着马灯下矿井——步步深入	bu bu shen ru	1
+揪着马尾巴赛跑——悬	hen xuan	1
+搬菩萨洗澡——越弄越糟	yue lai yue zao	1
+搭起戏台卖豆腐——买卖不大架子大	jia zi da	1
+撅着屁股看天——有眼无珠	you yan wu zhu	1
+撒了谷子拾稻草——不分主次	bu fen zhu ci	1
+撵走孤狸住上狼——一伙更比一伙凶	yi ge bi yi ge xiong	1
+擀面杖分长短——大小各有用场	ge you yong chu	1
+擀面杖吹火——一窍不通	yi qiao bu tong	1
+擀面杖钻石头——纹丝不动	wen si bu dong	1
+放风筝断了线——没指望了	mei zhi wang	1
+教菩萨认字——枉费心机	bai fei xin ji	1
+整筐丢西瓜——大处不算小处算	yin xiao shi da	1
+斑马的脑袋——头头是道	tou tou shi dao	1
+斑鸩打架——卖弄风流	mai nong feng liu	1
+斩草不除根——后患无穷	hou huan wu qiong	1
+断了柄锄头安了把——有了把柄	you ba bing	1
+断了线的梭子——白钻空子	zuan kong zi	1
+新上市的黄瓜——带刺	dai ci	1
+新女婿请接生婆——双喜临门	shuang xi lin men	1
+新媳妇吃饭——细嚼馒咽	xi jiao man yan	1
+新官上任——三把火	san ba huo	1
+新衣服打补丁——不象样	bu xiang yang	1
+新郎官戴孝——悲喜交加	bei xi jiao jia	1
+新郎官揭盖头——真相大白	zhen xiang da bai	1
+日出西山水倒流——天下奇闻	tian xia qi wen	1
+日落西山——红不过一会儿了	chang bu liao	1
+早春的桃花——红不久	chang bu liao	1
+旮旯里藏毒蛇——不露头	yin xian	1
+星星跟着月亮走——沾光	zhan guang	1
+暑天下大雪——少见	shao jian	1
+暖水瓶爆烈——丧胆	sang dan	1
+暗地里耍拳——瞎打一阵	xia da yi zhen	1
+暗室里穿针——难过	nan guo	1
+曹操诸葛亮——脾气不一样	pi qi bu tong	1
+曹操败走华客道——不出所料	bu chu suo liao	1
+曹操败走华容道——走对了路子	yong dui fang fa	1
+曹操遇蒋干——倒了大霉	dao mei	1
+月亮下看书——沾你的光了	zhan guang	1
+月亮当镜子——太把自己看大了	zi da	1
+有借有还——再借不难	zai jie bu nan	1
+木偶流眼泪——虚情假意	xu qing jia yi	1
+木匠带枷——自作自受	zi zuo zi shou	1
+木匠铺里拉大锯——你来我去	ni lai wo qu	1
+木头人过河——摸不着底	mo bu zhao di	1
+机关枪瞄大炮——直性子对直性子	zhi xing zi	1
+杏花村的酒——后劲大	hou jin da	1
+杨志卖刀——无不识货	bu shi huo	1
+杨继业数儿子——越数越少	yue lai yue shao	1
+板上订钉——跑不了	pao bu liao	1
+枣木做烧柴——难劈	nan pi	1
+柏马屁拍到蹄子上——倒挨一脚	ai yi jiao	1
+染匠下河——大摆布	bai bu	1
+染匠的衣服——不可能不受沾染	shou zhan ran	1
+染坊的大缸——任人摆布	ren ren bai bu	1
+染坊的常客——好色之徒	hao se zhi tu	1
+染坊里的衣料——任人摆布	ren ren bai bu	1
+染布不匀——料不到	liao bu dao	1
+染房里吹笛子——有声有色	you sheng you se	1
+染缸里的衣服——变他本色	gai bian ben se	1
+染缸里落白布——再也洗不清	shuo bu qing	1
+树叶子掉到河里——随波逐流	sui bo zhu liu	1
+树桩上的鸟儿——迟早要飞	shou bu zhu	1
+案板上砍骨头——干干脆脆	gan cui	1
+案板底下放风第——飞不起来	fei bu qi lai	1
+桌子上唱大戏——摆布不开	bai bu bu kai	1
+桌子缝里舔芝麻——穷相毕露	qiong xiang	1
+棋盘里的老将——出不了格	bu chu ge	1
+楚霸王自刎乌江——没脸回江东	mei lian	1
+榔头对锤子——狠对狠	hen dui ren	1
+横杠竹子——进不得城	jin bu liao cheng	1
+橄榄屁股——坐不稳	zuo bu wen	1
+橡皮糖——扯得长	che bu chang	1
+檀香木盖茅坑——香臭不分	xiang chou bu fen	1
+茶壶里煮饺子——有货倒不出	you huo dao bu chu	1
+水泡豆子——自我膨胀	zi da	1
+水浸菩萨——一摊泥	yi tan ni	1
+水牛吃活蟹——有力无处使	you li wu chu shi	1
+水牛过河——露头角	lou tou jiao	1
+水里的蛤蟆——一鼓作气	yi gu zuo qi	1
+水面打一棒——了无痕迹	liao wu hen ji	1
+池塘里的风波——大不了	da bu liao	1
+泥人经不起雨打——本质太差	ben zhi tai cha	1
+泥佛爷的眼珠儿——动不得	dong bu de	1
+泥巴捏的小人——没骨气	mei gu qi	1
+泥神笑菩萨——你也好不了多少	ban jin ba liang	1
+泥菩萨过江——自身难保	zi shen nan bao	1
+泥蒸的馒头——土腥味	tu xing wei	1
+泰山顶上唱大戏——唱高调	chang gao diao	1
+泰山顶上观日出——高瞻远瞩	gao zhan yuan zhu	1
+泼出去的水——收不回	shou bu hui	1
+洗脸盆里游泳——水平太低	shui ping di	1
+洪泽湖的鱼鹰——老等	lao deng	1
+浅滩上放木排——一拖再拖	yi tuo zai tuo	1
+浪中行船——时高时低	shi gao shi di	1
+浪子回头——金不换	jin bu huan	1
+浸湿的木头——火不了	huo bu laio	1
+渔网当伞——遮不住阳光	zhe bu zhu	1
+滚油锅里撒了一把盐——炸开了	zha kai le	1
+滥竿充数——挂个空名	gua ge ming	1
+滴水石穿——非一日之功	di shui chuan shi	1
+演员谢幕——该下台了	xia tai	1
+潘仁美挂帅——奸臣当道	jian chen dang dao	1
+灶王爷上尺——神气起来	shen qi qi lai	1
+灶王爷贴在腿肚上——人走家散	ren zou jia san	1
+灶门前拿竹筒——吹了	chui le	1
+炭筛子筛芝麻——全落空	luo kong	1
+点着火的双响——气得嘣八丈高	qi ji le	1
+烂板桥上的龙王——不是好东西	bu shi hao dong xi	1
+烂泥菩萨——全靠金贴	wai qiang zhong gan	1
+烂泥菩萨洗脸——干净不了	gan jing bu liao	1
+烂泥里打桩子——越打越下	yue da yue xia	1
+烂膏药贴在好肉上——自找麻烦	zi zhao ma fan	1
+烂鱼开了膛——一付坏心肠	huai xin chang	1
+烟灰抹面皮——黑下脏来	you zang you hei	1
+烟袋锅烤手——没有热乎劲	mei you re hu jin	1
+烟袋锅里煮饭——捣鼓不开	dao gu bu kai	1
+热中送扇雪中送炭——急人之所急	ji ren suo ji	1
+热水瓶——外头凉里面热	wai leng nei re	1
+热水瓶上系索子——水平有限	shui ping you xian	1
+热火盆里抽火炭——冷落	leng luo	1
+热炕头上的白面——发啦	fa le	1
+热蹄子马——闲不住	guan bu zhu	1
+热锅上的蒸笼——好大的气	hao da de qi	1
+热锅上的蚂蚁——团团转	tuan tuan zhuan	1
+热锅爆米花——活蹦乱跳	huo beng luan tiao	1
+热锅里的鸭子——窝脖	wo bo	1
+热面孔碰到冷毛巾——无情	wu qing	1
+煎过三遍的药渣——旱该倒了	gai dao le	1
+照住屁股蹬一脚——你东我西	fen dao yang biao	1
+照明弹上天——高明	gao ming	1
+煮熟的鸭子飞上天——弥天大谎	shuo huang	1
+熊耍把戏狗叫唤——互不相干	hu bu xiang gan	1
+熟螃蟹——横行不了	heng xing bu liao	1
+牛头不对马嘴——胡拉乱扯	hu che	1
+牛牵鼻子马抓鬃——抓住了关键	zhua bu zhu guan jian	1
+牛犊子上套——挨鞭子的日子到了	shou ku de ri zi dao le	1
+牛皮鼓湿水——不响	bu xiang	1
+牛羊的肚腹——草包	cao bao	1
+牛背上翻踉头——有点硬功夫	you dian ben shi	1
+狐狸吃不到的葡萄——全是酸的	suan de	1
+狐狸吃刺猬——下不了口	xia bu liao kou	1
+狐狸钻罐子——藏头露尾	cang tou lu wei	1
+狗咬吕洞宾——不识好人心	bu shi hao ren xin	1
+狡兔撞鹰——以攻为守	yi gong wei shou	1
+狼吃狼——冷不防	leng bu fang	1
+狼惜猪娃——长不了	chang bu liao	1
+猢狲穿衣裳——象个人似的	bu shi ren	1
+猪八戒照镜子——里外不是人	li wai bu shi ren	1
+猪鼻子里插葱——装象	zhuang xiang	1
+猫哭耗子——假慈悲	jia ci bei	1
+猴子戴凉帽——不知几品	hou xi	1
+猴子扇扇子——学人样	xue ren yang	1
+猴子捞月亮——白忙一场	bai mang yi chang	1
+玉皇大帝拜财神一有钱大三辈	you qian zui da	1
+王八吃秤砣——铁了心	tie le xin	1
+王婆卖瓜——自卖自夸	zi mai zi kua	1
+瓶子里的苍蝇——无出路	mei chu lu	1
+甘蔗拔节——一节也不通	bu tong	1
+甘蔗林里种香瓜——从头甜到脚	tian mi	1
+田埂上搭桥——不是路	fang fa bu dui	1
+田头训子——言传身教	yan chuan shen jiao	1
+田里的庄稼——土生土长	tu sheng tu zhang	1
+画笔敲敲——有声有色	you sheng you se	1
+画蛇添足——多此一举	duo ci yi ju	1
+画面上的酒菜——叫人眼饱肚饥	hua bing chong ji	1
+留得青山在——不怕没柴烧	bu pa mei chai shao	1
+畸形人做衣服——另搞一套	ling gao yi tao	1
+疙瘩饼子送闺女——实心实意	shi xin shi yi	1
+疤瘌眼长疮——坏到一块了	huai dao yi kuai	1
+瘦子光膀几——露骨	lu gu	1
+瘦死的骆驼——比马大	luo tuo	1
+瘦驴拉硬屎——瞎逞能	cheng neng	1
+瘫子请客——坐等	zuo deng	1
+瘫子靠跛子——靠不住	kao bu zhu	1
+瘸子走山路——东倒西歪	dong dao xi wai	1
+瘸子骑瞎驴——互相照应	hu xiang zhao ying	1
+癞蛤蟆打吹欠——好大的口气	chui niu	1
+登着耗子当成牛——吹的	chui de	1
+白了尾巴尖的狐狸——老奸巨猾	lao jian ju hua	1
+白天盼月亮——休想	xiu xiang	1
+白娘子喝了雄黄酒——现了原形	xian yuan xing	1
+白娘子遇许仙——千里姻缘一线牵	yuan fen	1
+白蜡材结桂花——根子不正	gen zi bu zheng	1
+白骨精化美女——人面鬼心	ren mian gui xin	1
+白骨精说人话——妖言惑众	yao yan huo zhong	1
+百万雄师下江南——兴师动众	xing shi dong zhong	1
+百米赛跑——分秒必争	fen miao bi zheng	1
+百货大楼卖西装——一套一套的	ti tao yi tao	1
+皮球上戳眼眼——瘪了	bie le	1
+皮球上磨刀——泄气	xie qi	1
+皮裤套棉裤——必定有缘故	bi you yuan gu	1
+皮鞋打蜡——一时光	yi shi guang	1
+盖了九床被子做美梦——想不透	xiang bu tou	1
+盖房请来箍桶匠——找错了人	zhao cuo ren	1
+盗马贼披袈裟——嫁祸于人	jia huo yu ren	1
+盘子里生豆芽——根底浅	gen di qian	1
+盼月亮从西出——没指望	mei zhi wang	1
+看人挑担——不知吃力	shuo de qing qiao	1
+看家拳头——留一手	liu yi shou	1
+看戏挑媳妇——一头满意	yi tou man yi	1
+看着天说话——不知眼有多高	mu kong yi qie	1
+看羊的狗——一个比一个凶	yi ge bi yi ge xiong	1
+看衣裳行事——狗眼看人	gou yan kan ren	1
+看见和尚喊姨夫——乱认亲	luan ren qin	1
+看见外公叫爷爷——不识相	bu shi xiang	1
+看见尼姑喊嫂子——乱认亲	luan ren qin	1
+看门的神仙——管不了庙里事	bu guan shi	1
+眼睛上出芽了——不是好苗头	bu shi hao miao tou	1
+眼里的灰尘——不能容忍	bu neng rong ren	1
+瞌睡送枕头——正是时候	zheng shi shi hou	1
+瞎了眼的癞皮狗——碰着啥咬啥	peng sha yao sha	1
+瞎妹子当媒人——自顾不暇	zi gu bu xia	1
+瞎姑娘戴眼镜——多一层比少一层好	duo dian hao dian	1
+瞎子上街——摸出来的	mo chu lai de	1
+瞎子吃黄瓜——不分老嫩	bu fen lao nen	1
+瞎子夹豆腐——不烂搞到烂	bu lan gao dao lan	1
+瞎子戴眼镜——装饰	zhuang shi	1
+瞎子点灯——白费蜡	bai fei la	1
+瞎子逛商店——目空一切	mu kong yi qie	1
+矮子上楼梯——步步高升	bu bu gao sheng	1
+矮子坐高凳——够不着	gou bu zhao	1
+矮子坐高登——上下两难	shang xia liang nan	1
+矮子推掌——出手不高	chu shou bu gao	1
+矮子放屁——低声下气	di sheng xia qi	1
+矮子爬坡——贪便宜	tan pian yi	1
+矮子骑大马——上下两难	shang xia liang nan	1
+码子前面添零——不算数	bu suan shu	1
+砂锅里的火药——容不得半点火垦	rong bu de ban dian huo xing	1
+砌墙的砖头——后来居上	hou lai ju shang	1
+砍不倒大树——弄不多柴禾	kan da shu	1
+砍倒大树捉鸟——呆子	dai zi	1
+砍树吃桔子——不顾根本	bu gu gen ben	1
+砒霜拌大葱——又毒又辣	du la	1
+砧板上的鱼——任人宰割	ren ren zai ge	1
+破土的春笋——拔尖	ba jian	1
+破庙里的菩萨——东倒西歪	dong dao xi wai	1
+破罐子破摔——自暴自弃	zi bao zi qi	1
+破网打鱼——瞎张罗	xia zhang luo	1
+破蒸笼蒸馒头——气不打一处来	qi bu da yi chu lai	1
+破鞋帮子——露底	lou di	1
+砸锅卖铁——豁出来了	huo chu qu	1
+硬按公鸡下蛋——指望不上	zhi wang bu shang	1
+硬棒槌弹棉花——越弹越乱	yue tan yue luan	1
+硬牛皮——看你咋吹	kan ni zen me chui	1
+硬要麻雀生鹅蛋——蛮不讲理	man bu jiang li	1
+碾盘对碾盘——实打实	shi da shi	1
+磕完头撒供——留神	liu shen	1
+秀才偷笔——文明人不做文明事	bu wen ming	1
+秀才遇到兵——有理讲不清	you li jiang bu qiang	1
+秀才遇到虎——再吟诗也跑不脱	zai ying shi ye pao bu tuo	1
+秦叔宝的黄骡马——来头不小	lai tou bu xiao	1
+积木搭墙——一推就倒	yi tui jiu dao	1
+稀饭锅里扔铁砣——混蛋到底	hun dan dao di	1
+程咬金的斧头——就这三下子	san xia zi	1
+稻草人救火——引火上身	yin huo shao shen	1
+空心罗汉——没肚量	mei du liang	1
+空手跑进中药店——没方子	mei ban fa	1
+空手进衙门——非输不可	fei shu bu ke	1
+空肚子打饱隔——硬撑市面	cheng shi mian	1
+空袋了——立不起来	li bu qi lai	1
+窗户边吹喇叭——名声在外	ming sheng zai wai	1
+站在岸边看翻船——见死不救	jian si bu jiu	1
+站在河岸捞月亮——白搭工	bai fei gong fu	1
+站在海边打咳声——望洋兴叹	wang yang xing tan	1
+站着身子正——不怕影儿斜	bu pa ying xie	1
+童养媳当媒人——自顾不暇	zi gu bu xia	1
+竹笋出土——节节高	jie jie gao	1
+竹篮打水——一场空	yi chang k	1
+筐里选瓜——越选越差	yue xuan yue cha	1
+筷子搭桥——路不宽	lu bu kuan	1
+筷子里拔旗杆——没高的	mei gao de	1
+箭在弦上——不得不发	bu de bu fa	1
+粘牙的烧饼——面生	mian sheng	1
+粘米煮山芋——糊糊涂涂	hu li hu tu	1
+粪坑里的石头——又臭又硬	you chou you ying	1
+紧着裤子数日月——日子难过	ri zi nan guo	1
+红娘挨打——成全好事	cheng quan	1
+绒毛鸭子刚下水——新学	xin xue	1
+绒球打脸——吓唬人哩	xia hu ren	1
+绒球打锣——没有回音	mei you hui yin	1
+绣花姑娘打架——针锋相对	zhen feng xiang dui	1
+缸中倒豆——不藏不掖	bu cang bu ye	1
+缸里点灯——照里不照外	zhao li bu zhao wai	1
+缺牙啃西瓜——道道多	ban fa duo	1
+羊群里跑出个骆驼——抖什么威风	dou shen me wei feng	1
+老坟头里的尸骨——空架子	kong jia zi	1
+老太太吃汤圆——囫囵吞	hu lun tun	1
+老太婆啃鸡筋——难嚼难咽	nan jiao nan yan	1
+老太婆过年——一年不如一年	yi nian bu ru yi nain	1
+老太爷看告示——一篇大道理	da dao li	1
+老子偷猪儿偷牛——一个更比一个凶	yi ge bi yi ge xiong	1
+老子坐班房——受人牵连	shou ren qian lian	1
+老子纳妾儿姘居———窝不正经	dou bu zheng jing	1
+老母猪上山——紧往上爬	gao pan	1
+老母猪爬楼梯——高攀	gao pan	1
+老海瑞上金殿——为民请命	wei min qing ming	1
+老牛拉破车——慢慢腾腾	man man teng teng	1
+老牛钻狗洞——难通过	nan tong guo	1
+老猴爬旗杆——不行了	bu xing	1
+老肥猪上屠场——挨刀的货	ai dao de huo	1
+老虎和猪生的——又恶又蠢	you e you chun	1
+老虎屁股——摸不得	mo bu de	1
+老虎拉车——谁敢	shei gan	1
+老驴打滚——翻不过身	fan bu guo shen	1
+老鸹叮蚌壳——难脱身	nan tuo shen	1
+老鹰吃鸡毛——填满肚子算事	cou he	1
+老鼠扒屎盆——替狗忙	ti gou mang	1
+老鼠爬香炉——碰一鼻灰	yi bi zi hui	1
+老鼠睡猫窝——送来一口肉	song shang men	1
+老鼠碰见猫——不敢想(响)	bu gan xiang	1
+老鼠管仓——越管越光	yue guan yue guang	1
+老鼠过街——人人喊打	ren ren han da	1
+老鼠钻风箱——两头受气	liang tou shou qi	1
+耳朵塞驴毛——说不通	shuo bu tong	1
+聋子耳朵——摆设	bai she	1
+聋子见哑巴——不闻不问	bu wen bu wen	1
+肉丸子掉迸煤堆里——漆黑一团	qi hei yi tuan	1
+肉包子打狗——一去不回头	yi qu bu hui tou	1
+肉包子打狗——有去无回	you qu wu hui	1
+肉案上的买卖——斤斤计较	jin jin ji jiao	1
+肉烂在汤里——谁也不吃亏	shei ye bu chi kui	1
+肉锅里煮元宵——浑蛋	hun dan	1
+肉骨头擂大鼓——有点五荤六素	wu hun liu su	1
+肢皮人烤火——浑身都软了	hun shen dou ruan le	1
+背鼓上门——讨打	tao da	1
+胖大海掉进黄连水——苦水里泡大的	ku shui pao da de	1
+胖子排横队——齐头并迸	qi tou bing jin	1
+胡萝卜刻的小孩儿——红人	hong ren	1
+胡萝卜就烧酒——图个干脆	tu ge gan cui	1
+胳肢窝里夹耗子——冒充打猎人	mao chong	1
+胸前划十字——上帝保佑	shang di bao you	1
+脊梁骨上长茄子——生了外心	sheng le wai xin	1
+脏水罐子掉到茅坑里——越闹越臭	yue nao yue chou	1
+脑门上开口——对天讲话	dui tian jiang hua	1
+脑门上长瘤——额外负担	e wai fu dan	1
+脚底下踩棒槌——立场不稳	li chang bu wen	1
+脚底下踩棒槌——站不稳	zhan bu wen	1
+脚踏西瓜皮——滑到哪里是哪里	dao na suan na	1
+脚踩两只船——三心二意	san xin er yi	1
+脚蹬鼻子——上脸	shang lian	1
+腊月里扇扇子——火气太大	huo qi da	1
+腊鸭子煮到锅里头——身子烂了嘴还硬	zui ying	1
+腰里别钢筋——腰杆子硬	yao gan zi ying	1
+膝盖头套袜子——不对路数	bu dui lu shu	1
+船到桥头——自会直	zi hui zhi	1
+船头上跑马——走投无路	zou tou wu lu	1
+芝麻开花——节节高	jie jie gao	1
+芭蕉叶上垒鸟窝——好景不长	hao jing bu chang	1
+芭蕉开花——一条心	yi tiao xin	1
+花果山上没外姓——一窝孙	yi wo sun	1
+花架下养鸡鸭——煞风景	sha feng jing	1
+花瓶里种树——大不了	da bu liao	1
+花轿前的乐队——大吹大擂	da chui da lei	1
+花骨朵碰在屠刀上——心碎	xin sui	1
+苍蝇叮菩萨——看错人了	kan cuo ren	1
+苍蝇嘴巴狗鼻子——真灵	zhen ling	1
+苦水里泡黄连——苦上加苦	ku shang jia ku	1
+苦竹子根头出苦笋——辈辈苦	bei bei ku	1
+茶壶有嘴难说话——热情在里头	re qing zai wai tou	1
+茶壶里煮饺子——有货倒不出	you huo dao bu chu	1
+茶铺里不要的伙计——哪壶不开提哪壶	na hu bu kai ti na hu	1
+药店里招手——把你往苦里引	ba ni wang ku li yin	1
+药铺里卖棺材——往最坏处想	wang huai chu xiang	1
+菜刀切豆腐——两面光	liang mian guang	1
+葫芦掉井里——上不着天	shang bu zhao tian	1
+葫芦蜂的窝——心眼多	xin yan duo	1
+葫芦里卖药——不知底细	bu zhi di xi	1
+葱头不开花——装什么蒜	zhuang suan	1
+蒋干盗书——上了大当	shang dang	1
+薛仁贵征东——劳而无功	lao er wu gong	1
+藉丝炒黄豆芽——勾勾搭搭	gou gou da da	1
+藕炒豆芽——内外勾结	nei wai gou jie	1
+虎落平阳——被犬欺	bei quan qi	1
+虾吞礁石——好大的胃口	hao da wei kou	1
+蚂蚁打食——三五成群	san wu cheng qun	1
+蚂蚱配蝗虫——门当户对	men dang hu dui	1
+蚂蛉长毛——天下奇闻	tian xia qi wen	1
+蚂蟥叭在牛尾上——甩不掉	shuai bu diao	1
+蚊龙困在沙滩上——威风扫地	wei feng sao di	1
+蚕豆开花——黑心	hei xin	1
+蚱蜢碰上鸡——在劫难逃	zai jie nan tao	1
+蜡烛的脾气——不点不亮	bu dian bu liang	1
+蜻蜒点水鱼打花——没有用	mei yong	1
+蝇子见了血——走不动	zou bu dong	1
+螃蟹上树——巴不得	ba bu de	1
+螃蟹爬到路上——横行霸道	heng xing ba dao	1
+螃蟹过街——横行霸道	heng xing ba dao	1
+螃蟹过门槛——七手八脚	qi shou ba jiu	1
+蟋蟀斗公鸡——各有一技之长	ge you suo chang	1
+街上卖笛——自吹	zi chui	1
+街头上耍把戏——说得多	shuo de duo	1
+街头的狗——谁有吃就跟谁走	shei you chi gen shei zou	1
+袁世凯当皇帝——短命的货	duan ming huo	1
+西山猛虎不咬人——有假无真	you jia wu zhen	1
+西施坐飞机——美上天了	mei shang tian	1
+西瓜皮做帽子——装滑头	zhuang hua tou	1
+西瓜皮打鞋掌——开溜	kai liu	1
+西门庆请武大郎——没安好心	mei an hao xin	1
+要饭的打狗——穷横	qiong heng	1
+讨吃的喂猴——玩心不退	wan xin bu tui	1
+讨媳妇嫁女儿——一进一出	yi jin yi chu	1
+讨饭找马骑——不识时务	bu shi shi wu	1
+让了香瓜寻苦瓜——自讨苦吃	zi tao ku chi	1
+让结巴念绕回令——强人所难	qiang ren suo nan	1
+许不下羊羔许骆驼——巧言哄人	hua yan qiao yu	1
+请小姨子作伴——不安好心	bu an hao xin	1
+诸葛亮三气周瑜——略使小技	lüe shi xiao ji	1
+诸葛亮吊孝——装模作样	zhuang mu zuo yang	1
+诸葛亮用空城计——不得己	bu de yi	1
+谈心不点灯——说黑话	shuo hei hua	1
+豁子吵嘴——谁也别说谁	shei ye bie shuo shei	1
+贪吃不留种——顾前不顾后	gu qian bu gu hou	1
+贪嘴的鱼儿——爱上钩	ai shang gou	1
+贫血病人——脸上无光	lian shang wu guang	1
+贼娃子拾东西——不是偷也是偷	shuo bu qing	1
+贼过才张弓——晚了	wan le	1
+贾宝玉出家——看破红尘	kan po hong chen	1
+贾宝玉的通灵玉——命根子	ming gen zi	1
+赛马场上的冠军——一马当先	yi ma dang xian	1
+赵匡胤穿龙袍——改朝换代	gai chao huan dai	1
+赶场带相亲——一举两得	yi ju liang de	1
+赶场走进死胡同——行不通	xing bu tong	1
+赶着王母娘娘叫大姑——想沾点仙气	zhan dian xian qi	1
+赶脚的骑驴——只图眼前快活	tu yan qian kuai huo	1
+赶鸡下河——硬往死里逼	wang si li bi	1
+赶鸭子上架——吃力不讨好	chi li bu tao hao	1
+赶龙王下海——巴不得	ba bu de	1
+起重机吊鸡毛——大材小用	da cai xiao yong	1
+趴在磨子上睡觉——想转了	zhuang zhuan le	1
+跑马使绊子——存心害人	cun xin hai ren	1
+跤龙头上搔痒——溜须不要命	liu xu bu yao ming	1
+跳上舞台凑热闹——逢场作戏	feng chang zuo xi	1
+踏死蛤蟆肚子胀——好大的气	hao da de qi	1
+踩着肩头往头上拉屎——硬欺负人	qi fu ren	1
+躲雨躲到城隍庙——尽见鬼	jian gui	1
+躺在功劳簿上睡大觉——沾沾自喜	zhan zhan zi xi	1
+躺在棺材里想金条——贪心鬼	tan xin	1
+躺着说话——不腰痛	shuo de qing song	1
+软面包饺子——好捏	hao qi fu	1
+辣椒炒豆腐——外辣里软	zui ying xin ruan	1
+过年娶媳妇——双喜临门	shuang xi lin men	1
+远处有灯——前途光明	qian tu guang ming	1
+逆水行舟——不进则退	bu jin ze tui	1
+逆风点火——自焚	zi fen	1
+遭驴拉重协——够喘的了	chuan qi	1
+酒盅里拌黄瓜——施展不开	shi zhan bu kai	1
+酒鬼喝汽水——不过瘾	bu guo yin	1
+酒鬼掉进酒池里——求之不得	qiu zhi bu de	1
+醉汉过铁索桥——上晃下摇	yao huang	1
+醉翁之意不在酒——另有所图	ling you suo tu	1
+里弄里扛竹竿——直来直去	zhi lai zhi qu	1
+野兽当家——荒凉	huang liang	1
+野牛闯进火海里——有命没毛	sun shi	1
+野狸子舔虎鼻梁——溜须不要命	bu yao ming	1
+钉头碰钉子——硬碰硬	ying peng ying	1
+钢丝穿豆腐——没法提	ti bu qi	1
+钢丝绳穿针——难通过	tong bu guo	1
+钢刀落肚——割心肠	shang xin	1
+钢板上钉钉——硬过硬	ying guo ying	1
+钢珠落玉盘——响当当	xiang dang dang	1
+钢针屁股上的眼——只认衣衫不认人	shi li yan	1
+钱串子脑袋——见窟窿就钻	zuan ying	1
+钱塘江涨潮——大起大落	da qi da luo	1
+钻子头上加钢针——好厉害	li hai	1
+钻进鸟笼里的猫——嘴馋上了当	zui chan	1
+铁打的公鸡——一毛不拔	yi mao bu ba	1
+镜子里亲嘴——别人不亲自己亲	ai xi zi ji	1
+长丝瓜当扁担——不晓得软硬	bu xiao shi	1
+长了兔子腿——跑得快	pao de kuai	1
+长城上的砖——未知经过多少风雨	jing li duo shao feng yu	1
+长颈鹿进马群——高出了头	gao chu le tou	1
+门缝里看人——把人看扁了	xiao kan ren	1
+闹钟打哈哈——自鸣得意	zi ming de yi	1
+阎王开店——无人买	wu ren guo wen	1
+阎王爷做的芝麻饼——鬼点子多	zhu yi duo	1
+阎王爷的扇子——扇阴风	shan dong	1
+阿公吃黄连——苦也(爷)	ku de hen	1
+阿拉伯数字字分家——零比零	ling bi ling	1
+阿斗当皇帝——软弱无能	wu neng	1
+阿斗的江山——白送	bai song	1
+陶工手里的粘上——得心应手	de xin ying shou	1
+隔山打鸟——见者有份	jian zhe you fen	1
+隔年的春联——无用	mei yong	1
+隔年的臭虫——瘪了	bie le	1
+隔黄河送秋波——没人领情	mei ren ling qing	1
+雨夜打灯笼——经不起风雨	jing bu qi feng yu	1
+雪堆的假山——好景不长	hao jing bu chang	1
+霜打的麻叶——垂头丧气	chui tou sang qi	1
+霜打的黄瓜——皱皱巴巴的	zhou ba ba	1
+霸王别姬——无可奈何	wu ke nai he	1
+霸王敬酒——不干也得干	wu nai	1
+青娃望玉兔——有天壤之别	tian rang zhi bie	1
+青娃笑蝌蚪——忘本	wang ben	1
+青石板上摔鸟龟——硬碰硬	ying peng ying	1
+青石板上的青苔——扎不下根	zha bu liao gen	1
+青竹竿掏茅坑——越掏越臭	yue gao yue chou	1
+青蛙拴生鞭梢上——不值摔打	bu zhi de	1
+青蛙求偶——大声叫喊	jiao han	1
+青蛙过冬——呆着不动	dai zhe bu dong	1
+鞋上绣金夙——会走不会飞	fei bu qi lai	1
+鞋壳篓里跑马——没几步跑头	chang bu liao	1
+鞋底打掌——硬往上贴	ying wang shang tie	1
+鞋底抹油——溜了	liu le	1
+韩信点兵——多多益善	duo duo yi shan	1
+顶风顶水划船——硬撑	ying cheng	1
+额头上插牡丹——忍痛图好看	tu hao kan	1
+额头角上搁扁担——头挑	tou tiao	1
+飞机上点灯——高明	gao ming	1
+飞蛾扑火——自取灭亡	zi qu mie wang	1
+饶舌的乌鸦——尽是老调	lao diao chong tan	1
+饺子破皮——露了馅	lou xian	1
+饿狼日里夺脆骨——好大的胆	da dan	1
+饿狼窜进羊厩——无事不来	you shi	1
+饿猪占木槽——死不放	gu zhi	1
+饿着肚子做梦——空想	kong xiang	1
+饿虎进宅——不怀好意	bu huai hao yi	1
+马勺当锣打——穷得叮当响	pin qiong	1
+马尾拴鸡蛋——难缠	nan chan	1
+马尾穿萝卜——粗中有细	cu zhong you xi	1
+马桶上插花——只图表面好看	biao mian hao kan	1
+马桶里倒香水——香臭不分	hao huai bu fen	1
+马槽边上的苍蝇——混饭吃	hun fan chi	1
+马王爷——不管驴事	bu guan wo shi	1
+马群里的骆驼——突出	tu chu	1
+马脸比猪头——个比个难看	ge bi ge nan kan	1
+马路上跑火车——不合辙	he bu lai	1
+马路新闻——道听途说	dao ting tu shuo	1
+马车过沼泽地——此路不通	ci lu bu tong	1
+马鞭打牛——忘本	wang ben	1
+马食槽不许驴插嘴——独吞	du tun	1
+骑牛找牛——老糊涂	lao hu tu	1
+骑着骆驼吃包子——乐颠了馅儿	gao xing guo tou	1
+骑马上天山——回头见高低	hui tou jian gao di	1
+骑驴看唱本——走着瞧	zou zhe qiao	1
+高个子走到屋檐下——不得不低头	bu de bu di tou	1
+高举拳头轻轻放——手下留情	shou xia liu qing	1
+高射炮打蚊子——大材小用	da cai xiao yong	1
+高山头种辣椒——红到顶了	hong ji le	1
+高梁秆做梯子——上不去	shang bu qu	1
+高梁秆做磨棍——有劲使不上	you jin shi bu shang	1
+高梁秆做鞭杆——经不起摔打	jing bu qi shuai da	1
+高梁秆儿拴骡子——拉倒	la dao	1
+高飞的鸟儿遇老鹰——凶多吉少	xiong duo ji shao	1
+鱼盆里的螃蟹——你算哪一路	bu shi yi lu de	1
+鱼篓里的螃蟹——进来容易出去难	jin lai rong yi chu qu nan	1
+鲁班门前耍斧——有眼无珠	you yan wu zhu	1
+鸟儿搬家——远走高飞	yuan zou gao fei	1
+鸡肠舌刮油——有也不多	bu duo le	1
+鸡蛋碰石头——不自量力	bu zi liang li	1
+鹅伸脖子——等着挨刀	deng zhe ai dao	1
+鹅在水中寻食——尾巴翘上天	jiao ao	1
+鹅盆里不准鸭插嘴——无牵无挂	wu qian wu gua	1
+鹅蛋石跌进刺蓬里——无牵无挂	wu qian wu gua	1
+麦田里撒豌豆——杂种	za zhong	1
+麦田里的韭菜——难分色	fen bu qing	1
+麦芒戮到眼睛里——又刺又痛	you ci you tong	1
+麻姑娘搽雪花膏——观点模糊	guan dian mo hu	1
+麻婆打扮——好看有限	bu hao kan	1
+麻婆照镜子——自找难看	zi zhao nan kan	1
+麻子敲门——坑到家了	keng ren bu qian	1
+麻子跳伞——天花乱坠	tian hua luan zhui	1
+麻柳树解板子——不是正经材料	bu zheng jing	1
+麻油炒豆腐——不惜代价	bu xi dai jia	1
+麻秆做术腿——难撑	nan cheng	1
+麻秆搭桥——把人跌闪得好苦	nan guo	1
+麻秸抵门——经不起推敲	jing bu qi tui qiao	1
+麻线搓绳——合在一起干	he zuo	1
+麻绳打毛衣——乱牵扯	luan qian che	1
+麻绳穿针——钻不进	zuan bu jin	1
+麻脸姑娘掉井里——坑人不浅	keng ren bu qian	1
+麻脸媳妇拜见上嘴婆——彼此一样丑	yi yang chou	1
+麻蛇钻刺棵——有去无回	you qu wu hui	1
+麻袋做龙袍——不是这块料	bu shi zhe kuai liao	1
+麻袋里装麦秸——草包	cao bao	1
+麻雀吃桑葚——等不到老	bu chang jiu	1
+麻雀嫁女——细吹细打	jing da xi suan	1
+麻雀掉到洞庭湖里——不着边际	bu zhao bian ji	1
+麻雀搬家——唧唧喳喳	qi zui ba she	1
+麻雀斗鸡——越小越凶	yue xiao yue xiong	1
+麻雀的肚腹——小心眼	xiao xin yan	1
+麻雀虽小——五脏俱全	wu zang ju quan	1
+黄牛拉磨——慢工出细活	man gong chu xi huo	1
+黄豆煮豆腐——父子相认	fu zi xiang ren	1
+黄连树上结糖梨——甜果都从苦根来	ku jin gan lai	1
+黄连树下种苦瓜——苦生苦长	ku sheng ku zhang	1
+黄鼠狼下崽——一窝不如一窝	yi dai bu ru yi dai	1
+黄鼠狼抽了筋——浑身打哆哆	da duo suo	1
+黄鼠狼的脾气——偷鸡摸蛋	tou ji mo dan	1
+黄鼠狼给鸡拜年——没安好心	mei an hao xin	1
+黄鼠狼见了鸡——眼馋	yan chan	1
+黑李这碰见猛张飞——见面就崩	he bu lai	1
+黑瞎子上轿——谁抬你啊	mei ren tai ju	1
+黑瞎子吃石榴——满肚子熊点子	zhu yi duo	1
+黑瞎子耍门扛——人熊家伙笨	you chun you ben	1
+黑老鸦下了个白鸡蛋——就当自己长得白	tian bu zhi chi	1
+齐桓公用管仲——不记前仇	bu ji qian chou	1
