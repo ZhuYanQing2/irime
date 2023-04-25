@@ -1,0 +1,4610 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#  BetterRime词库增强包－实用版の准正式版 by @imy0823
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: english
+version: "2016.10.29"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+a	a	1
+abandon	a b a n d o n	1
+ability	a b i l i t y	1
+able	a b l e	1
+abortion	a b o r t i o n	1
+about	a b o u t	1
+above	a b o v e	1
+abroad	a b r o a d	1
+absence	a b s e n c e	1
+absent	a b s e n t	1
+absolute	a b s o l u t e	1
+absolutely	a b s o l u t e l y	1
+absorb	a b s o r b	1
+abstract	a b s t r a c t	1
+abuse	a b u s e	1
+academic	a c a d e m i c	1
+accelerate	a c c e l e r a t e	1
+accent	a c c e n t	1
+accept	a c c e p t	1
+acceptable	a c c e p t a b l e	1
+acceptance	a c c e p t a n c e	1
+access	a c c e s s	1
+accessible	a c c e s s i b l e	1
+accident	a c c i d e n t	1
+accommodate	a c c o m m o d a t e	1
+accompany	a c c o m p a n y	1
+accomplish	a c c o m p l i s h	1
+accomplishment	a c c o m p l i s h m e n t	1
+accord	a c c o r d	1
+according	a c c o r d i n g	1
+account	a c c o u n t	1
+accountability	a c c o u n t a b i l i t y	1
+accounting	a c c o u n t i n g	1
+accuracy	a c c u r a c y	1
+accurate	a c c u r a t e	1
+accurately	a c c u r a t e l y	1
+accusation	a c c u s a t i o n	1
+accuse	a c c u s e	1
+accustom	a c c u s t o m	1
+achieve	a c h i e v e	1
+achievement	a c h i e v e m e n t	1
+acid	a c i d	1
+acknowledge	a c k n o w l e d g e	1
+acquire	a c q u i r e	1
+acquisition	a c q u i s i t i o n	1
+across	a c r o s s	1
+act	a c t	1
+action	a c t i o n	1
+active	a c t i v e	1
+actively	a c t i v e l y	1
+activist	a c t i v i s t	1
+activity	a c t i v i t y	1
+actor	a c t o r	1
+actress	a c t r e s s	1
+actual	a c t u a l	1
+actually	a c t u a l l y	1
+ad	a d	1
+adapt	a d a p t	1
+add	a d d	1
+added	a d d e d	1
+addition	a d d i t i o n	1
+additional	a d d i t i o n a l	1
+address	a d d r e s s	1
+adequate	a d e q u a t e	1
+adjust	a d j u s t	1
+adjustment	a d j u s t m e n t	1
+administer	a d m i n i s t e r	1
+administration	a d m i n i s t r a t i o n	1
+administrative	a d m i n i s t r a t i v e	1
+administrator	a d m i n i s t r a t o r	1
+admire	a d m i r e	1
+admission	a d m i s s i o n	1
+admit	a d m i t	1
+adolescent	a d o l e s c e n t	1
+adopt	a d o p t	1
+adoption	a d o p t i o n	1
+adult	a d u l t	1
+advance	a d v a n c e	1
+advanced	a d v a n c e d	1
+advantage	a d v a n t a g e	1
+adventure	a d v e n t u r e	1
+advertise	a d v e r t i s e	1
+advertising	a d v e r t i s i n g	1
+advice	a d v i c e	1
+advise	a d v i s e	1
+adviser	a d v i s e r	1
+advocate	a d v o c a t e	1
+aesthetic	a e s t h e t i c	1
+affair	a f f a i r	1
+affect	a f f e c t	1
+afford	a f f o r d	1
+afraid	a f r a i d	1
+african	a f r i c a n	1
+African	a f r i c a n	1
+african-american	a f r i c a n -a m e r i c a n	1
+African-American	a f r i c a n -a m e r i c a n	1
+after	a f t e r	1
+afternoon	a f t e r n o o n	1
+afterward	a f t e r w a r d	1
+again	a g a i n	1
+against	a g a i n s t	1
+age	a g e	1
+agency	a g e n c y	1
+agenda	a g e n d a	1
+agent	a g e n t	1
+aggression	a g g r e s s i o n	1
+aggressive	a g g r e s s i v e	1
+ago	a g o	1
+agree	a g r e e	1
+agreement	a g r e e m e n t	1
+agricultural	a g r i c u l t u r a l	1
+agriculture	a g r i c u l t u r e	1
+ah	a h	1
+ahead	a h e a d	1
+aid	a i d	1
+aide	a i d e	1
+aids	a i d s	1
+AIDS	a i d s	1
+aim	a i m	1
+air	a i r	1
+aircraft	a i r c r a f t	1
+airline	a i r l i n e	1
+airplane	a i r p l a n e	1
+airport	a i r p o r t	1
+aisle	a i s l e	1
+alarm	a l a r m	1
+album	a l b u m	1
+alcohol	a l c o h o l	1
+alien	a l i e n	1
+alike	a l i k e	1
+alive	a l i v e	1
+all	a l l	1
+allegation	a l l e g a t i o n	1
+alleged	a l l e g e d	1
+allegedly	a l l e g e d l y	1
+alley	a l l e y	1
+alliance	a l l i a n c e	1
+allow	a l l o w	1
+allowance	a l l o w a n c e	1
+ally	a l l y	1
+almost	a l m o s t	1
+alone	a l o n e	1
+along	a l o n g	1
+alongside	a l o n g s i d e	1
+already	a l r e a d y	1
+also	a l s o	1
+alter	a l t e r	1
+alternative	a l t e r n a t i v e	1
+although	a l t h o u g h	1
+altogether	a l t o g e t h e r	1
+aluminum	a l u m i n u m	1
+always	a l w a y s	1
+am	a m	1
+AM	a m	1
+amazing	a m a z i n g	1
+ambassador	a m b a s s a d o r	1
+ambition	a m b i t i o n	1
+ambitious	a m b i t i o u s	1
+amendment	a m e n d m e n t	1
+american	a m e r i c a n	1
+American	a m e r i c a n	1
+amid	a m i d	1
+among	a m o n g	1
+amount	a m o u n t	1
+amuse	a m u s e	1
+analysis	a n a l y s i s	1
+analyst	a n a l y s t	1
+analyze	a n a l y z e	1
+ancestor	a n c e s t o r	1
+ancient	a n c i e n t	1
+and	a n d	1
+and/or	a n d /o r	1
+angel	a n g e l	1
+anger	a n g e r	1
+angle	a n g l e	1
+angry	a n g r y	1
+animal	a n i m a l	1
+ankle	a n k l e	1
+anniversary	a n n i v e r s a r y	1
+announce	a n n o u n c e	1
+announcement	a n n o u n c e m e n t	1
+annoy	a n n o y	1
+annual	a n n u a l	1
+annually	a n n u a l l y	1
+anonymous	a n o n y m o u s	1
+another	a n o t h e r	1
+answer	a n s w e r	1
+anticipate	a n t i c i p a t e	1
+anxiety	a n x i e t y	1
+anxious	a n x i o u s	1
+any	a n y	1
+anybody	a n y b o d y	1
+anyhow	a n y h o w	1
+anymore	a n y m o r e	1
+anyone	a n y o n e	1
+anything	a n y t h i n g	1
+anyway	a n y w a y	1
+anywhere	a n y w h e r e	1
+apart	a p a r t	1
+apartment	a p a r t m e n t	1
+apologize	a p o l o g i z e	1
+apology	a p o l o g y	1
+apparent	a p p a r e n t	1
+apparently	a p p a r e n t l y	1
+appeal	a p p e a l	1
+appear	a p p e a r	1
+appearance	a p p e a r a n c e	1
+apple	a p p l e	1
+application	a p p l i c a t i o n	1
+apply	a p p l y	1
+appoint	a p p o i n t	1
+appointment	a p p o i n t m e n t	1
+appreciate	a p p r e c i a t e	1
+appreciation	a p p r e c i a t i o n	1
+approach	a p p r o a c h	1
+appropriate	a p p r o p r i a t e	1
+approval	a p p r o v a l	1
+approve	a p p r o v e	1
+approximately	a p p r o x i m a t e l y	1
+arab	a r a b	1
+Arab	a r a b	1
+arch	a r c h	1
+architect	a r c h i t e c t	1
+architecture	a r c h i t e c t u r e	1
+area	a r e a	1
+arena	a r e n a	1
+argue	a r g u e	1
+argument	a r g u m e n t	1
+arise	a r i s e	1
+arm	a r m	1
+armed	a r m e d	1
+army	a r m y	1
+around	a r o u n d	1
+arrange	a r r a n g e	1
+arrangement	a r r a n g e m e n t	1
+array	a r r a y	1
+arrest	a r r e s t	1
+arrival	a r r i v a l	1
+arrive	a r r i v e	1
+arrow	a r r o w	1
+art	a r t	1
+article	a r t i c l e	1
+articulate	a r t i c u l a t e	1
+artifact	a r t i f a c t	1
+artificial	a r t i f i c i a l	1
+artist	a r t i s t	1
+artistic	a r t i s t i c	1
+as	a s	1
+ash	a s h	1
+ashamed	a s h a m e d	1
+asian	a s i a n	1
+Asian	a s i a n	1
+aside	a s i d e	1
+ask	a s k	1
+asleep	a s l e e p	1
+aspect	a s p e c t	1
+ass	a s s	1
+assault	a s s a u l t	1
+assemble	a s s e m b l e	1
+assembly	a s s e m b l y	1
+assert	a s s e r t	1
+assess	a s s e s s	1
+assessment	a s s e s s m e n t	1
+asset	a s s e t	1
+assign	a s s i g n	1
+assignment	a s s i g n m e n t	1
+assist	a s s i s t	1
+assistance	a s s i s t a n c e	1
+assistant	a s s i s t a n t	1
+associate	a s s o c i a t e	1
+associated	a s s o c i a t e d	1
+association	a s s o c i a t i o n	1
+assume	a s s u m e	1
+assumption	a s s u m p t i o n	1
+assure	a s s u r e	1
+astonish	a s t o n i s h	1
+astronomer	a s t r o n o m e r	1
+at	a t	1
+athlete	a t h l e t e	1
+athletic	a t h l e t i c	1
+atmosphere	a t m o s p h e r e	1
+atop	a t o p	1
+attach	a t t a c h	1
+attack	a t t a c k	1
+attempt	a t t e m p t	1
+attend	a t t e n d	1
+attendance	a t t e n d a n c e	1
+attention	a t t e n t i o n	1
+attitude	a t t i t u d e	1
+attorney	a t t o r n e y	1
+attract	a t t r a c t	1
+attraction	a t t r a c t i o n	1
+attractive	a t t r a c t i v e	1
+attribute	a t t r i b u t e	1
+auction	a u c t i o n	1
+audience	a u d i e n c e	1
+aunt	a u n t	1
+author	a u t h o r	1
+authority	a u t h o r i t y	1
+authorize	a u t h o r i z e	1
+auto	a u t o	1
+automatic	a u t o m a t i c	1
+automatically	a u t o m a t i c a l l y	1
+automobile	a u t o m o b i l e	1
+autonomy	a u t o n o m y	1
+autumn	a u t u m n	1
+availability	a v a i l a b i l i t y	1
+available	a v a i l a b l e	1
+avenue	a v e n u e	1
+average	a v e r a g e	1
+avoid	a v o i d	1
+await	a w a i t	1
+awake	a w a k e	1
+award	a w a r d	1
+aware	a w a r e	1
+awareness	a w a r e n e s s	1
+away	a w a y	1
+awful	a w f u l	1
+awkward	a w k w a r d	1
+axe	a x e	1
+baby	b a b y	1
+back	b a c k	1
+background	b a c k g r o u n d	1
+backward	b a c k w a r d	1
+backyard	b a c k y a r d	1
+bacteria	b a c t e r i a	1
+bad	b a d	1
+badly	b a d l y	1
+bag	b a g	1
+bake	b a k e	1
+balance	b a l a n c e	1
+balanced	b a l a n c e d	1
+ball	b a l l	1
+balloon	b a l l o o n	1
+ballot	b a l l o t	1
+ban	b a n	1
+banana	b a n a n a	1
+band	b a n d	1
+bank	b a n k	1
+banker	b a n k e r	1
+banking	b a n k i n g	1
+bankruptcy	b a n k r u p t c y	1
+bar	b a r	1
+bare	b a r e	1
+barely	b a r e l y	1
+bargain	b a r g a i n	1
+barn	b a r n	1
+barrel	b a r r e l	1
+barrier	b a r r i e r	1
+base	b a s e	1
+baseball	b a s e b a l l	1
+basement	b a s e m e n t	1
+basic	b a s i c	1
+basically	b a s i c a l l y	1
+basis	b a s i s	1
+basket	b a s k e t	1
+basketball	b a s k e t b a l l	1
+bat	b a t	1
+bath	b a t h	1
+bathe	b a t h e	1
+bathroom	b a t h r o o m	1
+battery	b a t t e r y	1
+battle	b a t t l e	1
+bay	b a y	1
+be	b e	1
+beach	b e a c h	1
+beam	b e a m	1
+bean	b e a n	1
+bear	b e a r	1
+beard	b e a r d	1
+beast	b e a s t	1
+beat	b e a t	1
+beautiful	b e a u t i f u l	1
+beauty	b e a u t y	1
+because	b e c a u s e	1
+become	b e c o m e	1
+bed	b e d	1
+bedroom	b e d r o o m	1
+bee	b e e	1
+beef	b e e f	1
+beer	b e e r	1
+before	b e f o r e	1
+beg	b e g	1
+begin	b e g i n	1
+beginning	b e g i n n i n g	1
+behalf	b e h a l f	1
+behave	b e h a v e	1
+behavior	b e h a v i o r	1
+behavioral	b e h a v i o r a l	1
+behind	b e h i n d	1
+being	b e i n g	1
+belief	b e l i e f	1
+believe	b e l i e v e	1
+bell	b e l l	1
+belly	b e l l y	1
+belong	b e l o n g	1
+below	b e l o w	1
+belt	b e l t	1
+bench	b e n c h	1
+bend	b e n d	1
+beneath	b e n e a t h	1
+benefit	b e n e f i t	1
+beside	b e s i d e	1
+besides	b e s i d e s	1
+best	b e s t	1
+bet	b e t	1
+better	b e t t e r	1
+between	b e t w e e n	1
+beyond	b e y o n d	1
+bias	b i a s	1
+bible	b i b l e	1
+Bible	b i b l e	1
+bicycle	b i c y c l e	1
+bid	b i d	1
+big	b i g	1
+bike	b i k e	1
+bill	b i l l	1
+billion	b i l l i o n	1
+bind	b i n d	1
+biography	b i o g r a p h y	1
+biological	b i o l o g i c a l	1
+biology	b i o l o g y	1
+bird	b i r d	1
+birth	b i r t h	1
+birthday	b i r t h d a y	1
+bishop	b i s h o p	1
+bit	b i t	1
+bite	b i t e	1
+bitter	b i t t e r	1
+black	b l a c k	1
+blade	b l a d e	1
+blame	b l a m e	1
+blank	b l a n k	1
+blanket	b l a n k e t	1
+blast	b l a s t	1
+bleed	b l e e d	1
+blend	b l e n d	1
+bless	b l e s s	1
+blessing	b l e s s i n g	1
+blind	b l i n d	1
+blink	b l i n k	1
+block	b l o c k	1
+blond	b l o n d	1
+blood	b l o o d	1
+bloody	b l o o d y	1
+blow	b l o w	1
+blue	b l u e	1
+board	b o a r d	1
+boast	b o a s t	1
+boat	b o a t	1
+body	b o d y	1
+boil	b o i l	1
+bold	b o l d	1
+bolt	b o l t	1
+bomb	b o m b	1
+bombing	b o m b i n g	1
+bond	b o n d	1
+bone	b o n e	1
+bonus	b o n u s	1
+book	b o o k	1
+boom	b o o m	1
+boost	b o o s t	1
+boot	b o o t	1
+booth	b o o t h	1
+border	b o r d e r	1
+boring	b o r i n g	1
+born	b o r n	1
+borrow	b o r r o w	1
+boss	b o s s	1
+both	b o t h	1
+bother	b o t h e r	1
+bottle	b o t t l e	1
+bottom	b o t t o m	1
+bounce	b o u n c e	1
+bound	b o u n d	1
+boundary	b o u n d a r y	1
+bow	b o w	1
+bowl	b o w l	1
+box	b o x	1
+boy	b o y	1
+boyfriend	b o y f r i e n d	1
+brain	b r a i n	1
+brake	b r a k e	1
+branch	b r a n c h	1
+brand	b r a n d	1
+brass	b r a s s	1
+brave	b r a v e	1
+bread	b r e a d	1
+break	b r e a k	1
+breakfast	b r e a k f a s t	1
+breast	b r e a s t	1
+breath	b r e a t h	1
+breathe	b r e a t h e	1
+breathing	b r e a t h i n g	1
+breeze	b r e e z e	1
+brick	b r i c k	1
+bride	b r i d e	1
+bridge	b r i d g e	1
+brief	b r i e f	1
+briefly	b r i e f l y	1
+bright	b r i g h t	1
+brilliant	b r i l l i a n t	1
+bring	b r i n g	1
+british	b r i t i s h	1
+British	b r i t i s h	1
+broad	b r o a d	1
+broadcast	b r o a d c a s t	1
+broken	b r o k e n	1
+broker	b r o k e r	1
+bronze	b r o n z e	1
+brother	b r o t h e r	1
+brown	b r o w n	1
+brush	b r u s h	1
+brutal	b r u t a l	1
+bubble	b u b b l e	1
+buck	b u c k	1
+bucket	b u c k e t	1
+buddy	b u d d y	1
+budget	b u d g e t	1
+bug	b u g	1
+build	b u i l d	1
+builder	b u i l d e r	1
+building	b u i l d i n g	1
+bulb	b u l b	1
+bulk	b u l k	1
+bull	b u l l	1
+bullet	b u l l e t	1
+bunch	b u n c h	1
+bundle	b u n d l e	1
+burden	b u r d e n	1
+bureau	b u r e a u	1
+burn	b u r n	1
+burning	b u r n i n g	1
+burst	b u r s t	1
+bury	b u r y	1
+bus	b u s	1
+bush	b u s h	1
+business	b u s i n e s s	1
+businessman	b u s i n e s s m a n	1
+businessman.	b u s i n e s s m a n 	1
+busy	b u s y	1
+but	b u t	1
+butt	b u t t	1
+butter	b u t t e r	1
+butterfly	b u t t e r f l y	1
+button	b u t t o n	1
+buy	b u y	1
+buyer	b u y e r	1
+by	b y	1
+cab	c a b	1
+cabin	c a b i n	1
+cabinet	c a b i n e t	1
+cable	c a b l e	1
+cage	c a g e	1
+cake	c a k e	1
+calculate	c a l c u l a t e	1
+calculation	c a l c u l a t i o n	1
+calendar	c a l e n d a r	1
+call	c a l l	1
+calm	c a l m	1
+camera	c a m e r a	1
+camp	c a m p	1
+campaign	c a m p a i g n	1
+campus	c a m p u s	1
+can	c a n	1
+canadian	c a n a d i a n	1
+Canadian	c a n a d i a n	1
+cancel	c a n c e l	1
+cancer	c a n c e r	1
+candidate	c a n d i d a t e	1
+candle	c a n d l e	1
+candy	c a n d y	1
+canvas	c a n v a s	1
+cap	c a p	1
+capability	c a p a b i l i t y	1
+capable	c a p a b l e	1
+capacity	c a p a c i t y	1
+cape	c a p e	1
+capital	c a p i t a l	1
+captain	c a p t a i n	1
+capture	c a p t u r e	1
+car	c a r	1
+carbohydrate	c a r b o h y d r a t e	1
+carbon	c a r b o n	1
+card	c a r d	1
+care	c a r e	1
+career	c a r e e r	1
+careful	c a r e f u l	1
+carefully	c a r e f u l l y	1
+cargo	c a r g o	1
+carpet	c a r p e t	1
+carriage	c a r r i a g e	1
+carrier	c a r r i e r	1
+carrot	c a r r o t	1
+carry	c a r r y	1
+cart	c a r t	1
+cartoon	c a r t o o n	1
+carve	c a r v e	1
+case	c a s e	1
+cash	c a s h	1
+casino	c a s i n o	1
+cast	c a s t	1
+casual	c a s u a l	1
+casualty	c a s u a l t y	1
+cat	c a t	1
+catalog	c a t a l o g	1
+catch	c a t c h	1
+category	c a t e g o r y	1
+catholic	c a t h o l i c	1
+Catholic	c a t h o l i c	1
+cattle	c a t t l e	1
+cause	c a u s e	1
+caution	c a u t i o n	1
+cautious	c a u t i o u s	1
+cave	c a v e	1
+cease	c e a s e	1
+ceiling	c e i l i n g	1
+celebrate	c e l e b r a t e	1
+celebration	c e l e b r a t i o n	1
+celebrity	c e l e b r i t y	1
+cell	c e l l	1
+cemetery	c e m e t e r y	1
+cent	c e n t	1
+center	c e n t e r	1
+central	c e n t r a l	1
+century	c e n t u r y	1
+ceo	c e o	1
+CEO	c e o	1
+ceremony	c e r e m o n y	1
+certain	c e r t a i n	1
+certainly	c e r t a i n l y	1
+certainty	c e r t a i n t y	1
+chain	c h a i n	1
+chair	c h a i r	1
+chairman	c h a i r m a n	1
+challenge	c h a l l e n g e	1
+chamber	c h a m b e r	1
+champion	c h a m p i o n	1
+championship	c h a m p i o n s h i p	1
+chance	c h a n c e	1
+change	c h a n g e	1
+changing	c h a n g i n g	1
+channel	c h a n n e l	1
+chaos	c h a o s	1
+chapter	c h a p t e r	1
+character	c h a r a c t e r	1
+characteristic	c h a r a c t e r i s t i c	1
+characterize	c h a r a c t e r i z e	1
+charge	c h a r g e	1
+charity	c h a r i t y	1
+charm	c h a r m	1
+chart	c h a r t	1
+charter	c h a r t e r	1
+chase	c h a s e	1
+cheap	c h e a p	1
+cheat	c h e a t	1
+check	c h e c k	1
+cheek	c h e e k	1
+cheer	c h e e r	1
+cheese	c h e e s e	1
+chef	c h e f	1
+chemical	c h e m i c a l	1
+chemistry	c h e m i s t r y	1
+chest	c h e s t	1
+chew	c h e w	1
+chicken	c h i c k e n	1
+chief	c h i e f	1
+child	c h i l d	1
+childhood	c h i l d h o o d	1
+chill	c h i l l	1
+chin	c h i n	1
+chinese	c h i n e s e	1
+Chinese	c h i n e s e	1
+chip	c h i p	1
+chocolate	c h o c o l a t e	1
+choice	c h o i c e	1
+cholesterol	c h o l e s t e r o l	1
+choose	c h o o s e	1
+chop	c h o p	1
+christian	c h r i s t i a n	1
+Christian	c h r i s t i a n	1
+christianity	c h r i s t i a n i t y	1
+Christianity	c h r i s t i a n i t y	1
+christmas	c h r i s t m a s	1
+Christmas	c h r i s t m a s	1
+chronic	c h r o n i c	1
+chunk	c h u n k	1
+church	c h u r c h	1
+cigarette	c i g a r e t t e	1
+circle	c i r c l e	1
+circuit	c i r c u i t	1
+circular	c i r c u l a r	1
+circumstance	c i r c u m s t a n c e	1
+cite	c i t e	1
+citizen	c i t i z e n	1
+citizenship	c i t i z e n s h i p	1
+city	c i t y	1
+civic	c i v i c	1
+civil	c i v i l	1
+civilian	c i v i l i a n	1
+civilization	c i v i l i z a t i o n	1
+civilize	c i v i l i z e	1
+claim	c l a i m	1
+class	c l a s s	1
+classic	c l a s s i c	1
+classical	c l a s s i c a l	1
+classification	c l a s s i f i c a t i o n	1
+classify	c l a s s i f y	1
+classroom	c l a s s r o o m	1
+clay	c l a y	1
+clean	c l e a n	1
+clear	c l e a r	1
+clearly	c l e a r l y	1
+clerk	c l e r k	1
+clever	c l e v e r	1
+click	c l i c k	1
+client	c l i e n t	1
+cliff	c l i f f	1
+climate	c l i m a t e	1
+climb	c l i m b	1
+cling	c l i n g	1
+clinic	c l i n i c	1
+clinical	c l i n i c a l	1
+clip	c l i p	1
+clock	c l o c k	1
+close	c l o s e	1
+closed	c l o s e d	1
+closely	c l o s e l y	1
+closer	c l o s e r	1
+closest	c l o s e s t	1
+closet	c l o s e t	1
+cloth	c l o t h	1
+clothe	c l o t h e	1
+clothes	c l o t h e s	1
+clothing	c l o t h i n g	1
+cloud	c l o u d	1
+club	c l u b	1
+clue	c l u e	1
+cluster	c l u s t e r	1
+coach	c o a c h	1
+coal	c o a l	1
+coalition	c o a l i t i o n	1
+coast	c o a s t	1
+coastal	c o a s t a l	1
+coat	c o a t	1
+cocaine	c o c a i n e	1
+code	c o d e	1
+coffee	c o f f e e	1
+cognitive	c o g n i t i v e	1
+coin	c o i n	1
+cold	c o l d	1
+collaboration	c o l l a b o r a t i o n	1
+collapse	c o l l a p s e	1
+collar	c o l l a r	1
+colleague	c o l l e a g u e	1
+collect	c o l l e c t	1
+collection	c o l l e c t i o n	1
+collective	c o l l e c t i v e	1
+collector	c o l l e c t o r	1
+college	c o l l e g e	1
+colonial	c o l o n i a l	1
+colony	c o l o n y	1
+color	c o l o r	1
+colorful	c o l o r f u l	1
+column	c o l u m n	1
+columnist	c o l u m n i s t	1
+combat	c o m b a t	1
+combination	c o m b i n a t i o n	1
+combine	c o m b i n e	1
+combined	c o m b i n e d	1
+come	c o m e	1
+comedy	c o m e d y	1
+comfort	c o m f o r t	1
+comfortable	c o m f o r t a b l e	1
+coming	c o m i n g	1
+command	c o m m a n d	1
+commander	c o m m a n d e r	1
+comment	c o m m e n t	1
+commerce	c o m m e r c e	1
+commercial	c o m m e r c i a l	1
+commission	c o m m i s s i o n	1
+commissioner	c o m m i s s i o n e r	1
+commit	c o m m i t	1
+commitment	c o m m i t m e n t	1
+committee	c o m m i t t e e	1
+commodity	c o m m o d i t y	1
+common	c o m m o n	1
+commonly	c o m m o n l y	1
+communicate	c o m m u n i c a t e	1
+communication	c o m m u n i c a t i o n	1
+community	c o m m u n i t y	1
+companion	c o m p a n i o n	1
+company	c o m p a n y	1
+comparable	c o m p a r a b l e	1
+compare	c o m p a r e	1
+comparison	c o m p a r i s o n	1
+compel	c o m p e l	1
+compelling	c o m p e l l i n g	1
+compensation	c o m p e n s a t i o n	1
+compete	c o m p e t e	1
+competition	c o m p e t i t i o n	1
+competitive	c o m p e t i t i v e	1
+competitor	c o m p e t i t o r	1
+complain	c o m p l a i n	1
+complaint	c o m p l a i n t	1
+complete	c o m p l e t e	1
+completely	c o m p l e t e l y	1
+completion	c o m p l e t i o n	1
+complex	c o m p l e x	1
+complexity	c o m p l e x i t y	1
+compliance	c o m p l i a n c e	1
+complicate	c o m p l i c a t e	1
+complicated	c o m p l i c a t e d	1
+comply	c o m p l y	1
+component	c o m p o n e n t	1
+compose	c o m p o s e	1
+composition	c o m p o s i t i o n	1
+compound	c o m p o u n d	1
+comprehensive	c o m p r e h e n s i v e	1
+comprise	c o m p r i s e	1
+compromise	c o m p r o m i s e	1
+computer	c o m p u t e r	1
+concede	c o n c e d e	1
+conceive	c o n c e i v e	1
+concentrate	c o n c e n t r a t e	1
+concentration	c o n c e n t r a t i o n	1
+concept	c o n c e p t	1
+conception	c o n c e p t i o n	1
+concern	c o n c e r n	1
+concerned	c o n c e r n e d	1
+concerning	c o n c e r n i n g	1
+concert	c o n c e r t	1
+conclude	c o n c l u d e	1
+conclusion	c o n c l u s i o n	1
+concrete	c o n c r e t e	1
+condemn	c o n d e m n	1
+condition	c o n d i t i o n	1
+conduct	c o n d u c t	1
+conference	c o n f e r e n c e	1
+confess	c o n f e s s	1
+confession	c o n f e s s i o n	1
+confidence	c o n f i d e n c e	1
+confident	c o n f i d e n t	1
+confirm	c o n f i r m	1
+conflict	c o n f l i c t	1
+confront	c o n f r o n t	1
+confrontation	c o n f r o n t a t i o n	1
+confuse	c o n f u s e	1
+confusion	c o n f u s i o n	1
+congress	c o n g r e s s	1
+Congress	c o n g r e s s	1
+congressional	c o n g r e s s i o n a l	1
+connect	c o n n e c t	1
+connection	c o n n e c t i o n	1
+conscience	c o n s c i e n c e	1
+conscious	c o n s c i o u s	1
+consciousness	c o n s c i o u s n e s s	1
+consecutive	c o n s e c u t i v e	1
+consensus	c o n s e n s u s	1
+consent	c o n s e n t	1
+consequence	c o n s e q u e n c e	1
+consequently	c o n s e q u e n t l y	1
+conservation	c o n s e r v a t i o n	1
+conservative	c o n s e r v a t i v e	1
+consider	c o n s i d e r	1
+considerable	c o n s i d e r a b l e	1
+considerably	c o n s i d e r a b l y	1
+consideration	c o n s i d e r a t i o n	1
+consist	c o n s i s t	1
+consistent	c o n s i s t e n t	1
+consistently	c o n s i s t e n t l y	1
+conspiracy	c o n s p i r a c y	1
+constant	c o n s t a n t	1
+constantly	c o n s t a n t l y	1
+constitute	c o n s t i t u t e	1
+constitution	c o n s t i t u t i o n	1
+constitutional	c o n s t i t u t i o n a l	1
+constraint	c o n s t r a i n t	1
+construct	c o n s t r u c t	1
+construction	c o n s t r u c t i o n	1
+consult	c o n s u l t	1
+consultant	c o n s u l t a n t	1
+consume	c o n s u m e	1
+consumer	c o n s u m e r	1
+consumption	c o n s u m p t i o n	1
+contact	c o n t a c t	1
+contain	c o n t a i n	1
+container	c o n t a i n e r	1
+contemplate	c o n t e m p l a t e	1
+contemporary	c o n t e m p o r a r y	1
+contend	c o n t e n d	1
+content	c o n t e n t	1
+contest	c o n t e s t	1
+context	c o n t e x t	1
+continent	c o n t i n e n t	1
+continue	c o n t i n u e	1
+continued	c o n t i n u e d	1
+continuing	c o n t i n u i n g	1
+continuous	c o n t i n u o u s	1
+contract	c o n t r a c t	1
+contractor	c o n t r a c t o r	1
+contrast	c o n t r a s t	1
+contribute	c o n t r i b u t e	1
+contribution	c o n t r i b u t i o n	1
+contributor	c o n t r i b u t o r	1
+control	c o n t r o l	1
+controversial	c o n t r o v e r s i a l	1
+controversy	c o n t r o v e r s y	1
+convenience	c o n v e n i e n c e	1
+convenient	c o n v e n i e n t	1
+convention	c o n v e n t i o n	1
+conventional	c o n v e n t i o n a l	1
+conversation	c o n v e r s a t i o n	1
+conversion	c o n v e r s i o n	1
+convert	c o n v e r t	1
+convey	c o n v e y	1
+convict	c o n v i c t	1
+conviction	c o n v i c t i o n	1
+convince	c o n v i n c e	1
+convinced	c o n v i n c e d	1
+cook	c o o k	1
+cookie	c o o k i e	1
+cooking	c o o k i n g	1
+cool	c o o l	1
+cooperate	c o o p e r a t e	1
+cooperation	c o o p e r a t i o n	1
+cooperative	c o o p e r a t i v e	1
+coordinate	c o o r d i n a t e	1
+coordinator	c o o r d i n a t o r	1
+cop	c o p	1
+cope	c o p e	1
+copy	c o p y	1
+cord	c o r d	1
+core	c o r e	1
+corn	c o r n	1
+corner	c o r n e r	1
+corporate	c o r p o r a t e	1
+corporation	c o r p o r a t i o n	1
+correct	c o r r e c t	1
+correctly	c o r r e c t l y	1
+correlation	c o r r e l a t i o n	1
+correspondent	c o r r e s p o n d e n t	1
+corridor	c o r r i d o r	1
+corruption	c o r r u p t i o n	1
+cost	c o s t	1
+costly	c o s t l y	1
+costume	c o s t u m e	1
+cottage	c o t t a g e	1
+cotton	c o t t o n	1
+couch	c o u c h	1
+could	c o u l d	1
+council	c o u n c i l	1
+counsel	c o u n s e l	1
+counseling	c o u n s e l i n g	1
+counselor	c o u n s e l o r	1
+count	c o u n t	1
+counter	c o u n t e r	1
+counterpart	c o u n t e r p a r t	1
+country	c o u n t r y	1
+county	c o u n t y	1
+coup	c o u p	1
+couple	c o u p l e	1
+courage	c o u r a g e	1
+course	c o u r s e	1
+court	c o u r t	1
+courtroom	c o u r t r o o m	1
+cousin	c o u s i n	1
+cover	c o v e r	1
+coverage	c o v e r a g e	1
+cow	c o w	1
+crack	c r a c k	1
+craft	c r a f t	1
+crash	c r a s h	1
+crawl	c r a w l	1
+crazy	c r a z y	1
+cream	c r e a m	1
+create	c r e a t e	1
+creation	c r e a t i o n	1
+creative	c r e a t i v e	1
+creativity	c r e a t i v i t y	1
+creature	c r e a t u r e	1
+credibility	c r e d i b i l i t y	1
+credit	c r e d i t	1
+creep	c r e e p	1
+crew	c r e w	1
+crime	c r i m e	1
+criminal	c r i m i n a l	1
+crisis	c r i s i s	1
+criteria	c r i t e r i a	1
+critic	c r i t i c	1
+critical	c r i t i c a l	1
+criticism	c r i t i c i s m	1
+criticize	c r i t i c i z e	1
+crop	c r o p	1
+cross	c r o s s	1
+crowd	c r o w d	1
+crowded	c r o w d e d	1
+crown	c r o w n	1
+crucial	c r u c i a l	1
+cruel	c r u e l	1
+cruise	c r u i s e	1
+crush	c r u s h	1
+cry	c r y	1
+crystal	c r y s t a l	1
+cuban	c u b a n	1
+Cuban	c u b a n	1
+cue	c u e	1
+cultivate	c u l t i v a t e	1
+cultural	c u l t u r a l	1
+culture	c u l t u r e	1
+cup	c u p	1
+cure	c u r e	1
+curiosity	c u r i o s i t y	1
+curious	c u r i o u s	1
+curl	c u r l	1
+currency	c u r r e n c y	1
+current	c u r r e n t	1
+currently	c u r r e n t l y	1
+curriculum	c u r r i c u l u m	1
+curse	c u r s e	1
+curtain	c u r t a i n	1
+curve	c u r v e	1
+custody	c u s t o d y	1
+custom	c u s t o m	1
+customary	c u s t o m a r y	1
+customer	c u s t o m e r	1
+cut	c u t	1
+cute	c u t e	1
+cycle	c y c l e	1
+dad	d a d	1
+daily	d a i l y	1
+dam	d a m	1
+damage	d a m a g e	1
+damn	d a m n	1
+damp	d a m p	1
+dance	d a n c e	1
+dancer	d a n c e r	1
+dancing	d a n c i n g	1
+danger	d a n g e r	1
+dangerous	d a n g e r o u s	1
+dare	d a r e	1
+dark	d a r k	1
+darkness	d a r k n e s s	1
+data	d a t a	1
+database	d a t a b a s e	1
+date	d a t e	1
+daughter	d a u g h t e r	1
+dawn	d a w n	1
+day	d a y	1
+daylight	d a y l i g h t	1
+dead	d e a d	1
+deadline	d e a d l i n e	1
+deadly	d e a d l y	1
+deal	d e a l	1
+dealer	d e a l e r	1
+dear	d e a r	1
+death	d e a t h	1
+debate	d e b a t e	1
+debris	d e b r i s	1
+debt	d e b t	1
+debut	d e b u t	1
+decade	d e c a d e	1
+decay	d e c a y	1
+decent	d e c e n t	1
+decide	d e c i d e	1
+decision	d e c i s i o n	1
+decisive	d e c i s i v e	1
+deck	d e c k	1
+declare	d e c l a r e	1
+decline	d e c l i n e	1
+decorate	d e c o r a t e	1
+decrease	d e c r e a s e	1
+dedicate	d e d i c a t e	1
+deed	d e e d	1
+deem	d e e m	1
+deep	d e e p	1
+deeply	d e e p l y	1
+deer	d e e r	1
+defeat	d e f e a t	1
+defend	d e f e n d	1
+defendant	d e f e n d a n t	1
+defender	d e f e n d e r	1
+defense	d e f e n s e	1
+defensive	d e f e n s i v e	1
+deficit	d e f i c i t	1
+define	d e f i n e	1
+definitely	d e f i n i t e l y	1
+definition	d e f i n i t i o n	1
+degree	d e g r e e	1
+delay	d e l a y	1
+deliberately	d e l i b e r a t e l y	1
+delicate	d e l i c a t e	1
+delight	d e l i g h t	1
+deliver	d e l i v e r	1
+delivery	d e l i v e r y	1
+demand	d e m a n d	1
+democracy	d e m o c r a c y	1
+democrat	d e m o c r a t	1
+Democrat	d e m o c r a t	1
+democratic	d e m o c r a t i c	1
+demographic	d e m o g r a p h i c	1
+demonstrate	d e m o n s t r a t e	1
+demonstration	d e m o n s t r a t i o n	1
+denial	d e n i a l	1
+dense	d e n s e	1
+density	d e n s i t y	1
+deny	d e n y	1
+depart	d e p a r t	1
+department	d e p a r t m e n t	1
+departure	d e p a r t u r e	1
+depend	d e p e n d	1
+dependence	d e p e n d e n c e	1
+dependent	d e p e n d e n t	1
+depending	d e p e n d i n g	1
+depict	d e p i c t	1
+deploy	d e p l o y	1
+deposit	d e p o s i t	1
+depressed	d e p r e s s e d	1
+depression	d e p r e s s i o n	1
+depth	d e p t h	1
+deputy	d e p u t y	1
+derive	d e r i v e	1
+descend	d e s c e n d	1
+describe	d e s c r i b e	1
+description	d e s c r i p t i o n	1
+desert	d e s e r t	1
+deserve	d e s e r v e	1
+design	d e s i g n	1
+designer	d e s i g n e r	1
+desire	d e s i r e	1
+desk	d e s k	1
+despair	d e s p a i r	1
+desperate	d e s p e r a t e	1
+desperately	d e s p e r a t e l y	1
+despite	d e s p i t e	1
+dessert	d e s s e r t	1
+destination	d e s t i n a t i o n	1
+destroy	d e s t r o y	1
+destruction	d e s t r u c t i o n	1
+destructive	d e s t r u c t i v e	1
+detail	d e t a i l	1
+detailed	d e t a i l e d	1
+detect	d e t e c t	1
+detective	d e t e c t i v e	1
+determination	d e t e r m i n a t i o n	1
+determine	d e t e r m i n e	1
+devastating	d e v a s t a t i n g	1
+develop	d e v e l o p	1
+developer	d e v e l o p e r	1
+developing	d e v e l o p i n g	1
+development	d e v e l o p m e n t	1
+developmental	d e v e l o p m e n t a l	1
+device	d e v i c e	1
+devil	d e v i l	1
+devote	d e v o t e	1
+diabetes	d i a b e t e s	1
+diagnose	d i a g n o s e	1
+diagnosis	d i a g n o s i s	1
+dialogue	d i a l o g u e	1
+diamond	d i a m o n d	1
+diary	d i a r y	1
+dictate	d i c t a t e	1
+dictionary	d i c t i o n a r y	1
+die	d i e	1
+diet	d i e t	1
+differ	d i f f e r	1
+difference	d i f f e r e n c e	1
+different	d i f f e r e n t	1
+differently	d i f f e r e n t l y	1
+difficult	d i f f i c u l t	1
+difficulty	d i f f i c u l t y	1
+dig	d i g	1
+digital	d i g i t a l	1
+dignity	d i g n i t y	1
+dilemma	d i l e m m a	1
+dimension	d i m e n s i o n	1
+diminish	d i m i n i s h	1
+dine	d i n e	1
+dining	d i n i n g	1
+dinner	d i n n e r	1
+dip	d i p	1
+diplomat	d i p l o m a t	1
+diplomatic	d i p l o m a t i c	1
+direct	d i r e c t	1
+direction	d i r e c t i o n	1
+directly	d i r e c t l y	1
+director	d i r e c t o r	1
+dirt	d i r t	1
+dirty	d i r t y	1
+disability	d i s a b i l i t y	1
+disabled	d i s a b l e d	1
+disagree	d i s a g r e e	1
+disappear	d i s a p p e a r	1
+disappoint	d i s a p p o i n t	1
+disappointed	d i s a p p o i n t e d	1
+disappointment	d i s a p p o i n t m e n t	1
+disapprove	d i s a p p r o v e	1
+disaster	d i s a s t e r	1
+disc	d i s c	1
+discipline	d i s c i p l i n e	1
+disclose	d i s c l o s e	1
+discount	d i s c o u n t	1
+discourage	d i s c o u r a g e	1
+discourse	d i s c o u r s e	1
+discover	d i s c o v e r	1
+discovery	d i s c o v e r y	1
+discrimination	d i s c r i m i n a t i o n	1
+discuss	d i s c u s s	1
+discussion	d i s c u s s i o n	1
+disease	d i s e a s e	1
+dish	d i s h	1
+disk	d i s k	1
+dismiss	d i s m i s s	1
+disorder	d i s o r d e r	1
+display	d i s p l a y	1
+dispute	d i s p u t e	1
+dissolve	d i s s o l v e	1
+distance	d i s t a n c e	1
+distant	d i s t a n t	1
+distinct	d i s t i n c t	1
+distinction	d i s t i n c t i o n	1
+distinctive	d i s t i n c t i v e	1
+distinguish	d i s t i n g u i s h	1
+distract	d i s t r a c t	1
+distribute	d i s t r i b u t e	1
+distribution	d i s t r i b u t i o n	1
+district	d i s t r i c t	1
+disturb	d i s t u r b	1
+disturbing	d i s t u r b i n g	1
+dive	d i v e	1
+diverse	d i v e r s e	1
+diversity	d i v e r s i t y	1
+divide	d i v i d e	1
+divine	d i v i n e	1
+division	d i v i s i o n	1
+divorce	d i v o r c e	1
+dna	d n a	1
+DNA	d n a	1
+do	d o	1
+dock	d o c k	1
+doctor	d o c t o r	1
+doctrine	d o c t r i n e	1
+document	d o c u m e n t	1
+documentary	d o c u m e n t a r y	1
+dog	d o g	1
+doll	d o l l	1
+dollar	d o l l a r	1
+domain	d o m a i n	1
+domestic	d o m e s t i c	1
+dominant	d o m i n a n t	1
+dominate	d o m i n a t e	1
+donate	d o n a t e	1
+donation	d o n a t i o n	1
+donor	d o n o r	1
+door	d o o r	1
+doorway	d o o r w a y	1
+dose	d o s e	1
+dot	d o t	1
+double	d o u b l e	1
+doubt	d o u b t	1
+dough	d o u g h	1
+down	d o w n	1
+downtown	d o w n t o w n	1
+dozen	d o z e n	1
+draft	d r a f t	1
+drag	d r a g	1
+drain	d r a i n	1
+drama	d r a m a	1
+dramatic	d r a m a t i c	1
+dramatically	d r a m a t i c a l l y	1
+draw	d r a w	1
+drawer	d r a w e r	1
+drawing	d r a w i n g	1
+dream	d r e a m	1
+dress	d r e s s	1
+dried	d r i e d	1
+drift	d r i f t	1
+drill	d r i l l	1
+drink	d r i n k	1
+drinking	d r i n k i n g	1
+drive	d r i v e	1
+driver	d r i v e r	1
+driveway	d r i v e w a y	1
+driving	d r i v i n g	1
+drop	d r o p	1
+drown	d r o w n	1
+drug	d r u g	1
+drum	d r u m	1
+drunk	d r u n k	1
+dry	d r y	1
+duck	d u c k	1
+due	d u e	1
+dull	d u l l	1
+dumb	d u m b	1
+dump	d u m p	1
+during	d u r i n g	1
+dust	d u s t	1
+dutch	d u t c h	1
+Dutch	d u t c h	1
+duty	d u t y	1
+dying	d y i n g	1
+dynamic	d y n a m i c	1
+dynamics	d y n a m i c s	1
+each	e a c h	1
+eager	e a g e r	1
+ear	e a r	1
+early	e a r l y	1
+earn	e a r n	1
+earnest	e a r n e s t	1
+earnings	e a r n i n g s	1
+earth	e a r t h	1
+earthquake	e a r t h q u a k e	1
+ease	e a s e	1
+easily	e a s i l y	1
+east	e a s t	1
+eastern	e a s t e r n	1
+easy	e a s y	1
+eat	e a t	1
+eating	e a t i n g	1
+echo	e c h o	1
+ecological	e c o l o g i c a l	1
+economic	e c o n o m i c	1
+economically	e c o n o m i c a l l y	1
+economics	e c o n o m i c s	1
+economist	e c o n o m i s t	1
+economy	e c o n o m y	1
+ecosystem	e c o s y s t e m	1
+edge	e d g e	1
+edit	e d i t	1
+edition	e d i t i o n	1
+editor	e d i t o r	1
+educate	e d u c a t e	1
+education	e d u c a t i o n	1
+educational	e d u c a t i o n a l	1
+educator	e d u c a t o r	1
+effect	e f f e c t	1
+effective	e f f e c t i v e	1
+effectively	e f f e c t i v e l y	1
+effectiveness	e f f e c t i v e n e s s	1
+efficiency	e f f i c i e n c y	1
+efficient	e f f i c i e n t	1
+effort	e f f o r t	1
+egg	e g g	1
+ego	e g o	1
+eight	e i g h t	1
+eighth	e i g h t h	1
+either	e i t h e r	1
+elaborate	e l a b o r a t e	1
+elbow	e l b o w	1
+elder	e l d e r	1
+elderly	e l d e r l y	1
+elect	e l e c t	1
+election	e l e c t i o n	1
+electric	e l e c t r i c	1
+electrical	e l e c t r i c a l	1
+electricity	e l e c t r i c i t y	1
+electronic	e l e c t r o n i c	1
+electronics	e l e c t r o n i c s	1
+elegant	e l e g a n t	1
+element	e l e m e n t	1
+elementary	e l e m e n t a r y	1
+elephant	e l e p h a n t	1
+elevator	e l e v a t o r	1
+eleven	e l e v e n	1
+eligible	e l i g i b l e	1
+eliminate	e l i m i n a t e	1
+elite	e l i t e	1
+else	e l s e	1
+elsewhere	e l s e w h e r e	1
+e-mail	e -m a i l	1
+embarrassed	e m b a r r a s s e d	1
+embrace	e m b r a c e	1
+emerge	e m e r g e	1
+emergency	e m e r g e n c y	1
+emerging	e m e r g i n g	1
+emission	e m i s s i o n	1
+emotion	e m o t i o n	1
+emotional	e m o t i o n a l	1
+emotionally	e m o t i o n a l l y	1
+emphasis	e m p h a s i s	1
+emphasize	e m p h a s i z e	1
+empire	e m p i r e	1
+employ	e m p l o y	1
+employee	e m p l o y e e	1
+employer	e m p l o y e r	1
+employment	e m p l o y m e n t	1
+empty	e m p t y	1
+enable	e n a b l e	1
+enact	e n a c t	1
+encounter	e n c o u n t e r	1
+encourage	e n c o u r a g e	1
+encouraging	e n c o u r a g i n g	1
+end	e n d	1
+endless	e n d l e s s	1
+endorse	e n d o r s e	1
+endure	e n d u r e	1
+enemy	e n e m y	1
+energy	e n e r g y	1
+enforce	e n f o r c e	1
+enforcement	e n f o r c e m e n t	1
+engage	e n g a g e	1
+engagement	e n g a g e m e n t	1
+engine	e n g i n e	1
+engineer	e n g i n e e r	1
+engineering	e n g i n e e r i n g	1
+english	e n g l i s h	1
+English	e n g l i s h	1
+enhance	e n h a n c e	1
+enjoy	e n j o y	1
+enormous	e n o r m o u s	1
+enough	e n o u g h	1
+enroll	e n r o l l	1
+ensure	e n s u r e	1
+enter	e n t e r	1
+enterprise	e n t e r p r i s e	1
+entertain	e n t e r t a i n	1
+entertainment	e n t e r t a i n m e n t	1
+enthusiasm	e n t h u s i a s m	1
+entire	e n t i r e	1
+entirely	e n t i r e l y	1
+entitle	e n t i t l e	1
+entity	e n t i t y	1
+entrance	e n t r a n c e	1
+entrepreneur	e n t r e p r e n e u r	1
+entry	e n t r y	1
+envelope	e n v e l o p e	1
+environment	e n v i r o n m e n t	1
+environmental	e n v i r o n m e n t a l	1
+envision	e n v i s i o n	1
+envy	e n v y	1
+epidemic	e p i d e m i c	1
+episode	e p i s o d e	1
+equal	e q u a l	1
+equality	e q u a l i t y	1
+equally	e q u a l l y	1
+equation	e q u a t i o n	1
+equip	e q u i p	1
+equipment	e q u i p m e n t	1
+equity	e q u i t y	1
+equivalent	e q u i v a l e n t	1
+era	e r a	1
+error	e r r o r	1
+escape	e s c a p e	1
+especially	e s p e c i a l l y	1
+essay	e s s a y	1
+essence	e s s e n c e	1
+essential	e s s e n t i a l	1
+essentially	e s s e n t i a l l y	1
+establish	e s t a b l i s h	1
+establishment	e s t a b l i s h m e n t	1
+estate	e s t a t e	1
+estimate	e s t i m a t e	1
+estimated	e s t i m a t e d	1
+etc	e t c	1
+ethical	e t h i c a l	1
+ethics	e t h i c s	1
+ethnic	e t h n i c	1
+european	e u r o p e a n	1
+European	e u r o p e a n	1
+evaluate	e v a l u a t e	1
+evaluation	e v a l u a t i o n	1
+even	e v e n	1
+evening	e v e n i n g	1
+event	e v e n t	1
+eventually	e v e n t u a l l y	1
+ever	e v e r	1
+every	e v e r y	1
+everybody	e v e r y b o d y	1
+everyday	e v e r y d a y	1
+everyone	e v e r y o n e	1
+everything	e v e r y t h i n g	1
+everywhere	e v e r y w h e r e	1
+evidence	e v i d e n c e	1
+evident	e v i d e n t	1
+evil	e v i l	1
+evolution	e v o l u t i o n	1
+evolve	e v o l v e	1
+exact	e x a c t	1
+exactly	e x a c t l y	1
+exam	e x a m	1
+examination	e x a m i n a t i o n	1
+examine	e x a m i n e	1
+example	e x a m p l e	1
+exceed	e x c e e d	1
+excellent	e x c e l l e n t	1
+except	e x c e p t	1
+exception	e x c e p t i o n	1
+excess	e x c e s s	1
+excessive	e x c e s s i v e	1
+exchange	e x c h a n g e	1
+excite	e x c i t e	1
+excited	e x c i t e d	1
+excitement	e x c i t e m e n t	1
+exciting	e x c i t i n g	1
+exclude	e x c l u d e	1
+exclusive	e x c l u s i v e	1
+exclusively	e x c l u s i v e l y	1
+excuse	e x c u s e	1
+execute	e x e c u t e	1
+execution	e x e c u t i o n	1
+executive	e x e c u t i v e	1
+exercise	e x e r c i s e	1
+exhaust	e x h a u s t	1
+exhibit	e x h i b i t	1
+exhibition	e x h i b i t i o n	1
+exist	e x i s t	1
+existence	e x i s t e n c e	1
+existing	e x i s t i n g	1
+exit	e x i t	1
+exotic	e x o t i c	1
+expand	e x p a n d	1
+expansion	e x p a n s i o n	1
+expect	e x p e c t	1
+expectation	e x p e c t a t i o n	1
+expected	e x p e c t e d	1
+expedition	e x p e d i t i o n	1
+expense	e x p e n s e	1
+expensive	e x p e n s i v e	1
+experience	e x p e r i e n c e	1
+experienced	e x p e r i e n c e d	1
+experiment	e x p e r i m e n t	1
+experimental	e x p e r i m e n t a l	1
+expert	e x p e r t	1
+expertise	e x p e r t i s e	1
+explain	e x p l a i n	1
+explanation	e x p l a n a t i o n	1
+explicit	e x p l i c i t	1
+explode	e x p l o d e	1
+exploit	e x p l o i t	1
+exploration	e x p l o r a t i o n	1
+explore	e x p l o r e	1
+explosion	e x p l o s i o n	1
+explosive	e x p l o s i v e	1
+export	e x p o r t	1
+expose	e x p o s e	1
+exposure	e x p o s u r e	1
+express	e x p r e s s	1
+expression	e x p r e s s i o n	1
+extend	e x t e n d	1
+extended	e x t e n d e d	1
+extension	e x t e n s i o n	1
+extensive	e x t e n s i v e	1
+extent	e x t e n t	1
+external	e x t e r n a l	1
+extra	e x t r a	1
+extraordinary	e x t r a o r d i n a r y	1
+extreme	e x t r e m e	1
+extremely	e x t r e m e l y	1
+eye	e y e	1
+eyebrow	e y e b r o w	1
+fabric	f a b r i c	1
+face	f a c e	1
+facilitate	f a c i l i t a t e	1
+facility	f a c i l i t y	1
+fact	f a c t	1
+factor	f a c t o r	1
+factory	f a c t o r y	1
+faculty	f a c u l t y	1
+fade	f a d e	1
+fail	f a i l	1
+failure	f a i l u r e	1
+faint	f a i n t	1
+fair	f a i r	1
+fairly	f a i r l y	1
+faith	f a i t h	1
+fall	f a l l	1
+FALSE	f a l s e	1
+fame	f a m e	1
+familiar	f a m i l i a r	1
+family	f a m i l y	1
+famous	f a m o u s	1
+fan	f a n	1
+fancy	f a n c y	1
+fantastic	f a n t a s t i c	1
+fantasy	f a n t a s y	1
+far	f a r	1
+fare	f a r e	1
+farm	f a r m	1
+farmer	f a r m e r	1
+fascinating	f a s c i n a t i n g	1
+fashion	f a s h i o n	1
+fast	f a s t	1
+fasten	f a s t e n	1
+faster	f a s t e r	1
+fat	f a t	1
+fatal	f a t a l	1
+fate	f a t e	1
+father	f a t h e r	1
+fatigue	f a t i g u e	1
+fault	f a u l t	1
+favor	f a v o r	1
+favorable	f a v o r a b l e	1
+favorite	f a v o r i t e	1
+fear	f e a r	1
+feather	f e a t h e r	1
+feature	f e a t u r e	1
+federal	f e d e r a l	1
+fee	f e e	1
+feed	f e e d	1
+feedback	f e e d b a c k	1
+feel	f e e l	1
+feeling	f e e l i n g	1
+fellow	f e l l o w	1
+fellowship	f e l l o w s h i p	1
+female	f e m a l e	1
+feminist	f e m i n i s t	1
+fence	f e n c e	1
+festival	f e s t i v a l	1
+fever	f e v e r	1
+few	f e w	1
+fewer	f e w e r	1
+fiber	f i b e r	1
+fiction	f i c t i o n	1
+field	f i e l d	1
+fierce	f i e r c e	1
+fifteen	f i f t e e n	1
+fifth	f i f t h	1
+fifty	f i f t y	1
+fight	f i g h t	1
+fighter	f i g h t e r	1
+fighting	f i g h t i n g	1
+figure	f i g u r e	1
+file	f i l e	1
+fill	f i l l	1
+film	f i l m	1
+filter	f i l t e r	1
+final	f i n a l	1
+finally	f i n a l l y	1
+finance	f i n a n c e	1
+financial	f i n a n c i a l	1
+find	f i n d	1
+finding	f i n d i n g	1
+fine	f i n e	1
+finger	f i n g e r	1
+finish	f i n i s h	1
+fire	f i r e	1
+firm	f i r m	1
+first	f i r s t	1
+fiscal	f i s c a l	1
+fish	f i s h	1
+fisherman	f i s h e r m a n	1
+fishing	f i s h i n g	1
+fist	f i s t	1
+fit	f i t	1
+fitness	f i t n e s s	1
+five	f i v e	1
+fix	f i x	1
+fixed	f i x e d	1
+flag	f l a g	1
+flame	f l a m e	1
+flash	f l a s h	1
+flat	f l a t	1
+flavor	f l a v o r	1
+flee	f l e e	1
+fleet	f l e e t	1
+flesh	f l e s h	1
+flexibility	f l e x i b i l i t y	1
+flexible	f l e x i b l e	1
+flight	f l i g h t	1
+flip	f l i p	1
+float	f l o a t	1
+flood	f l o o d	1
+floor	f l o o r	1
+flour	f l o u r	1
+flow	f l o w	1
+flower	f l o w e r	1
+fluid	f l u i d	1
+fly	f l y	1
+flying	f l y i n g	1
+focus	f o c u s	1
+fog	f o g	1
+fold	f o l d	1
+folk	f o l k	1
+follow	f o l l o w	1
+following	f o l l o w i n g	1
+fond	f o n d	1
+food	f o o d	1
+fool	f o o l	1
+foot	f o o t	1
+football	f o o t b a l l	1
+for	f o r	1
+forbid	f o r b i d	1
+force	f o r c e	1
+forehead	f o r e h e a d	1
+foreign	f o r e i g n	1
+foreigner	f o r e i g n e r	1
+forest	f o r e s t	1
+forever	f o r e v e r	1
+forget	f o r g e t	1
+forgive	f o r g i v e	1
+fork	f o r k	1
+form	f o r m	1
+formal	f o r m a l	1
+format	f o r m a t	1
+formation	f o r m a t i o n	1
+former	f o r m e r	1
+formerly	f o r m e r l y	1
+formula	f o r m u l a	1
+forth	f o r t h	1
+fortunate	f o r t u n a t e	1
+fortunately	f o r t u n a t e l y	1
+fortune	f o r t u n e	1
+forty	f o r t y	1
+forum	f o r u m	1
+forward	f o r w a r d	1
+foster	f o s t e r	1
+found	f o u n d	1
+foundation	f o u n d a t i o n	1
+founder	f o u n d e r	1
+four	f o u r	1
+fourth	f o u r t h	1
+fraction	f r a c t i o n	1
+fragile	f r a g i l e	1
+fragment	f r a g m e n t	1
+frame	f r a m e	1
+framework	f r a m e w o r k	1
+franchise	f r a n c h i s e	1
+frankly	f r a n k l y	1
+fraud	f r a u d	1
+free	f r e e	1
+freedom	f r e e d o m	1
+freely	f r e e l y	1
+freeze	f r e e z e	1
+french	f r e n c h	1
+French	f r e n c h	1
+frequency	f r e q u e n c y	1
+frequent	f r e q u e n t	1
+frequently	f r e q u e n t l y	1
+fresh	f r e s h	1
+freshman	f r e s h m a n	1
+friend	f r i e n d	1
+friendly	f r i e n d l y	1
+friendship	f r i e n d s h i p	1
+frighten	f r i g h t e n	1
+from	f r o m	1
+front	f r o n t	1
+frontier	f r o n t i e r	1
+frown	f r o w n	1
+frozen	f r o z e n	1
+fruit	f r u i t	1
+frustrate	f r u s t r a t e	1
+frustration	f r u s t r a t i o n	1
+fucking	f u c k i n g	1
+fuel	f u e l	1
+full	f u l l	1
+full-time	f u l l -t i m e	1
+fully	f u l l y	1
+fun	f u n	1
+function	f u n c t i o n	1
+functional	f u n c t i o n a l	1
+fund	f u n d	1
+fundamental	f u n d a m e n t a l	1
+funding	f u n d i n g	1
+funeral	f u n e r a l	1
+funny	f u n n y	1
+fur	f u r	1
+furnish	f u r n i s h	1
+furniture	f u r n i t u r e	1
+further	f u r t h e r	1
+furthermore	f u r t h e r m o r e	1
+future	f u t u r e	1
+gain	g a i n	1
+galaxy	g a l a x y	1
+gallery	g a l l e r y	1
+game	g a m e	1
+gang	g a n g	1
+gap	g a p	1
+garage	g a r a g e	1
+garbage	g a r b a g e	1
+garden	g a r d e n	1
+garlic	g a r l i c	1
+gas	g a s	1
+gasoline	g a s o l i n e	1
+gate	g a t e	1
+gather	g a t h e r	1
+gathering	g a t h e r i n g	1
+gay	g a y	1
+gaze	g a z e	1
+gear	g e a r	1
+gender	g e n d e r	1
+gene	g e n e	1
+general	g e n e r a l	1
+generally	g e n e r a l l y	1
+generate	g e n e r a t e	1
+generation	g e n e r a t i o n	1
+generous	g e n e r o u s	1
+genetic	g e n e t i c	1
+genius	g e n i u s	1
+genre	g e n r e	1
+gentle	g e n t l e	1
+gentleman	g e n t l e m a n	1
+gently	g e n t l y	1
+genuine	g e n u i n e	1
+german	g e r m a n	1
+German	g e r m a n	1
+gesture	g e s t u r e	1
+get	g e t	1
+ghost	g h o s t	1
+giant	g i a n t	1
+gift	g i f t	1
+gifted	g i f t e d	1
+girl	g i r l	1
+girlfriend	g i r l f r i e n d	1
+give	g i v e	1
+given	g i v e n	1
+glad	g l a d	1
+glance	g l a n c e	1
+glass	g l a s s	1
+glimpse	g l i m p s e	1
+global	g l o b a l	1
+globe	g l o b e	1
+glory	g l o r y	1
+glove	g l o v e	1
+go	g o	1
+goal	g o a l	1
+goat	g o a t	1
+god	g o d	1
+God	g o d	1
+gold	g o l d	1
+golden	g o l d e n	1
+golf	g o l f	1
+good	g o o d	1
+govern	g o v e r n	1
+government	g o v e r n m e n t	1
+governor	g o v e r n o r	1
+grab	g r a b	1
+grace	g r a c e	1
+grade	g r a d e	1
+gradual	g r a d u a l	1
+gradually	g r a d u a l l y	1
+graduate	g r a d u a t e	1
+graduation	g r a d u a t i o n	1
+grain	g r a i n	1
+grand	g r a n d	1
+grandchild	g r a n d c h i l d	1
+grandfather	g r a n d f a t h e r	1
+grandmother	g r a n d m o t h e r	1
+grandparent	g r a n d p a r e n t	1
+grant	g r a n t	1
+grape	g r a p e	1
+grasp	g r a s p	1
+grass	g r a s s	1
+grateful	g r a t e f u l	1
+grave	g r a v e	1
+gravity	g r a v i t y	1
+gray	g r a y	1
+grease	g r e a s e	1
+great	g r e a t	1
+greatest	g r e a t e s t	1
+greatly	g r e a t l y	1
+greek	g r e e k	1
+Greek	g r e e k	1
+green	g r e e n	1
+greet	g r e e t	1
+grief	g r i e f	1
+grin	g r i n	1
+grind	g r i n d	1
+grip	g r i p	1
+grocery	g r o c e r y	1
+gross	g r o s s	1
+ground	g r o u n d	1
+group	g r o u p	1
+grow	g r o w	1
+growing	g r o w i n g	1
+growth	g r o w t h	1
+guarantee	g u a r a n t e e	1
+guard	g u a r d	1
+guess	g u e s s	1
+guest	g u e s t	1
+guidance	g u i d a n c e	1
+guide	g u i d e	1
+guideline	g u i d e l i n e	1
+guilt	g u i l t	1
+guilty	g u i l t y	1
+guitar	g u i t a r	1
+gun	g u n	1
+gut	g u t	1
+guy	g u y	1
+gym	g y m	1
+ha	h a	1
+habit	h a b i t	1
+habitat	h a b i t a t	1
+hair	h a i r	1
+half	h a l f	1
+halfway	h a l f w a y	1
+hall	h a l l	1
+hallway	h a l l w a y	1
+hand	h a n d	1
+handful	h a n d f u l	1
+handle	h a n d l e	1
+handsome	h a n d s o m e	1
+hang	h a n g	1
+happen	h a p p e n	1
+happily	h a p p i l y	1
+happiness	h a p p i n e s s	1
+happy	h a p p y	1
+harassment	h a r a s s m e n t	1
+harbor	h a r b o r	1
+hard	h a r d	1
+hardly	h a r d l y	1
+hardware	h a r d w a r e	1
+harm	h a r m	1
+harmony	h a r m o n y	1
+harsh	h a r s h	1
+harvest	h a r v e s t	1
+haste	h a s t e	1
+hat	h a t	1
+hate	h a t e	1
+hatred	h a t r e d	1
+haul	h a u l	1
+have	h a v e	1
+hay	h a y	1
+hazard	h a z a r d	1
+he	h e	1
+head	h e a d	1
+headache	h e a d a c h e	1
+headline	h e a d l i n e	1
+headquarters	h e a d q u a r t e r s	1
+heal	h e a l	1
+health	h e a l t h	1
+healthy	h e a l t h y	1
+heap	h e a p	1
+hear	h e a r	1
+hearing	h e a r i n g	1
+heart	h e a r t	1
+heat	h e a t	1
+heaven	h e a v e n	1
+heavily	h e a v i l y	1
+heavy	h e a v y	1
+heel	h e e l	1
+height	h e i g h t	1
+helicopter	h e l i c o p t e r	1
+hell	h e l l	1
+hello	h e l l o	1
+helmet	h e l m e t	1
+help	h e l p	1
+helpful	h e l p f u l	1
+hence	h e n c e	1
+her	h e r	1
+herb	h e r b	1
+here	h e r e	1
+heritage	h e r i t a g e	1
+hero	h e r o	1
+hers	h e r s	1
+herself	h e r s e l f	1
+hesitate	h e s i t a t e	1
+hey	h e y	1
+hi	h i	1
+hidden	h i d d e n	1
+hide	h i d e	1
+high	h i g h	1
+highlight	h i g h l i g h t	1
+highly	h i g h l y	1
+high-tech	h i g h -t e c h	1
+highway	h i g h w a y	1
+hike	h i k e	1
+hill	h i l l	1
+him	h i m	1
+himself	h i m s e l f	1
+hint	h i n t	1
+hip	h i p	1
+hire	h i r e	1
+his	h i s	1
+hispanic	h i s p a n i c	1
+Hispanic	h i s p a n i c	1
+historian	h i s t o r i a n	1
+historic	h i s t o r i c	1
+historical	h i s t o r i c a l	1
+historically	h i s t o r i c a l l y	1
+history	h i s t o r y	1
+hit	h i t	1
+hockey	h o c k e y	1
+hold	h o l d	1
+hole	h o l e	1
+holiday	h o l i d a y	1
+holy	h o l y	1
+home	h o m e	1
+homeland	h o m e l a n d	1
+homeless	h o m e l e s s	1
+homework	h o m e w o r k	1
+honest	h o n e s t	1
+honestly	h o n e s t l y	1
+honey	h o n e y	1
+honor	h o n o r	1
+hook	h o o k	1
+hope	h o p e	1
+hopefully	h o p e f u l l y	1
+horizon	h o r i z o n	1
+hormone	h o r m o n e	1
+horn	h o r n	1
+horrible	h o r r i b l e	1
+horror	h o r r o r	1
+horse	h o r s e	1
+hospital	h o s p i t a l	1
+host	h o s t	1
+hostage	h o s t a g e	1
+hostile	h o s t i l e	1
+hot	h o t	1
+hotel	h o t e l	1
+hour	h o u r	1
+house	h o u s e	1
+household	h o u s e h o l d	1
+housing	h o u s i n g	1
+how	h o w	1
+however	h o w e v e r	1
+hug	h u g	1
+huge	h u g e	1
+huh	h u h	1
+human	h u m a n	1
+humanity	h u m a n i t y	1
+humble	h u m b l e	1
+humor	h u m o r	1
+hundred	h u n d r e d	1
+hunger	h u n g e r	1
+hungry	h u n g r y	1
+hunt	h u n t	1
+hunter	h u n t e r	1
+hunting	h u n t i n g	1
+hurricane	h u r r i c a n e	1
+hurry	h u r r y	1
+hurt	h u r t	1
+husband	h u s b a n d	1
+hut	h u t	1
+hypothesis	h y p o t h e s i s	1
+i	i	1
+I	i	1
+ice	i c e	1
+icon	i c o n	1
+idea	i d e a	1
+ideal	i d e a l	1
+identical	i d e n t i c a l	1
+identification	i d e n t i f i c a t i o n	1
+identify	i d e n t i f y	1
+identity	i d e n t i t y	1
+ideological	i d e o l o g i c a l	1
+ideology	i d e o l o g y	1
+idle	i d l e	1
+ie	i e	1
+if	i f	1
+ignore	i g n o r e	1
+ill	i l l	1
+illegal	i l l e g a l	1
+illness	i l l n e s s	1
+illusion	i l l u s i o n	1
+illustrate	i l l u s t r a t e	1
+image	i m a g e	1
+imaginary	i m a g i n a r y	1
+imagination	i m a g i n a t i o n	1
+imagine	i m a g i n e	1
+imitation	i m i t a t i o n	1
+immediate	i m m e d i a t e	1
+immediately	i m m e d i a t e l y	1
+immense	i m m e n s e	1
+immigrant	i m m i g r a n t	1
+immigration	i m m i g r a t i o n	1
+immune	i m m u n e	1
+impact	i m p a c t	1
+implement	i m p l e m e n t	1
+implementation	i m p l e m e n t a t i o n	1
+implication	i m p l i c a t i o n	1
+imply	i m p l y	1
+import	i m p o r t	1
+importance	i m p o r t a n c e	1
+important	i m p o r t a n t	1
+importantly	i m p o r t a n t l y	1
+impose	i m p o s e	1
+impossible	i m p o s s i b l e	1
+impress	i m p r e s s	1
+impression	i m p r e s s i o n	1
+impressive	i m p r e s s i v e	1
+improve	i m p r o v e	1
+improved	i m p r o v e d	1
+improvement	i m p r o v e m e n t	1
+impulse	i m p u l s e	1
+in	i n	1
+incentive	i n c e n t i v e	1
+inch	i n c h	1
+incident	i n c i d e n t	1
+include	i n c l u d e	1
+including	i n c l u d i n g	1
+income	i n c o m e	1
+incorporate	i n c o r p o r a t e	1
+increase	i n c r e a s e	1
+increased	i n c r e a s e d	1
+increasing	i n c r e a s i n g	1
+increasingly	i n c r e a s i n g l y	1
+incredible	i n c r e d i b l e	1
+incredibly	i n c r e d i b l y	1
+indeed	i n d e e d	1
+independence	i n d e p e n d e n c e	1
+independent	i n d e p e n d e n t	1
+index	i n d e x	1
+indian	i n d i a n	1
+Indian	i n d i a n	1
+indicate	i n d i c a t e	1
+indication	i n d i c a t i o n	1
+indicator	i n d i c a t o r	1
+indigenous	i n d i g e n o u s	1
+individual	i n d i v i d u a l	1
+industrial	i n d u s t r i a l	1
+industry	i n d u s t r y	1
+inevitable	i n e v i t a b l e	1
+inevitably	i n e v i t a b l y	1
+infant	i n f a n t	1
+infection	i n f e c t i o n	1
+inflation	i n f l a t i o n	1
+influence	i n f l u e n c e	1
+influential	i n f l u e n t i a l	1
+inform	i n f o r m	1
+informal	i n f o r m a l	1
+information	i n f o r m a t i o n	1
+infrastructure	i n f r a s t r u c t u r e	1
+ingredient	i n g r e d i e n t	1
+inherent	i n h e r e n t	1
+inherit	i n h e r i t	1
+initial	i n i t i a l	1
+initially	i n i t i a l l y	1
+initiate	i n i t i a t e	1
+initiative	i n i t i a t i v e	1
+injure	i n j u r e	1
+injury	i n j u r y	1
+inmate	i n m a t e	1
+inner	i n n e r	1
+innocent	i n n o c e n t	1
+innovation	i n n o v a t i o n	1
+innovative	i n n o v a t i v e	1
+input	i n p u t	1
+inquire	i n q u i r e	1
+inquiry	i n q u i r y	1
+insect	i n s e c t	1
+insert	i n s e r t	1
+inside	i n s i d e	1
+insight	i n s i g h t	1
+insist	i n s i s t	1
+inspection	i n s p e c t i o n	1
+inspector	i n s p e c t o r	1
+inspiration	i n s p i r a t i o n	1
+inspire	i n s p i r e	1
+install	i n s t a l l	1
+installation	i n s t a l l a t i o n	1
+instance	i n s t a n c e	1
+instant	i n s t a n t	1
+instantly	i n s t a n t l y	1
+instead	i n s t e a d	1
+instinct	i n s t i n c t	1
+institution	i n s t i t u t i o n	1
+institutional	i n s t i t u t i o n a l	1
+instruct	i n s t r u c t	1
+instruction	i n s t r u c t i o n	1
+instructional	i n s t r u c t i o n a l	1
+instructor	i n s t r u c t o r	1
+instrument	i n s t r u m e n t	1
+insult	i n s u l t	1
+insurance	i n s u r a n c e	1
+insure	i n s u r e	1
+intact	i n t a c t	1
+integrate	i n t e g r a t e	1
+integrated	i n t e g r a t e d	1
+integration	i n t e g r a t i o n	1
+integrity	i n t e g r i t y	1
+intellectual	i n t e l l e c t u a l	1
+intelligence	i n t e l l i g e n c e	1
+intelligent	i n t e l l i g e n t	1
+intend	i n t e n d	1
+intense	i n t e n s e	1
+intensity	i n t e n s i t y	1
+intent	i n t e n t	1
+intention	i n t e n t i o n	1
+interact	i n t e r a c t	1
+interaction	i n t e r a c t i o n	1
+interest	i n t e r e s t	1
+interested	i n t e r e s t e d	1
+interesting	i n t e r e s t i n g	1
+interfere	i n t e r f e r e	1
+interference	i n t e r f e r e n c e	1
+interior	i n t e r i o r	1
+internal	i n t e r n a l	1
+international	i n t e r n a t i o n a l	1
+internet	i n t e r n e t	1
+Internet	i n t e r n e t	1
+interpret	i n t e r p r e t	1
+interpretation	i n t e r p r e t a t i o n	1
+interrupt	i n t e r r u p t	1
+interval	i n t e r v a l	1
+intervention	i n t e r v e n t i o n	1
+interview	i n t e r v i e w	1
+intimate	i n t i m a t e	1
+into	i n t o	1
+introduce	i n t r o d u c e	1
+introduction	i n t r o d u c t i o n	1
+invade	i n v a d e	1
+invasion	i n v a s i o n	1
+invent	i n v e n t	1
+invention	i n v e n t i o n	1
+inventory	i n v e n t o r y	1
+invest	i n v e s t	1
+investigate	i n v e s t i g a t e	1
+investigation	i n v e s t i g a t i o n	1
+investigator	i n v e s t i g a t o r	1
+investment	i n v e s t m e n t	1
+investor	i n v e s t o r	1
+invisible	i n v i s i b l e	1
+invitation	i n v i t a t i o n	1
+invite	i n v i t e	1
+involve	i n v o l v e	1
+involved	i n v o l v e d	1
+involvement	i n v o l v e m e n t	1
+iraqi	i r a q i	1
+Iraqi	i r a q i	1
+irish	i r i s h	1
+Irish	i r i s h	1
+iron	i r o n	1
+ironically	i r o n i c a l l y	1
+irony	i r o n y	1
+islam	i s l a m	1
+Islam	i s l a m	1
+islamic	i s l a m i c	1
+Islamic	i s l a m i c	1
+island	i s l a n d	1
+isolate	i s o l a t e	1
+isolated	i s o l a t e d	1
+isolation	i s o l a t i o n	1
+israeli	i s r a e l i	1
+Israeli	i s r a e l i	1
+issue	i s s u e	1
+it	i t	1
+italian	i t a l i a n	1
+Italian	i t a l i a n	1
+item	i t e m	1
+its	i t s	1
+itself	i t s e l f	1
+jacket	j a c k e t	1
+jail	j a i l	1
+japanese	j a p a n e s e	1
+Japanese	j a p a n e s e	1
+jar	j a r	1
+jaw	j a w	1
+jazz	j a z z	1
+jeans	j e a n s	1
+jet	j e t	1
+jew	j e w	1
+Jew	j e w	1
+jewelry	j e w e l r y	1
+jewish	j e w i s h	1
+Jewish	j e w i s h	1
+job	j o b	1
+join	j o i n	1
+joint	j o i n t	1
+joke	j o k e	1
+journal	j o u r n a l	1
+journalism	j o u r n a l i s m	1
+journalist	j o u r n a l i s t	1
+journey	j o u r n e y	1
+joy	j o y	1
+judge	j u d g e	1
+judgment	j u d g m e n t	1
+judicial	j u d i c i a l	1
+juice	j u i c e	1
+jump	j u m p	1
+jungle	j u n g l e	1
+junior	j u n i o r	1
+jurisdiction	j u r i s d i c t i o n	1
+juror	j u r o r	1
+jury	j u r y	1
+just	j u s t	1
+justice	j u s t i c e	1
+justify	j u s t i f y	1
+keep	k e e p	1
+key	k e y	1
+kick	k i c k	1
+kid	k i d	1
+kill	k i l l	1
+killer	k i l l e r	1
+killing	k i l l i n g	1
+kind	k i n d	1
+king	k i n g	1
+kingdom	k i n g d o m	1
+kiss	k i s s	1
+kit	k i t	1
+kitchen	k i t c h e n	1
+knee	k n e e	1
+kneel	k n e e l	1
+knife	k n i f e	1
+knock	k n o c k	1
+know	k n o w	1
+knowledge	k n o w l e d g e	1
+known	k n o w n	1
+korean	k o r e a n	1
+Korean	k o r e a n	1
+lab	l a b	1
+label	l a b e l	1
+labor	l a b o r	1
+laboratory	l a b o r a t o r y	1
+lack	l a c k	1
+ladder	l a d d e r	1
+lady	l a d y	1
+lake	l a k e	1
+lamp	l a m p	1
+land	l a n d	1
+landing	l a n d i n g	1
+landmark	l a n d m a r k	1
+landscape	l a n d s c a p e	1
+lane	l a n e	1
+language	l a n g u a g e	1
+lap	l a p	1
+large	l a r g e	1
+largely	l a r g e l y	1
+laser	l a s e r	1
+last	l a s t	1
+late	l a t e	1
+lately	l a t e l y	1
+later	l a t e r	1
+latin	l a t i n	1
+Latin	l a t i n	1
+latter	l a t t e r	1
+laugh	l a u g h	1
+laughter	l a u g h t e r	1
+launch	l a u n c h	1
+laundry	l a u n d r y	1
+law	l a w	1
+lawmaker	l a w m a k e r	1
+lawn	l a w n	1
+lawsuit	l a w s u i t	1
+lawyer	l a w y e r	1
+lay	l a y	1
+layer	l a y e r	1
+lead	l e a d	1
+leader	l e a d e r	1
+leadership	l e a d e r s h i p	1
+leading	l e a d i n g	1
+leaf	l e a f	1
+league	l e a g u e	1
+lean	l e a n	1
+leap	l e a p	1
+learn	l e a r n	1
+learning	l e a r n i n g	1
+least	l e a s t	1
+leather	l e a t h e r	1
+leave	l e a v e	1
+lecture	l e c t u r e	1
+left	l e f t	1
+leg	l e g	1
+legacy	l e g a c y	1
+legal	l e g a l	1
+legally	l e g a l l y	1
+legend	l e g e n d	1
+legislation	l e g i s l a t i o n	1
+legislative	l e g i s l a t i v e	1
+legislator	l e g i s l a t o r	1
+legislature	l e g i s l a t u r e	1
+legitimate	l e g i t i m a t e	1
+lemon	l e m o n	1
+lend	l e n d	1
+length	l e n g t h	1
+lens	l e n s	1
+less	l e s s	1
+lessen	l e s s e n	1
+lesson	l e s s o n	1
+let	l e t	1
+letter	l e t t e r	1
+level	l e v e l	1
+liability	l i a b i l i t y	1
+liberal	l i b e r a l	1
+liberty	l i b e r t y	1
+library	l i b r a r y	1
+license	l i c e n s e	1
+lid	l i d	1
+lie	l i e	1
+life	l i f e	1
+lifestyle	l i f e s t y l e	1
+lifetime	l i f e t i m e	1
+lift	l i f t	1
+light	l i g h t	1
+lighting	l i g h t i n g	1
+lightly	l i g h t l y	1
+lightning	l i g h t n i n g	1
+like	l i k e	1
+likelihood	l i k e l i h o o d	1
+likely	l i k e l y	1
+likewise	l i k e w i s e	1
+limb	l i m b	1
+limit	l i m i t	1
+limitation	l i m i t a t i o n	1
+limited	l i m i t e d	1
+line	l i n e	1
+link	l i n k	1
+lion	l i o n	1
+lip	l i p	1
+liquid	l i q u i d	1
+list	l i s t	1
+listen	l i s t e n	1
+listener	l i s t e n e r	1
+literally	l i t e r a l l y	1
+literary	l i t e r a r y	1
+literature	l i t e r a t u r e	1
+little	l i t t l e	1
+live	l i v e	1
+liver	l i v e r	1
+living	l i v i n g	1
+load	l o a d	1
+loan	l o a n	1
+lobby	l o b b y	1
+local	l o c a l	1
+locate	l o c a t e	1
+location	l o c a t i o n	1
+lock	l o c k	1
+lodge	l o d g e	1
+log	l o g	1
+logic	l o g i c	1
+logical	l o g i c a l	1
+lonely	l o n e l y	1
+long	l o n g	1
+long-term	l o n g -t e r m	1
+longtime	l o n g t i m e	1
+look	l o o k	1
+loop	l o o p	1
+loose	l o o s e	1
+lord	l o r d	1
+lose	l o s e	1
+loss	l o s s	1
+lost	l o s t	1
+lot	l o t	1
+lots	l o t s	1
+loud	l o u d	1
+love	l o v e	1
+lovely	l o v e l y	1
+lover	l o v e r	1
+low	l o w	1
+lower	l o w e r	1
+loyal	l o y a l	1
+loyalty	l o y a l t y	1
+luck	l u c k	1
+lucky	l u c k y	1
+lump	l u m p	1
+lunch	l u n c h	1
+lung	l u n g	1
+machine	m a c h i n e	1
+machinery	m a c h i n e r y	1
+mad	m a d	1
+magazine	m a g a z i n e	1
+magic	m a g i c	1
+magnetic	m a g n e t i c	1
+magnitude	m a g n i t u d e	1
+mail	m a i l	1
+main	m a i n	1
+mainly	m a i n l y	1
+mainstream	m a i n s t r e a m	1
+maintain	m a i n t a i n	1
+maintenance	m a i n t e n a n c e	1
+major	m a j o r	1
+majority	m a j o r i t y	1
+make	m a k e	1
+maker	m a k e r	1
+makeup	m a k e u p	1
+male	m a l e	1
+mall	m a l l	1
+man	m a n	1
+manage	m a n a g e	1
+management	m a n a g e m e n t	1
+manager	m a n a g e r	1
+managing	m a n a g i n g	1
+mandate	m a n d a t e	1
+manipulate	m a n i p u l a t e	1
+mankind	m a n k i n d	1
+manner	m a n n e r	1
+mansion	m a n s i o n	1
+manual	m a n u a l	1
+manufacture	m a n u f a c t u r e	1
+manufacturer	m a n u f a c t u r e r	1
+manufacturing	m a n u f a c t u r i n g	1
+many	m a n y	1
+map	m a p	1
+marble	m a r b l e	1
+march	m a r c h	1
+margin	m a r g i n	1
+marine	m a r i n e	1
+mark	m a r k	1
+marker	m a r k e r	1
+market	m a r k e t	1
+marketing	m a r k e t i n g	1
+marketplace	m a r k e t p l a c e	1
+marriage	m a r r i a g e	1
+married	m a r r i e d	1
+marry	m a r r y	1
+mask	m a s k	1
+mass	m a s s	1
+massive	m a s s i v e	1
+master	m a s t e r	1
+match	m a t c h	1
+mate	m a t e	1
+material	m a t e r i a l	1
+math	m a t h	1
+mathematics	m a t h e m a t i c s	1
+matter	m a t t e r	1
+maximum	m a x i m u m	1
+may	m a y	1
+maybe	m a y b e	1
+mayor	m a y o r	1
+me	m e	1
+meal	m e a l	1
+mean	m e a n	1
+meaning	m e a n i n g	1
+meaningful	m e a n i n g f u l	1
+meantime	m e a n t i m e	1
+meanwhile	m e a n w h i l e	1
+measure	m e a s u r e	1
+measurement	m e a s u r e m e n t	1
+meat	m e a t	1
+mechanic	m e c h a n i c	1
+mechanical	m e c h a n i c a l	1
+mechanism	m e c h a n i s m	1
+medal	m e d a l	1
+media	m e d i a	1
+medical	m e d i c a l	1
+medication	m e d i c a t i o n	1
+medicine	m e d i c i n e	1
+medium	m e d i u m	1
+meet	m e e t	1
+meeting	m e e t i n g	1
+melt	m e l t	1
+member	m e m b e r	1
+membership	m e m b e r s h i p	1
+memory	m e m o r y	1
+mental	m e n t a l	1
+mentally	m e n t a l l y	1
+mention	m e n t i o n	1
+mentor	m e n t o r	1
+menu	m e n u	1
+merchant	m e r c h a n t	1
+mercy	m e r c y	1
+mere	m e r e	1
+merely	m e r e l y	1
+merit	m e r i t	1
+mess	m e s s	1
+message	m e s s a g e	1
+metal	m e t a l	1
+metaphor	m e t a p h o r	1
+meter	m e t e r	1
+method	m e t h o d	1
+metropolitan	m e t r o p o l i t a n	1
+mexican	m e x i c a n	1
+Mexican	m e x i c a n	1
+middle	m i d d l e	1
+middle-class	m i d d l e -c l a s s	1
+midnight	m i d n i g h t	1
+midst	m i d s t	1
+might	m i g h t	1
+migration	m i g r a t i o n	1
+mild	m i l d	1
+mile	m i l e	1
+military	m i l i t a r y	1
+milk	m i l k	1
+mill	m i l l	1
+million	m i l l i o n	1
+mind	m i n d	1
+mine	m i n e	1
+mineral	m i n e r a l	1
+minimal	m i n i m a l	1
+minimize	m i n i m i z e	1
+minimum	m i n i m u m	1
+minister	m i n i s t e r	1
+ministry	m i n i s t r y	1
+minor	m i n o r	1
+minority	m i n o r i t y	1
+minute	m i n u t e	1
+miracle	m i r a c l e	1
+mirror	m i r r o r	1
+miserable	m i s e r a b l e	1
+misery	m i s e r y	1
+miss	m i s s	1
+missile	m i s s i l e	1
+missing	m i s s i n g	1
+mission	m i s s i o n	1
+missionary	m i s s i o n a r y	1
+mistake	m i s t a k e	1
+mix	m i x	1
+mixed	m i x e d	1
+mixture	m i x t u r e	1
+mm-hmm	m m -h m m	1
+mobile	m o b i l e	1
+mode	m o d e	1
+model	m o d e l	1
+moderate	m o d e r a t e	1
+modern	m o d e r n	1
+modest	m o d e s t	1
+modify	m o d i f y	1
+molecule	m o l e c u l e	1
+mom	m o m	1
+moment	m o m e n t	1
+momentum	m o m e n t u m	1
+money	m o n e y	1
+monitor	m o n i t o r	1
+monkey	m o n k e y	1
+monster	m o n s t e r	1
+month	m o n t h	1
+monthly	m o n t h l y	1
+monument	m o n u m e n t	1
+mood	m o o d	1
+moon	m o o n	1
+moral	m o r a l	1
+more	m o r e	1
+moreover	m o r e o v e r	1
+morning	m o r n i n g	1
+mortality	m o r t a l i t y	1
+mortgage	m o r t g a g e	1
+most	m o s t	1
+mostly	m o s t l y	1
+mother	m o t h e r	1
+motion	m o t i o n	1
+motivate	m o t i v a t e	1
+motivation	m o t i v a t i o n	1
+motive	m o t i v e	1
+motor	m o t o r	1
+mount	m o u n t	1
+mountain	m o u n t a i n	1
+mouse	m o u s e	1
+mouth	m o u t h	1
+move	m o v e	1
+movement	m o v e m e n t	1
+movie	m o v i e	1
+mr	m r	1
+Mr	m r	1
+mrs	m r s	1
+Mrs	m r s	1
+ms	m s	1
+Ms	m s	1
+much	m u c h	1
+mud	m u d	1
+multiple	m u l t i p l e	1
+multiply	m u l t i p l y	1
+municipal	m u n i c i p a l	1
+murder	m u r d e r	1
+muscle	m u s c l e	1
+museum	m u s e u m	1
+mushroom	m u s h r o o m	1
+music	m u s i c	1
+musical	m u s i c a l	1
+musician	m u s i c i a n	1
+muslim	m u s l i m	1
+Muslim	m u s l i m	1
+must	m u s t	1
+mutter	m u t t e r	1
+mutual	m u t u a l	1
+my	m y	1
+myself	m y s e l f	1
+mysterious	m y s t e r i o u s	1
+mystery	m y s t e r y	1
+myth	m y t h	1
+nail	n a i l	1
+naked	n a k e d	1
+name	n a m e	1
+narrative	n a r r a t i v e	1
+narrow	n a r r o w	1
+nasty	n a s t y	1
+nation	n a t i o n	1
+national	n a t i o n a l	1
+nationwide	n a t i o n w i d e	1
+native	n a t i v e	1
+natural	n a t u r a l	1
+naturally	n a t u r a l l y	1
+nature	n a t u r e	1
+naval	n a v a l	1
+near	n e a r	1
+nearby	n e a r b y	1
+nearly	n e a r l y	1
+neat	n e a t	1
+necessarily	n e c e s s a r i l y	1
+necessary	n e c e s s a r y	1
+necessity	n e c e s s i t y	1
+neck	n e c k	1
+need	n e e d	1
+needle	n e e d l e	1
+negative	n e g a t i v e	1
+neglect	n e g l e c t	1
+negotiate	n e g o t i a t e	1
+negotiation	n e g o t i a t i o n	1
+neighbor	n e i g h b o r	1
+neighborhood	n e i g h b o r h o o d	1
+neighboring	n e i g h b o r i n g	1
+neither	n e i t h e r	1
+nerve	n e r v e	1
+nervous	n e r v o u s	1
+nest	n e s t	1
+net	n e t	1
+network	n e t w o r k	1
+neutral	n e u t r a l	1
+never	n e v e r	1
+nevertheless	n e v e r t h e l e s s	1
+new	n e w	1
+newly	n e w l y	1
+news	n e w s	1
+newspaper	n e w s p a p e r	1
+next	n e x t	1
+nice	n i c e	1
+night	n i g h t	1
+nightmare	n i g h t m a r e	1
+nine	n i n e	1
+no	n o	1
+noble	n o b l e	1
+nobody	n o b o d y	1
+nod	n o d	1
+noise	n o i s e	1
+nomination	n o m i n a t i o n	1
+nominee	n o m i n e e	1
+none	n o n e	1
+nonetheless	n o n e t h e l e s s	1
+nonprofit	n o n p r o f i t	1
+noon	n o o n	1
+nor	n o r	1
+norm	n o r m	1
+normal	n o r m a l	1
+normally	n o r m a l l y	1
+north	n o r t h	1
+northeast	n o r t h e a s t	1
+northern	n o r t h e r n	1
+northwest	n o r t h w e s t	1
+nose	n o s e	1
+not	n o t	1
+note	n o t e	1
+notebook	n o t e b o o k	1
+nothing	n o t h i n g	1
+notice	n o t i c e	1
+notion	n o t i o n	1
+novel	n o v e l	1
+now	n o w	1
+nowhere	n o w h e r e	1
+n't	n 't	1
+nuclear	n u c l e a r	1
+number	n u m b e r	1
+numerous	n u m e r o u s	1
+nurse	n u r s e	1
+nut	n u t	1
+nutrient	n u t r i e n t	1
+oak	o a k	1
+obey	o b e y	1
+object	o b j e c t	1
+objection	o b j e c t i o n	1
+objective	o b j e c t i v e	1
+obligation	o b l i g a t i o n	1
+observation	o b s e r v a t i o n	1
+observe	o b s e r v e	1
+observer	o b s e r v e r	1
+obstacle	o b s t a c l e	1
+obtain	o b t a i n	1
+obvious	o b v i o u s	1
+obviously	o b v i o u s l y	1
+occasion	o c c a s i o n	1
+occasional	o c c a s i o n a l	1
+occasionally	o c c a s i o n a l l y	1
+occupation	o c c u p a t i o n	1
+occupy	o c c u p y	1
+occur	o c c u r	1
+ocean	o c e a n	1
+o'clock	o 'c l o c k	1
+odd	o d d	1
+odds	o d d s	1
+of	o f	1
+off	o f f	1
+offender	o f f e n d e r	1
+offense	o f f e n s e	1
+offensive	o f f e n s i v e	1
+offer	o f f e r	1
+offering	o f f e r i n g	1
+office	o f f i c e	1
+officer	o f f i c e r	1
+official	o f f i c i a l	1
+officially	o f f i c i a l l y	1
+often	o f t e n	1
+oh	o h	1
+oil	o i l	1
+ok	o k	1
+OK	o k	1
+okay	o k a y	1
+old	o l d	1
+old-fashioned	o l d -f a s h i o n e d	1
+olympic	o l y m p i c	1
+Olympic	o l y m p i c	1
+olympics	o l y m p i c s	1
+Olympics	o l y m p i c s	1
+omit	o m i t	1
+on	o n	1
+once	o n c e	1
+one	o n e	1
+one-third	o n e -t h i r d	1
+ongoing	o n g o i n g	1
+onion	o n i o n	1
+online	o n l i n e	1
+only	o n l y	1
+onto	o n t o	1
+open	o p e n	1
+opening	o p e n i n g	1
+openly	o p e n l y	1
+opera	o p e r a	1
+operate	o p e r a t e	1
+operating	o p e r a t i n g	1
+operation	o p e r a t i o n	1
+operator	o p e r a t o r	1
+opinion	o p i n i o n	1
+opponent	o p p o n e n t	1
+opportunity	o p p o r t u n i t y	1
+oppose	o p p o s e	1
+opposed	o p p o s e d	1
+opposite	o p p o s i t e	1
+opposition	o p p o s i t i o n	1
+opt	o p t	1
+optimistic	o p t i m i s t i c	1
+option	o p t i o n	1
+or	o r	1
+oral	o r a l	1
+orange	o r a n g e	1
+orbit	o r b i t	1
+order	o r d e r	1
+ordinary	o r d i n a r y	1
+organ	o r g a n	1
+organic	o r g a n i c	1
+organism	o r g a n i s m	1
+organization	o r g a n i z a t i o n	1
+organizational	o r g a n i z a t i o n a l	1
+organize	o r g a n i z e	1
+organized	o r g a n i z e d	1
+orientation	o r i e n t a t i o n	1
+origin	o r i g i n	1
+original	o r i g i n a l	1
+originally	o r i g i n a l l y	1
+other	o t h e r	1
+others	o t h e r s	1
+otherwise	o t h e r w i s e	1
+ought	o u g h t	1
+our	o u r	1
+ours	o u r s	1
+ourselves	o u r s e l v e s	1
+out	o u t	1
+outcome	o u t c o m e	1
+outdoor	o u t d o o r	1
+outer	o u t e r	1
+outfit	o u t f i t	1
+outlet	o u t l e t	1
+outline	o u t l i n e	1
+output	o u t p u t	1
+outside	o u t s i d e	1
+outsider	o u t s i d e r	1
+outstanding	o u t s t a n d i n g	1
+oven	o v e n	1
+over	o v e r	1
+overall	o v e r a l l	1
+overcome	o v e r c o m e	1
+overlook	o v e r l o o k	1
+overnight	o v e r n i g h t	1
+oversee	o v e r s e e	1
+overwhelm	o v e r w h e l m	1
+overwhelming	o v e r w h e l m i n g	1
+owe	o w e	1
+own	o w n	1
+owner	o w n e r	1
+ownership	o w n e r s h i p	1
+oxygen	o x y g e n	1
+pace	p a c e	1
+pack	p a c k	1
+package	p a c k a g e	1
+pad	p a d	1
+page	p a g e	1
+pain	p a i n	1
+painful	p a i n f u l	1
+paint	p a i n t	1
+painter	p a i n t e r	1
+painting	p a i n t i n g	1
+pair	p a i r	1
+palace	p a l a c e	1
+pale	p a l e	1
+palestinian	p a l e s t i n i a n	1
+Palestinian	p a l e s t i n i a n	1
+palm	p a l m	1
+pan	p a n	1
+panel	p a n e l	1
+panic	p a n i c	1
+pant	p a n t	1
+paper	p a p e r	1
+parade	p a r a d e	1
+parent	p a r e n t	1
+parental	p a r e n t a l	1
+parish	p a r i s h	1
+park	p a r k	1
+parking	p a r k i n g	1
+part	p a r t	1
+partial	p a r t i a l	1
+partially	p a r t i a l l y	1
+participant	p a r t i c i p a n t	1
+participate	p a r t i c i p a t e	1
+participation	p a r t i c i p a t i o n	1
+particle	p a r t i c l e	1
+particular	p a r t i c u l a r	1
+particularly	p a r t i c u l a r l y	1
+partly	p a r t l y	1
+partner	p a r t n e r	1
+partnership	p a r t n e r s h i p	1
+party	p a r t y	1
+pass	p a s s	1
+passage	p a s s a g e	1
+passenger	p a s s e n g e r	1
+passing	p a s s i n g	1
+passion	p a s s i o n	1
+past	p a s t	1
+pasta	p a s t a	1
+paste	p a s t e	1
+pastor	p a s t o r	1
+pat	p a t	1
+patch	p a t c h	1
+patent	p a t e n t	1
+path	p a t h	1
+patience	p a t i e n c e	1
+patient	p a t i e n t	1
+patrol	p a t r o l	1
+patron	p a t r o n	1
+pattern	p a t t e r n	1
+pause	p a u s e	1
+pay	p a y	1
+payment	p a y m e n t	1
+pc	p c	1
+PC	p c	1
+peace	p e a c e	1
+peaceful	p e a c e f u l	1
+peak	p e a k	1
+peanut	p e a n u t	1
+peasant	p e a s a n t	1
+peculiar	p e c u l i a r	1
+peel	p e e l	1
+peer	p e e r	1
+pen	p e n	1
+penalty	p e n a l t y	1
+pencil	p e n c i l	1
+pension	p e n s i o n	1
+people	p e o p l e	1
+pepper	p e p p e r	1
+per	p e r	1
+perceive	p e r c e i v e	1
+perceived	p e r c e i v e d	1
+percentage	p e r c e n t a g e	1
+perception	p e r c e p t i o n	1
+perfect	p e r f e c t	1
+perfectly	p e r f e c t l y	1
+perform	p e r f o r m	1
+performance	p e r f o r m a n c e	1
+performer	p e r f o r m e r	1
+perhaps	p e r h a p s	1
+period	p e r i o d	1
+permanent	p e r m a n e n t	1
+permission	p e r m i s s i o n	1
+permit	p e r m i t	1
+persian	p e r s i a n	1
+Persian	p e r s i a n	1
+persist	p e r s i s t	1
+person	p e r s o n	1
+personal	p e r s o n a l	1
+personality	p e r s o n a l i t y	1
+personally	p e r s o n a l l y	1
+personnel	p e r s o n n e l	1
+perspective	p e r s p e c t i v e	1
+persuade	p e r s u a d e	1
+pet	p e t	1
+phase	p h a s e	1
+phenomenon	p h e n o m e n o n	1
+philosophical	p h i l o s o p h i c a l	1
+philosophy	p h i l o s o p h y	1
+phone	p h o n e	1
+photo	p h o t o	1
+photograph	p h o t o g r a p h	1
+photographer	p h o t o g r a p h e r	1
+photography	p h o t o g r a p h y	1
+phrase	p h r a s e	1
+physical	p h y s i c a l	1
+physically	p h y s i c a l l y	1
+physician	p h y s i c i a n	1
+physics	p h y s i c s	1
+piano	p i a n o	1
+pick	p i c k	1
+pickup	p i c k u p	1
+picture	p i c t u r e	1
+pie	p i e	1
+piece	p i e c e	1
+pig	p i g	1
+pile	p i l e	1
+pill	p i l l	1
+pillow	p i l l o w	1
+pilot	p i l o t	1
+pin	p i n	1
+pine	p i n e	1
+pink	p i n k	1
+pioneer	p i o n e e r	1
+pipe	p i p e	1
+pistol	p i s t o l	1
+pit	p i t	1
+pitch	p i t c h	1
+pitcher	p i t c h e r	1
+pity	p i t y	1
+pizza	p i z z a	1
+place	p l a c e	1
+placement	p l a c e m e n t	1
+plain	p l a i n	1
+plaintiff	p l a i n t i f f	1
+plan	p l a n	1
+plane	p l a n e	1
+planet	p l a n e t	1
+planner	p l a n n e r	1
+planning	p l a n n i n g	1
+plant	p l a n t	1
+plaster	p l a s t e r	1
+plastic	p l a s t i c	1
+plate	p l a t e	1
+platform	p l a t f o r m	1
+play	p l a y	1
+player	p l a y e r	1
+playoff	p l a y o f f	1
+plea	p l e a	1
+plead	p l e a d	1
+pleasant	p l e a s a n t	1
+please	p l e a s e	1
+pleased	p l e a s e d	1
+pleasure	p l e a s u r e	1
+plenty	p l e n t y	1
+plot	p l o t	1
+plow	p l o w	1
+plunge	p l u n g e	1
+plus	p l u s	1
+pm	p m	1
+PM	p m	1
+pocket	p o c k e t	1
+poem	p o e m	1
+poet	p o e t	1
+poetry	p o e t r y	1
+point	p o i n t	1
+poison	p o i s o n	1
+poke	p o k e	1
+pole	p o l e	1
+police	p o l i c e	1
+policeman	p o l i c e m a n	1
+policy	p o l i c y	1
+polish	p o l i s h	1
+polite	p o l i t e	1
+political	p o l i t i c a l	1
+politically	p o l i t i c a l l y	1
+politician	p o l i t i c i a n	1
+politics	p o l i t i c s	1
+poll	p o l l	1
+pollution	p o l l u t i o n	1
+pond	p o n d	1
+pool	p o o l	1
+poor	p o o r	1
+pop	p o p	1
+popular	p o p u l a r	1
+popularity	p o p u l a r i t y	1
+population	p o p u l a t i o n	1
+porch	p o r c h	1
+pork	p o r k	1
+port	p o r t	1
+portfolio	p o r t f o l i o	1
+portion	p o r t i o n	1
+portrait	p o r t r a i t	1
+portray	p o r t r a y	1
+pose	p o s e	1
+position	p o s i t i o n	1
+positive	p o s i t i v e	1
+possess	p o s s e s s	1
+possession	p o s s e s s i o n	1
+possibility	p o s s i b i l i t y	1
+possible	p o s s i b l e	1
+possibly	p o s s i b l y	1
+post	p o s t	1
+poster	p o s t e r	1
+postpone	p o s t p o n e	1
+pot	p o t	1
+potato	p o t a t o	1
+potential	p o t e n t i a l	1
+potentially	p o t e n t i a l l y	1
+pound	p o u n d	1
+pour	p o u r	1
+poverty	p o v e r t y	1
+powder	p o w d e r	1
+power	p o w e r	1
+powerful	p o w e r f u l	1
+practical	p r a c t i c a l	1
+practically	p r a c t i c a l l y	1
+practice	p r a c t i c e	1
+practitioner	p r a c t i t i o n e r	1
+praise	p r a i s e	1
+pray	p r a y	1
+prayer	p r a y e r	1
+preach	p r e a c h	1
+precious	p r e c i o u s	1
+precise	p r e c i s e	1
+precisely	p r e c i s e l y	1
+predator	p r e d a t o r	1
+predict	p r e d i c t	1
+prediction	p r e d i c t i o n	1
+prefer	p r e f e r	1
+preference	p r e f e r e n c e	1
+pregnancy	p r e g n a n c y	1
+pregnant	p r e g n a n t	1
+prejudice	p r e j u d i c e	1
+preliminary	p r e l i m i n a r y	1
+premise	p r e m i s e	1
+premium	p r e m i u m	1
+preparation	p r e p a r a t i o n	1
+prepare	p r e p a r e	1
+prescription	p r e s c r i p t i o n	1
+presence	p r e s e n c e	1
+present	p r e s e n t	1
+presentation	p r e s e n t a t i o n	1
+preserve	p r e s e r v e	1
+presidency	p r e s i d e n c y	1
+president	p r e s i d e n t	1
+presidential	p r e s i d e n t i a l	1
+press	p r e s s	1
+pressure	p r e s s u r e	1
+presumably	p r e s u m a b l y	1
+pretend	p r e t e n d	1
+pretty	p r e t t y	1
+prevail	p r e v a i l	1
+prevent	p r e v e n t	1
+prevention	p r e v e n t i o n	1
+previous	p r e v i o u s	1
+previously	p r e v i o u s l y	1
+price	p r i c e	1
+pride	p r i d e	1
+priest	p r i e s t	1
+primarily	p r i m a r i l y	1
+primary	p r i m a r y	1
+prime	p r i m e	1
+principal	p r i n c i p a l	1
+principle	p r i n c i p l e	1
+print	p r i n t	1
+prior	p r i o r	1
+priority	p r i o r i t y	1
+prison	p r i s o n	1
+prisoner	p r i s o n e r	1
+privacy	p r i v a c y	1
+private	p r i v a t e	1
+privately	p r i v a t e l y	1
+privilege	p r i v i l e g e	1
+prize	p r i z e	1
+pro	p r o	1
+probable	p r o b a b l e	1
+probably	p r o b a b l y	1
+problem	p r o b l e m	1
+procedure	p r o c e d u r e	1
+proceed	p r o c e e d	1
+process	p r o c e s s	1
+processing	p r o c e s s i n g	1
+processor	p r o c e s s o r	1
+proclaim	p r o c l a i m	1
+produce	p r o d u c e	1
+producer	p r o d u c e r	1
+product	p r o d u c t	1
+production	p r o d u c t i o n	1
+productive	p r o d u c t i v e	1
+productivity	p r o d u c t i v i t y	1
+profession	p r o f e s s i o n	1
+professional	p r o f e s s i o n a l	1
+professor	p r o f e s s o r	1
+profile	p r o f i l e	1
+profit	p r o f i t	1
+profound	p r o f o u n d	1
+program	p r o g r a m	1
+programming	p r o g r a m m i n g	1
+progress	p r o g r e s s	1
+progressive	p r o g r e s s i v e	1
+prohibit	p r o h i b i t	1
+project	p r o j e c t	1
+projection	p r o j e c t i o n	1
+prominent	p r o m i n e n t	1
+promise	p r o m i s e	1
+promising	p r o m i s i n g	1
+promote	p r o m o t e	1
+promotion	p r o m o t i o n	1
+prompt	p r o m p t	1
+pronounce	p r o n o u n c e	1
+proof	p r o o f	1
+proper	p r o p e r	1
+properly	p r o p e r l y	1
+property	p r o p e r t y	1
+proportion	p r o p o r t i o n	1
+proposal	p r o p o s a l	1
+propose	p r o p o s e	1
+proposed	p r o p o s e d	1
+prosecution	p r o s e c u t i o n	1
+prosecutor	p r o s e c u t o r	1
+prospect	p r o s p e c t	1
+protect	p r o t e c t	1
+protection	p r o t e c t i o n	1
+protective	p r o t e c t i v e	1
+protein	p r o t e i n	1
+protest	p r o t e s t	1
+protocol	p r o t o c o l	1
+proud	p r o u d	1
+prove	p r o v e	1
+provide	p r o v i d e	1
+provided	p r o v i d e d	1
+provider	p r o v i d e r	1
+province	p r o v i n c e	1
+provision	p r o v i s i o n	1
+provoke	p r o v o k e	1
+psychological	p s y c h o l o g i c a l	1
+psychologist	p s y c h o l o g i s t	1
+psychology	p s y c h o l o g y	1
+public	p u b l i c	1
+publication	p u b l i c a t i o n	1
+publicity	p u b l i c i t y	1
+publicly	p u b l i c l y	1
+publish	p u b l i s h	1
+publisher	p u b l i s h e r	1
+pull	p u l l	1
+pulse	p u l s e	1
+pump	p u m p	1
+punch	p u n c h	1
+punish	p u n i s h	1
+punishment	p u n i s h m e n t	1
+pupil	p u p i l	1
+purchase	p u r c h a s e	1
+pure	p u r e	1
+purple	p u r p l e	1
+purpose	p u r p o s e	1
+purse	p u r s e	1
+pursue	p u r s u e	1
+pursuit	p u r s u i t	1
+push	p u s h	1
+put	p u t	1
+puzzle	p u z z l e	1
+qualification	q u a l i f i c a t i o n	1
+qualify	q u a l i f y	1
+quality	q u a l i t y	1
+quantity	q u a n t i t y	1
+quarrel	q u a r r e l	1
+quarter	q u a r t e r	1
+quarterback	q u a r t e r b a c k	1
+queen	q u e e n	1
+quest	q u e s t	1
+question	q u e s t i o n	1
+questionnaire	q u e s t i o n n a i r e	1
+quick	q u i c k	1
+quickly	q u i c k l y	1
+quiet	q u i e t	1
+quietly	q u i e t l y	1
+quit	q u i t	1
+quite	q u i t e	1
+quote	q u o t e	1
+rabbit	r a b b i t	1
+race	r a c e	1
+racial	r a c i a l	1
+racism	r a c i s m	1
+rack	r a c k	1
+radar	r a d a r	1
+radiation	r a d i a t i o n	1
+radical	r a d i c a l	1
+radio	r a d i o	1
+rage	r a g e	1
+rail	r a i l	1
+railroad	r a i l r o a d	1
+rain	r a i n	1
+raise	r a i s e	1
+rally	r a l l y	1
+ranch	r a n c h	1
+random	r a n d o m	1
+range	r a n g e	1
+rank	r a n k	1
+rape	r a p e	1
+rapid	r a p i d	1
+rapidly	r a p i d l y	1
+rare	r a r e	1
+rarely	r a r e l y	1
+rat	r a t	1
+rate	r a t e	1
+rather	r a t h e r	1
+rating	r a t i n g	1
+ratio	r a t i o	1
+rational	r a t i o n a l	1
+raw	r a w	1
+re	r e	1
+reach	r e a c h	1
+react	r e a c t	1
+reaction	r e a c t i o n	1
+read	r e a d	1
+reader	r e a d e r	1
+readily	r e a d i l y	1
+reading	r e a d i n g	1
+ready	r e a d y	1
+real	r e a l	1
+realistic	r e a l i s t i c	1
+reality	r e a l i t y	1
+realize	r e a l i z e	1
+really	r e a l l y	1
+realm	r e a l m	1
+rear	r e a r	1
+reason	r e a s o n	1
+reasonable	r e a s o n a b l e	1
+rebel	r e b e l	1
+rebuild	r e b u i l d	1
+recall	r e c a l l	1
+receive	r e c e i v e	1
+receiver	r e c e i v e r	1
+recent	r e c e n t	1
+recently	r e c e n t l y	1
+reception	r e c e p t i o n	1
+recession	r e c e s s i o n	1
+recipe	r e c i p e	1
+recipient	r e c i p i e n t	1
+recognition	r e c o g n i t i o n	1
+recognize	r e c o g n i z e	1
+recommend	r e c o m m e n d	1
+recommendation	r e c o m m e n d a t i o n	1
+record	r e c o r d	1
+recording	r e c o r d i n g	1
+recover	r e c o v e r	1
+recovery	r e c o v e r y	1
+recruit	r e c r u i t	1
+red	r e d	1
+reduce	r e d u c e	1
+reduction	r e d u c t i o n	1
+refer	r e f e r	1
+reference	r e f e r e n c e	1
+reflect	r e f l e c t	1
+reflection	r e f l e c t i o n	1
+reform	r e f o r m	1
+refresh	r e f r e s h	1
+refrigerator	r e f r i g e r a t o r	1
+refuge	r e f u g e	1
+refugee	r e f u g e e	1
+refuse	r e f u s e	1
+regain	r e g a i n	1
+regard	r e g a r d	1
+regarding	r e g a r d i n g	1
+regardless	r e g a r d l e s s	1
+regime	r e g i m e	1
+region	r e g i o n	1
+regional	r e g i o n a l	1
+register	r e g i s t e r	1
+regret	r e g r e t	1
+regular	r e g u l a r	1
+regularly	r e g u l a r l y	1
+regulate	r e g u l a t e	1
+regulation	r e g u l a t i o n	1
+regulator	r e g u l a t o r	1
+regulatory	r e g u l a t o r y	1
+rehabilitation	r e h a b i l i t a t i o n	1
+reinforce	r e i n f o r c e	1
+reject	r e j e c t	1
+relate	r e l a t e	1
+related	r e l a t e d	1
+relation	r e l a t i o n	1
+relationship	r e l a t i o n s h i p	1
+relative	r e l a t i v e	1
+relatively	r e l a t i v e l y	1
+relax	r e l a x	1
+release	r e l e a s e	1
+relevant	r e l e v a n t	1
+reliability	r e l i a b i l i t y	1
+reliable	r e l i a b l e	1
+relief	r e l i e f	1
+relieve	r e l i e v e	1
+religion	r e l i g i o n	1
+religious	r e l i g i o u s	1
+reluctant	r e l u c t a n t	1
+rely	r e l y	1
+remain	r e m a i n	1
+remaining	r e m a i n i n g	1
+remark	r e m a r k	1
+remarkable	r e m a r k a b l e	1
+remedy	r e m e d y	1
+remember	r e m e m b e r	1
+remind	r e m i n d	1
+reminder	r e m i n d e r	1
+remote	r e m o t e	1
+removal	r e m o v a l	1
+remove	r e m o v e	1
+render	r e n d e r	1
+rent	r e n t	1
+rental	r e n t a l	1
+repair	r e p a i r	1
+repeat	r e p e a t	1
+repeatedly	r e p e a t e d l y	1
+repetition	r e p e t i t i o n	1
+replace	r e p l a c e	1
+replacement	r e p l a c e m e n t	1
+reply	r e p l y	1
+report	r e p o r t	1
+reportedly	r e p o r t e d l y	1
+reporter	r e p o r t e r	1
+reporting	r e p o r t i n g	1
+represent	r e p r e s e n t	1
+representation	r e p r e s e n t a t i o n	1
+representative	r e p r e s e n t a t i v e	1
+reproduce	r e p r o d u c e	1
+republic	r e p u b l i c	1
+republican	r e p u b l i c a n	1
+Republican	r e p u b l i c a n	1
+reputation	r e p u t a t i o n	1
+request	r e q u e s t	1
+require	r e q u i r e	1
+required	r e q u i r e d	1
+requirement	r e q u i r e m e n t	1
+rescue	r e s c u e	1
+research	r e s e a r c h	1
+researcher	r e s e a r c h e r	1
+resemble	r e s e m b l e	1
+reservation	r e s e r v a t i o n	1
+reserve	r e s e r v e	1
+residence	r e s i d e n c e	1
+resident	r e s i d e n t	1
+residential	r e s i d e n t i a l	1
+resign	r e s i g n	1
+resist	r e s i s t	1
+resistance	r e s i s t a n c e	1
+resolution	r e s o l u t i o n	1
+resolve	r e s o l v e	1
+resort	r e s o r t	1
+resource	r e s o u r c e	1
+respect	r e s p e c t	1
+respectively	r e s p e c t i v e l y	1
+respond	r e s p o n d	1
+respondent	r e s p o n d e n t	1
+response	r e s p o n s e	1
+responsibility	r e s p o n s i b i l i t y	1
+responsible	r e s p o n s i b l e	1
+rest	r e s t	1
+restaurant	r e s t a u r a n t	1
+restore	r e s t o r e	1
+restrict	r e s t r i c t	1
+restriction	r e s t r i c t i o n	1
+result	r e s u l t	1
+resume	r e s u m e	1
+retail	r e t a i l	1
+retailer	r e t a i l e r	1
+retain	r e t a i n	1
+retire	r e t i r e	1
+retired	r e t i r e d	1
+retirement	r e t i r e m e n t	1
+retreat	r e t r e a t	1
+return	r e t u r n	1
+reveal	r e v e a l	1
+revelation	r e v e l a t i o n	1
+revenue	r e v e n u e	1
+reverse	r e v e r s e	1
+review	r e v i e w	1
+revolution	r e v o l u t i o n	1
+revolutionary	r e v o l u t i o n a r y	1
+reward	r e w a r d	1
+rhetoric	r h e t o r i c	1
+rhythm	r h y t h m	1
+rib	r i b	1
+ribbon	r i b b o n	1
+rice	r i c e	1
+rich	r i c h	1
+rid	r i d	1
+ride	r i d e	1
+rider	r i d e r	1
+ridge	r i d g e	1
+ridiculous	r i d i c u l o u s	1
+rifle	r i f l e	1
+right	r i g h t	1
+rim	r i m	1
+ring	r i n g	1
+riot	r i o t	1
+rip	r i p	1
+rise	r i s e	1
+risk	r i s k	1
+risky	r i s k y	1
+ritual	r i t u a l	1
+rival	r i v a l	1
+river	r i v e r	1
+road	r o a d	1
+roar	r o a r	1
+roast	r o a s t	1
+rob	r o b	1
+robot	r o b o t	1
+rock	r o c k	1
+rocket	r o c k e t	1
+rod	r o d	1
+role	r o l e	1
+roll	r o l l	1
+rolling	r o l l i n g	1
+roman	r o m a n	1
+Roman	r o m a n	1
+romance	r o m a n c e	1
+romantic	r o m a n t i c	1
+roof	r o o f	1
+room	r o o m	1
+root	r o o t	1
+rope	r o p e	1
+rose	r o s e	1
+rough	r o u g h	1
+roughly	r o u g h l y	1
+round	r o u n d	1
+route	r o u t e	1
+routine	r o u t i n e	1
+routinely	r o u t i n e l y	1
+row	r o w	1
+royal	r o y a l	1
+rub	r u b	1
+rubber	r u b b e r	1
+rug	r u g	1
+ruin	r u i n	1
+rule	r u l e	1
+ruling	r u l i n g	1
+rumor	r u m o r	1
+run	r u n	1
+runner	r u n n e r	1
+running	r u n n i n g	1
+rural	r u r a l	1
+rush	r u s h	1
+russian	r u s s i a n	1
+Russian	r u s s i a n	1
+rust	r u s t	1
+sack	s a c k	1
+sacred	s a c r e d	1
+sacrifice	s a c r i f i c e	1
+sad	s a d	1
+saddle	s a d d l e	1
+safe	s a f e	1
+safely	s a f e l y	1
+safety	s a f e t y	1
+sail	s a i l	1
+sake	s a k e	1
+salad	s a l a d	1
+salary	s a l a r y	1
+sale	s a l e	1
+sales	s a l e s	1
+salesman	s a l e s m a n	1
+salmon	s a l m o n	1
+salt	s a l t	1
+same	s a m e	1
+sample	s a m p l e	1
+sanction	s a n c t i o n	1
+sand	s a n d	1
+sandwich	s a n d w i c h	1
+satellite	s a t e l l i t e	1
+satisfaction	s a t i s f a c t i o n	1
+satisfactory	s a t i s f a c t o r y	1
+satisfy	s a t i s f y	1
+sauce	s a u c e	1
+save	s a v e	1
+saving	s a v i n g	1
+saw	s a w	1
+say	s a y	1
+scale	s c a l e	1
+scan	s c a n	1
+scandal	s c a n d a l	1
+scarce	s c a r c e	1
+scare	s c a r e	1
+scared	s c a r e d	1
+scary	s c a r y	1
+scatter	s c a t t e r	1
+scenario	s c e n a r i o	1
+scene	s c e n e	1
+scenery	s c e n e r y	1
+scent	s c e n t	1
+schedule	s c h e d u l e	1
+scheme	s c h e m e	1
+scholar	s c h o l a r	1
+scholarship	s c h o l a r s h i p	1
+school	s c h o o l	1
+science	s c i e n c e	1
+scientific	s c i e n t i f i c	1
+scientist	s c i e n t i s t	1
+scope	s c o p e	1
+score	s c o r e	1
+scramble	s c r a m b l e	1
+scrape	s c r a p e	1
+scratch	s c r a t c h	1
+scream	s c r e a m	1
+screen	s c r e e n	1
+screening	s c r e e n i n g	1
+screw	s c r e w	1
+script	s c r i p t	1
+sculpture	s c u l p t u r e	1
+sea	s e a	1
+seal	s e a l	1
+search	s e a r c h	1
+season	s e a s o n	1
+seat	s e a t	1
+second	s e c o n d	1
+secondary	s e c o n d a r y	1
+secret	s e c r e t	1
+secretary	s e c r e t a r y	1
+section	s e c t i o n	1
+sector	s e c t o r	1
+secular	s e c u l a r	1
+secure	s e c u r e	1
+security	s e c u r i t y	1
+see	s e e	1
+seed	s e e d	1
+seek	s e e k	1
+seem	s e e m	1
+seemingly	s e e m i n g l y	1
+segment	s e g m e n t	1
+seize	s e i z e	1
+seldom	s e l d o m	1
+select	s e l e c t	1
+selected	s e l e c t e d	1
+selection	s e l e c t i o n	1
+self	s e l f	1
+self-esteem	s e l f -e s t e e m	1
+sell	s e l l	1
+seller	s e l l e r	1
+seminar	s e m i n a r	1
+senate	s e n a t e	1
+Senate	s e n a t e	1
+senator	s e n a t o r	1
+send	s e n d	1
+senior	s e n i o r	1
+sensation	s e n s a t i o n	1
+sense	s e n s e	1
+sensitive	s e n s i t i v e	1
+sensitivity	s e n s i t i v i t y	1
+sensor	s e n s o r	1
+sentence	s e n t e n c e	1
+sentiment	s e n t i m e n t	1
+separate	s e p a r a t e	1
+separation	s e p a r a t i o n	1
+sequence	s e q u e n c e	1
+series	s e r i e s	1
+serious	s e r i o u s	1
+seriously	s e r i o u s l y	1
+servant	s e r v a n t	1
+serve	s e r v e	1
+service	s e r v i c e	1
+serving	s e r v i n g	1
+session	s e s s i o n	1
+set	s e t	1
+setting	s e t t i n g	1
+settle	s e t t l e	1
+settlement	s e t t l e m e n t	1
+seven	s e v e n	1
+seventh	s e v e n t h	1
+several	s e v e r a l	1
+severe	s e v e r e	1
+severely	s e v e r e l y	1
+sew	s e w	1
+sex	s e x	1
+sexual	s e x u a l	1
+sexuality	s e x u a l i t y	1
+sexually	s e x u a l l y	1
+sexy	s e x y	1
+shade	s h a d e	1
+shadow	s h a d o w	1
+shake	s h a k e	1
+shall	s h a l l	1
+shallow	s h a l l o w	1
+shame	s h a m e	1
+shape	s h a p e	1
+share	s h a r e	1
+shared	s h a r e d	1
+shareholder	s h a r e h o l d e r	1
+shark	s h a r k	1
+sharp	s h a r p	1
+sharply	s h a r p l y	1
+shave	s h a v e	1
+she	s h e	1
+shed	s h e d	1
+sheep	s h e e p	1
+sheer	s h e e r	1
+sheet	s h e e t	1
+shelf	s h e l f	1
+shell	s h e l l	1
+shelter	s h e l t e r	1
+shield	s h i e l d	1
+shift	s h i f t	1
+shine	s h i n e	1
+ship	s h i p	1
+shirt	s h i r t	1
+shit	s h i t	1
+shock	s h o c k	1
+shoe	s h o e	1
+shoot	s h o o t	1
+shooting	s h o o t i n g	1
+shop	s h o p	1
+shopping	s h o p p i n g	1
+shore	s h o r e	1
+short	s h o r t	1
+shortage	s h o r t a g e	1
+shortly	s h o r t l y	1
+shorts	s h o r t s	1
+short-term	s h o r t -t e r m	1
+shot	s h o t	1
+should	s h o u l d	1
+shoulder	s h o u l d e r	1
+shout	s h o u t	1
+shove	s h o v e	1
+show	s h o w	1
+shower	s h o w e r	1
+shrimp	s h r i m p	1
+shrink	s h r i n k	1
+shrug	s h r u g	1
+shut	s h u t	1
+shuttle	s h u t t l e	1
+shy	s h y	1
+sibling	s i b l i n g	1
+sick	s i c k	1
+side	s i d e	1
+sidewalk	s i d e w a l k	1
+sigh	s i g h	1
+sight	s i g h t	1
+sign	s i g n	1
+signal	s i g n a l	1
+signature	s i g n a t u r e	1
+significance	s i g n i f i c a n c e	1
+significant	s i g n i f i c a n t	1
+significantly	s i g n i f i c a n t l y	1
+silence	s i l e n c e	1
+silent	s i l e n t	1
+silk	s i l k	1
+silly	s i l l y	1
+silver	s i l v e r	1
+similar	s i m i l a r	1
+similarity	s i m i l a r i t y	1
+similarly	s i m i l a r l y	1
+simple	s i m p l e	1
+simplicity	s i m p l i c i t y	1
+simply	s i m p l y	1
+simultaneously	s i m u l t a n e o u s l y	1
+sin	s i n	1
+since	s i n c e	1
+sincere	s i n c e r e	1
+sing	s i n g	1
+singer	s i n g e r	1
+single	s i n g l e	1
+sink	s i n k	1
+sir	s i r	1
+sister	s i s t e r	1
+sit	s i t	1
+site	s i t e	1
+situation	s i t u a t i o n	1
+six	s i x	1
+sixth	s i x t h	1
+size	s i z e	1
+ski	s k i	1
+skill	s k i l l	1
+skilled	s k i l l e d	1
+skin	s k i n	1
+skip	s k i p	1
+skirt	s k i r t	1
+skull	s k u l l	1
+sky	s k y	1
+slam	s l a m	1
+slap	s l a p	1
+slave	s l a v e	1
+slavery	s l a v e r y	1
+sleep	s l e e p	1
+sleeve	s l e e v e	1
+slice	s l i c e	1
+slide	s l i d e	1
+slight	s l i g h t	1
+slightly	s l i g h t l y	1
+slip	s l i p	1
+slope	s l o p e	1
+slot	s l o t	1
+slow	s l o w	1
+slowly	s l o w l y	1
+small	s m a l l	1
+smart	s m a r t	1
+smell	s m e l l	1
+smile	s m i l e	1
+smoke	s m o k e	1
+smooth	s m o o t h	1
+snake	s n a k e	1
+snap	s n a p	1
+sneak	s n e a k	1
+snow	s n o w	1
+so	s o	1
+soak	s o a k	1
+soap	s o a p	1
+soar	s o a r	1
+so-called	s o -c a l l e d	1
+soccer	s o c c e r	1
+social	s o c i a l	1
+socially	s o c i a l l y	1
+society	s o c i e t y	1
+sock	s o c k	1
+sodium	s o d i u m	1
+sofa	s o f a	1
+soft	s o f t	1
+soften	s o f t e n	1
+softly	s o f t l y	1
+software	s o f t w a r e	1
+soil	s o i l	1
+solar	s o l a r	1
+soldier	s o l d i e r	1
+sole	s o l e	1
+solely	s o l e l y	1
+solemn	s o l e m n	1
+solid	s o l i d	1
+solution	s o l u t i o n	1
+solve	s o l v e	1
+some	s o m e	1
+somebody	s o m e b o d y	1
+someday	s o m e d a y	1
+somehow	s o m e h o w	1
+someone	s o m e o n e	1
+something	s o m e t h i n g	1
+sometime	s o m e t i m e	1
+sometimes	s o m e t i m e s	1
+somewhat	s o m e w h a t	1
+somewhere	s o m e w h e r e	1
+son	s o n	1
+song	s o n g	1
+soon	s o o n	1
+sophisticated	s o p h i s t i c a t e d	1
+sorry	s o r r y	1
+sort	s o r t	1
+soul	s o u l	1
+sound	s o u n d	1
+soup	s o u p	1
+source	s o u r c e	1
+south	s o u t h	1
+southeast	s o u t h e a s t	1
+southern	s o u t h e r n	1
+southwest	s o u t h w e s t	1
+sovereignty	s o v e r e i g n t y	1
+soviet	s o v i e t	1
+Soviet	s o v i e t	1
+space	s p a c e	1
+spanish	s p a n i s h	1
+Spanish	s p a n i s h	1
+spare	s p a r e	1
+spark	s p a r k	1
+speak	s p e a k	1
+speaker	s p e a k e r	1
+special	s p e c i a l	1
+specialist	s p e c i a l i s t	1
+specialize	s p e c i a l i z e	1
+specialty	s p e c i a l t y	1
+species	s p e c i e s	1
+specific	s p e c i f i c	1
+specifically	s p e c i f i c a l l y	1
+specify	s p e c i f y	1
+spectacular	s p e c t a c u l a r	1
+spectrum	s p e c t r u m	1
+speculate	s p e c u l a t e	1
+speculation	s p e c u l a t i o n	1
+speech	s p e e c h	1
+speed	s p e e d	1
+spell	s p e l l	1
+spend	s p e n d	1
+spending	s p e n d i n g	1
+sphere	s p h e r e	1
+spill	s p i l l	1
+spin	s p i n	1
+spine	s p i n e	1
+spirit	s p i r i t	1
+spiritual	s p i r i t u a l	1
+spit	s p i t	1
+spite	s p i t e	1
+splendid	s p l e n d i d	1
+split	s p l i t	1
+spokesman	s p o k e s m a n	1
+sponsor	s p o n s o r	1
+spoon	s p o o n	1
+sport	s p o r t	1
+spot	s p o t	1
+spouse	s p o u s e	1
+spray	s p r a y	1
+spread	s p r e a d	1
+spring	s p r i n g	1
+sprinkle	s p r i n k l e	1
+spy	s p y	1
+squad	s q u a d	1
+square	s q u a r e	1
+squeeze	s q u e e z e	1
+stability	s t a b i l i t y	1
+stable	s t a b l e	1
+stack	s t a c k	1
+stadium	s t a d i u m	1
+staff	s t a f f	1
+stage	s t a g e	1
+stain	s t a i n	1
+stair	s t a i r	1
+stake	s t a k e	1
+stamp	s t a m p	1
+stance	s t a n c e	1
+stand	s t a n d	1
+standard	s t a n d a r d	1
+standing	s t a n d i n g	1
+star	s t a r	1
+stare	s t a r e	1
+start	s t a r t	1
+starter	s t a r t e r	1
+starting	s t a r t i n g	1
+state	s t a t e	1
+statement	s t a t e m e n t	1
+station	s t a t i o n	1
+statistical	s t a t i s t i c a l	1
+statistics	s t a t i s t i c s	1
+statue	s t a t u e	1
+status	s t a t u s	1
+statute	s t a t u t e	1
+stay	s t a y	1
+steadily	s t e a d i l y	1
+steady	s t e a d y	1
+steak	s t e a k	1
+steal	s t e a l	1
+steam	s t e a m	1
+steel	s t e e l	1
+steep	s t e e p	1
+steer	s t e e r	1
+stem	s t e m	1
+step	s t e p	1
+stereotype	s t e r e o t y p e	1
+stick	s t i c k	1
+stiff	s t i f f	1
+still	s t i l l	1
+stimulate	s t i m u l a t e	1
+stimulus	s t i m u l u s	1
+stir	s t i r	1
+stock	s t o c k	1
+stomach	s t o m a c h	1
+stone	s t o n e	1
+stop	s t o p	1
+storage	s t o r a g e	1
+store	s t o r e	1
+storm	s t o r m	1
+story	s t o r y	1
+stove	s t o v e	1
+straight	s t r a i g h t	1
+straighten	s t r a i g h t e n	1
+strain	s t r a i n	1
+strange	s t r a n g e	1
+stranger	s t r a n g e r	1
+strategic	s t r a t e g i c	1
+strategy	s t r a t e g y	1
+straw	s t r a w	1
+streak	s t r e a k	1
+stream	s t r e a m	1
+street	s t r e e t	1
+strength	s t r e n g t h	1
+strengthen	s t r e n g t h e n	1
+stress	s t r e s s	1
+stretch	s t r e t c h	1
+strict	s t r i c t	1
+strictly	s t r i c t l y	1
+strike	s t r i k e	1
+striking	s t r i k i n g	1
+string	s t r i n g	1
+strip	s t r i p	1
+stroke	s t r o k e	1
+strong	s t r o n g	1
+strongly	s t r o n g l y	1
+structural	s t r u c t u r a l	1
+structure	s t r u c t u r e	1
+struggle	s t r u g g l e	1
+student	s t u d e n t	1
+studio	s t u d i o	1
+study	s t u d y	1
+stuff	s t u f f	1
+stumble	s t u m b l e	1
+stupid	s t u p i d	1
+style	s t y l e	1
+subject	s u b j e c t	1
+submit	s u b m i t	1
+subsequent	s u b s e q u e n t	1
+subsidy	s u b s i d y	1
+substance	s u b s t a n c e	1
+substantial	s u b s t a n t i a l	1
+substantially	s u b s t a n t i a l l y	1
+subtle	s u b t l e	1
+suburb	s u b u r b	1
+suburban	s u b u r b a n	1
+succeed	s u c c e e d	1
+success	s u c c e s s	1
+successful	s u c c e s s f u l	1
+successfully	s u c c e s s f u l l y	1
+such	s u c h	1
+suck	s u c k	1
+sudden	s u d d e n	1
+suddenly	s u d d e n l y	1
+sue	s u e	1
+suffer	s u f f e r	1
+suffering	s u f f e r i n g	1
+sufficient	s u f f i c i e n t	1
+sugar	s u g a r	1
+suggest	s u g g e s t	1
+suggestion	s u g g e s t i o n	1
+suicide	s u i c i d e	1
+suit	s u i t	1
+suitable	s u i t a b l e	1
+suite	s u i t e	1
+sum	s u m	1
+summary	s u m m a r y	1
+summer	s u m m e r	1
+summit	s u m m i t	1
+sun	s u n	1
+sunlight	s u n l i g h t	1
+sunny	s u n n y	1
+super	s u p e r	1
+superior	s u p e r i o r	1
+supermarket	s u p e r m a r k e t	1
+supervisor	s u p e r v i s o r	1
+supper	s u p p e r	1
+supplier	s u p p l i e r	1
+supply	s u p p l y	1
+support	s u p p o r t	1
+supporter	s u p p o r t e r	1
+supportive	s u p p o r t i v e	1
+suppose	s u p p o s e	1
+supposed	s u p p o s e d	1
+supposedly	s u p p o s e d l y	1
+supreme	s u p r e m e	1
+Supreme	s u p r e m e	1
+sure	s u r e	1
+surely	s u r e l y	1
+surface	s u r f a c e	1
+surgeon	s u r g e o n	1
+surgery	s u r g e r y	1
+surprise	s u r p r i s e	1
+surprised	s u r p r i s e d	1
+surprising	s u r p r i s i n g	1
+surprisingly	s u r p r i s i n g l y	1
+surround	s u r r o u n d	1
+surrounding	s u r r o u n d i n g	1
+surveillance	s u r v e i l l a n c e	1
+survey	s u r v e y	1
+survival	s u r v i v a l	1
+survive	s u r v i v e	1
+survivor	s u r v i v o r	1
+suspect	s u s p e c t	1
+suspend	s u s p e n d	1
+suspicion	s u s p i c i o n	1
+suspicious	s u s p i c i o u s	1
+sustain	s u s t a i n	1
+sustainable	s u s t a i n a b l e	1
+swallow	s w a l l o w	1
+swear	s w e a r	1
+sweat	s w e a t	1
+sweater	s w e a t e r	1
+sweep	s w e e p	1
+sweet	s w e e t	1
+swell	s w e l l	1
+swim	s w i m	1
+swimming	s w i m m i n g	1
+swing	s w i n g	1
+switch	s w i t c h	1
+sword	s w o r d	1
+symbol	s y m b o l	1
+symbolic	s y m b o l i c	1
+sympathetic	s y m p a t h e t i c	1
+sympathy	s y m p a t h y	1
+symptom	s y m p t o m	1
+syndrome	s y n d r o m e	1
+system	s y s t e m	1
+table	t a b l e	1
+tablespoon	t a b l e s p o o n	1
+tackle	t a c k l e	1
+tactic	t a c t i c	1
+tag	t a g	1
+tail	t a i l	1
+take	t a k e	1
+tale	t a l e	1
+talent	t a l e n t	1
+talented	t a l e n t e d	1
+talk	t a l k	1
+tall	t a l l	1
+tank	t a n k	1
+tap	t a p	1
+tape	t a p e	1
+target	t a r g e t	1
+task	t a s k	1
+taste	t a s t e	1
+tax	t a x	1
+taxi	t a x i	1
+taxpayer	t a x p a y e r	1
+tea	t e a	1
+teach	t e a c h	1
+teacher	t e a c h e r	1
+teaching	t e a c h i n g	1
+team	t e a m	1
+teammate	t e a m m a t e	1
+tear	t e a r	1
+teaspoon	t e a s p o o n	1
+technical	t e c h n i c a l	1
+technician	t e c h n i c i a n	1
+technique	t e c h n i q u e	1
+technological	t e c h n o l o g i c a l	1
+technology	t e c h n o l o g y	1
+teen	t e e n	1
+teenage	t e e n a g e	1
+teenager	t e e n a g e r	1
+telegraph	t e l e g r a p h	1
+telephone	t e l e p h o n e	1
+telescope	t e l e s c o p e	1
+television	t e l e v i s i o n	1
+tell	t e l l	1
+temperature	t e m p e r a t u r e	1
+temple	t e m p l e	1
+temporary	t e m p o r a r y	1
+tempt	t e m p t	1
+ten	t e n	1
+tend	t e n d	1
+tendency	t e n d e n c y	1
+tender	t e n d e r	1
+tennis	t e n n i s	1
+tension	t e n s i o n	1
+tent	t e n t	1
+term	t e r m	1
+terms	t e r m s	1
+terrain	t e r r a i n	1
+terrible	t e r r i b l e	1
+terribly	t e r r i b l y	1
+terrific	t e r r i f i c	1
+territory	t e r r i t o r y	1
+terror	t e r r o r	1
+terrorism	t e r r o r i s m	1
+terrorist	t e r r o r i s t	1
+test	t e s t	1
+testify	t e s t i f y	1
+testimony	t e s t i m o n y	1
+testing	t e s t i n g	1
+text	t e x t	1
+textbook	t e x t b o o k	1
+texture	t e x t u r e	1
+than	t h a n	1
+thank	t h a n k	1
+thanks	t h a n k s	1
+thanksgiving	t h a n k s g i v i n g	1
+Thanksgiving	t h a n k s g i v i n g	1
+that	t h a t	1
+the	t h e	1
+theater	t h e a t e r	1
+theatrical	t h e a t r i c a l	1
+their	t h e i r	1
+them	t h e m	1
+theme	t h e m e	1
+themselves	t h e m s e l v e s	1
+then	t h e n	1
+theological	t h e o l o g i c a l	1
+theology	t h e o l o g y	1
+theoretical	t h e o r e t i c a l	1
+theory	t h e o r y	1
+therapist	t h e r a p i s t	1
+therapy	t h e r a p y	1
+there	t h e r e	1
+thereby	t h e r e b y	1
+therefore	t h e r e f o r e	1
+these	t h e s e	1
+they	t h e y	1
+thick	t h i c k	1
+thief	t h i e f	1
+thigh	t h i g h	1
+thin	t h i n	1
+thing	t h i n g	1
+think	t h i n k	1
+thinking	t h i n k i n g	1
+third	t h i r d	1
+thirty	t h i r t y	1
+this	t h i s	1
+thorough	t h o r o u g h	1
+thoroughly	t h o r o u g h l y	1
+those	t h o s e	1
+though	t h o u g h	1
+thought	t h o u g h t	1
+thousand	t h o u s a n d	1
+thread	t h r e a d	1
+threat	t h r e a t	1
+threaten	t h r e a t e n	1
+three	t h r e e	1
+threshold	t h r e s h o l d	1
+thrive	t h r i v e	1
+throat	t h r o a t	1
+through	t h r o u g h	1
+throughout	t h r o u g h o u t	1
+throw	t h r o w	1
+thumb	t h u m b	1
+thunder	t h u n d e r	1
+thus	t h u s	1
+ticket	t i c k e t	1
+tide	t i d e	1
+tie	t i e	1
+tight	t i g h t	1
+tighten	t i g h t e n	1
+tightly	t i g h t l y	1
+tile	t i l e	1
+till	t i l l	1
+timber	t i m b e r	1
+time	t i m e	1
+timing	t i m i n g	1
+tiny	t i n y	1
+tip	t i p	1
+tire	t i r e	1
+tired	t i r e d	1
+tissue	t i s s u e	1
+title	t i t l e	1
+to	t o	1
+tobacco	t o b a c c o	1
+today	t o d a y	1
+toe	t o e	1
+together	t o g e t h e r	1
+toilet	t o i l e t	1
+tolerance	t o l e r a n c e	1
+tolerate	t o l e r a t e	1
+toll	t o l l	1
+tomato	t o m a t o	1
+tomorrow	t o m o r r o w	1
+ton	t o n	1
+tone	t o n e	1
+tongue	t o n g u e	1
+tonight	t o n i g h t	1
+too	t o o	1
+tool	t o o l	1
+tooth	t o o t h	1
+top	t o p	1
+topic	t o p i c	1
+toss	t o s s	1
+total	t o t a l	1
+totally	t o t a l l y	1
+touch	t o u c h	1
+touchdown	t o u c h d o w n	1
+tough	t o u g h	1
+tour	t o u r	1
+tourism	t o u r i s m	1
+tourist	t o u r i s t	1
+tournament	t o u r n a m e n t	1
+toward	t o w a r d	1
+towards	t o w a r d s	1
+towel	t o w e l	1
+tower	t o w e r	1
+town	t o w n	1
+toxic	t o x i c	1
+toy	t o y	1
+trace	t r a c e	1
+track	t r a c k	1
+trade	t r a d e	1
+trading	t r a d i n g	1
+tradition	t r a d i t i o n	1
+traditional	t r a d i t i o n a l	1
+traditionally	t r a d i t i o n a l l y	1
+traffic	t r a f f i c	1
+tragedy	t r a g e d y	1
+tragic	t r a g i c	1
+trail	t r a i l	1
+trailer	t r a i l e r	1
+train	t r a i n	1
+trainer	t r a i n e r	1
+training	t r a i n i n g	1
+trait	t r a i t	1
+transaction	t r a n s a c t i o n	1
+transfer	t r a n s f e r	1
+transform	t r a n s f o r m	1
+transformation	t r a n s f o r m a t i o n	1
+transit	t r a n s i t	1
+transition	t r a n s i t i o n	1
+translate	t r a n s l a t e	1
+translation	t r a n s l a t i o n	1
+transmission	t r a n s m i s s i o n	1
+transmit	t r a n s m i t	1
+transport	t r a n s p o r t	1
+transportation	t r a n s p o r t a t i o n	1
+trap	t r a p	1
+trash	t r a s h	1
+trauma	t r a u m a	1
+travel	t r a v e l	1
+traveler	t r a v e l e r	1
+tray	t r a y	1
+treasure	t r e a s u r e	1
+treasury	t r e a s u r y	1
+treat	t r e a t	1
+treatment	t r e a t m e n t	1
+treaty	t r e a t y	1
+tree	t r e e	1
+tremble	t r e m b l e	1
+tremendous	t r e m e n d o u s	1
+trend	t r e n d	1
+trial	t r i a l	1
+tribal	t r i b a l	1
+tribe	t r i b e	1
+trick	t r i c k	1
+trigger	t r i g g e r	1
+trim	t r i m	1
+trip	t r i p	1
+triumph	t r i u m p h	1
+troop	t r o o p	1
+tropical	t r o p i c a l	1
+trouble	t r o u b l e	1
+troubled	t r o u b l e d	1
+truck	t r u c k	1
+TRUE	t r u e	1
+truly	t r u l y	1
+trunk	t r u n k	1
+trust	t r u s t	1
+truth	t r u t h	1
+try	t r y	1
+t-shirt	t -s h i r t	1
+T-shirt	t -s h i r t	1
+tube	t u b e	1
+tuck	t u c k	1
+tumor	t u m o r	1
+tune	t u n e	1
+tunnel	t u n n e l	1
+turkey	t u r k e y	1
+turn	t u r n	1
+tv	t v	1
+TV	t v	1
+twelve	t w e l v e	1
+twentieth	t w e n t i e t h	1
+twenty	t w e n t y	1
+twice	t w i c e	1
+twin	t w i n	1
+twist	t w i s t	1
+two	t w o	1
+two-thirds	t w o -t h i r d s	1
+type	t y p e	1
+typical	t y p i c a l	1
+typically	t y p i c a l l y	1
+ugly	u g l y	1
+uh	u h	1
+ultimate	u l t i m a t e	1
+ultimately	u l t i m a t e l y	1
+unable	u n a b l e	1
+uncertain	u n c e r t a i n	1
+uncertainty	u n c e r t a i n t y	1
+uncle	u n c l e	1
+uncomfortable	u n c o m f o r t a b l e	1
+uncover	u n c o v e r	1
+under	u n d e r	1
+undergo	u n d e r g o	1
+undergraduate	u n d e r g r a d u a t e	1
+underlying	u n d e r l y i n g	1
+undermine	u n d e r m i n e	1
+understand	u n d e r s t a n d	1
+understanding	u n d e r s t a n d i n g	1
+undertake	u n d e r t a k e	1
+unemployment	u n e m p l o y m e n t	1
+unexpected	u n e x p e c t e d	1
+unfair	u n f a i r	1
+unfold	u n f o l d	1
+unfortunately	u n f o r t u n a t e l y	1
+unhappy	u n h a p p y	1
+uniform	u n i f o r m	1
+union	u n i o n	1
+unique	u n i q u e	1
+unit	u n i t	1
+unite	u n i t e	1
+united	u n i t e d	1
+United	u n i t e d	1
+unity	u n i t y	1
+universal	u n i v e r s a l	1
+universe	u n i v e r s e	1
+university	u n i v e r s i t y	1
+unknown	u n k n o w n	1
+unless	u n l e s s	1
+unlike	u n l i k e	1
+unlikely	u n l i k e l y	1
+unprecedented	u n p r e c e d e n t e d	1
+until	u n t i l	1
+unusual	u n u s u a l	1
+up	u p	1
+update	u p d a t e	1
+upon	u p o n	1
+upper	u p p e r	1
+upset	u p s e t	1
+upstairs	u p s t a i r s	1
+urban	u r b a n	1
+urge	u r g e	1
+urgent	u r g e n t	1
+us	u s	1
+use	u s e	1
+used	u s e d	1
+useful	u s e f u l	1
+user	u s e r	1
+usual	u s u a l	1
+usually	u s u a l l y	1
+utility	u t i l i t y	1
+utilize	u t i l i z e	1
+vacation	v a c a t i o n	1
+vaccine	v a c c i n e	1
+vacuum	v a c u u m	1
+valid	v a l i d	1
+validity	v a l i d i t y	1
+valley	v a l l e y	1
+valuable	v a l u a b l e	1
+value	v a l u e	1
+van	v a n	1
+vanish	v a n i s h	1
+variable	v a r i a b l e	1
+variation	v a r i a t i o n	1
+variety	v a r i e t y	1
+various	v a r i o u s	1
+vary	v a r y	1
+vast	v a s t	1
+vegetable	v e g e t a b l e	1
+vehicle	v e h i c l e	1
+veil	v e i l	1
+vendor	v e n d o r	1
+venture	v e n t u r e	1
+verb	v e r b	1
+verbal	v e r b a l	1
+verdict	v e r d i c t	1
+verse	v e r s e	1
+version	v e r s i o n	1
+versus	v e r s u s	1
+vertical	v e r t i c a l	1
+very	v e r y	1
+vessel	v e s s e l	1
+veteran	v e t e r a n	1
+via	v i a	1
+victim	v i c t i m	1
+victory	v i c t o r y	1
+video	v i d e o	1
+view	v i e w	1
+viewer	v i e w e r	1
+village	v i l l a g e	1
+violate	v i o l a t e	1
+violation	v i o l a t i o n	1
+violence	v i o l e n c e	1
+violent	v i o l e n t	1
+virtual	v i r t u a l	1
+virtually	v i r t u a l l y	1
+virtue	v i r t u e	1
+virus	v i r u s	1
+visible	v i s i b l e	1
+vision	v i s i o n	1
+visit	v i s i t	1
+visitor	v i s i t o r	1
+visual	v i s u a l	1
+vital	v i t a l	1
+vitamin	v i t a m i n	1
+vocal	v o c a l	1
+voice	v o i c e	1
+volume	v o l u m e	1
+voluntary	v o l u n t a r y	1
+volunteer	v o l u n t e e r	1
+vote	v o t e	1
+voter	v o t e r	1
+voting	v o t i n g	1
+voyage	v o y a g e	1
+vs	v s	1
+vulnerable	v u l n e r a b l e	1
+wage	w a g e	1
+wagon	w a g o n	1
+waist	w a i s t	1
+wait	w a i t	1
+waiter	w a i t e r	1
+wake	w a k e	1
+walk	w a l k	1
+walking	w a l k i n g	1
+wall	w a l l	1
+wander	w a n d e r	1
+want	w a n t	1
+war	w a r	1
+warehouse	w a r e h o u s e	1
+warm	w a r m	1
+warmth	w a r m t h	1
+warn	w a r n	1
+warning	w a r n i n g	1
+warrior	w a r r i o r	1
+wash	w a s h	1
+waste	w a s t e	1
+watch	w a t c h	1
+water	w a t e r	1
+wave	w a v e	1
+wax	w a x	1
+way	w a y	1
+we	w e	1
+weak	w e a k	1
+weaken	w e a k e n	1
+weakness	w e a k n e s s	1
+wealth	w e a l t h	1
+wealthy	w e a l t h y	1
+weapon	w e a p o n	1
+wear	w e a r	1
+weather	w e a t h e r	1
+weave	w e a v e	1
+web	w e b	1
+wedding	w e d d i n g	1
+weed	w e e d	1
+week	w e e k	1
+weekend	w e e k e n d	1
+weekly	w e e k l y	1
+weigh	w e i g h	1
+weight	w e i g h t	1
+weird	w e i r d	1
+welcome	w e l c o m e	1
+welfare	w e l f a r e	1
+well	w e l l	1
+well-being	w e l l -b e i n g	1
+well-known	w e l l -k n o w n	1
+west	w e s t	1
+western	w e s t e r n	1
+wet	w e t	1
+whale	w h a l e	1
+what	w h a t	1
+whatever	w h a t e v e r	1
+wheat	w h e a t	1
+wheel	w h e e l	1
+wheelchair	w h e e l c h a i r	1
+when	w h e n	1
+whenever	w h e n e v e r	1
+where	w h e r e	1
+whereas	w h e r e a s	1
+wherever	w h e r e v e r	1
+whether	w h e t h e r	1
+which	w h i c h	1
+while	w h i l e	1
+whip	w h i p	1
+whisper	w h i s p e r	1
+whistle	w h i s t l e	1
+white	w h i t e	1
+who	w h o	1
+whoever	w h o e v e r	1
+whole	w h o l e	1
+whom	w h o m	1
+whose	w h o s e	1
+why	w h y	1
+wide	w i d e	1
+widely	w i d e l y	1
+widespread	w i d e s p r e a d	1
+widow	w i d o w	1
+width	w i d t h	1
+wife	w i f e	1
+wild	w i l d	1
+wilderness	w i l d e r n e s s	1
+wildlife	w i l d l i f e	1
+will	w i l l	1
+willing	w i l l i n g	1
+willingness	w i l l i n g n e s s	1
+win	w i n	1
+wind	w i n d	1
+window	w i n d o w	1
+wine	w i n e	1
+wing	w i n g	1
+winner	w i n n e r	1
+winter	w i n t e r	1
+wipe	w i p e	1
+wire	w i r e	1
+wisdom	w i s d o m	1
+wise	w i s e	1
+wish	w i s h	1
+with	w i t h	1
+withdraw	w i t h d r a w	1
+withdrawal	w i t h d r a w a l	1
+within	w i t h i n	1
+without	w i t h o u t	1
+witness	w i t n e s s	1
+wolf	w o l f	1
+woman	w o m a n	1
+women	w o m e n	1
+wonder	w o n d e r	1
+wonderful	w o n d e r f u l	1
+wood	w o o d	1
+wooden	w o o d e n	1
+word	w o r d	1
+work	w o r k	1
+worker	w o r k e r	1
+working	w o r k i n g	1
+workout	w o r k o u t	1
+workplace	w o r k p l a c e	1
+works	w o r k s	1
+workshop	w o r k s h o p	1
+world	w o r l d	1
+worldwide	w o r l d w i d e	1
+worried	w o r r i e d	1
+worry	w o r r y	1
+worse	w o r s e	1
+worship	w o r s h i p	1
+worth	w o r t h	1
+would	w o u l d	1
+wound	w o u n d	1
+wow	w o w	1
+wrap	w r a p	1
+wreck	w r e c k	1
+wrist	w r i s t	1
+write	w r i t e	1
+writer	w r i t e r	1
+writing	w r i t i n g	1
+written	w r i t t e n	1
+wrong	w r o n g	1
+yard	y a r d	1
+yeah	y e a h	1
+year	y e a r	1
+yell	y e l l	1
+yellow	y e l l o w	1
+yes	y e s	1
+yesterday	y e s t e r d a y	1
+yet	y e t	1
+yield	y i e l d	1
+you	y o u	1
+young	y o u n g	1
+youngster	y o u n g s t e r	1
+your	y o u r	1
+yours	y o u r s	1
+yourself	y o u r s e l f	1
+youth	y o u t h	1
+zero	z e r o	1
+zone	z o n e	1
+abcde	a b c d e	1
